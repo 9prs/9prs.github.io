@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Installation & Setup (For Developers)
+## </> Installation & Setup (For Developers)
 
 ```sh
 git clone https://github.com/cam9c/cam9c.github.io.git
