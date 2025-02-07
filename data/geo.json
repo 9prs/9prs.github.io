@@ -1,0 +1,1282 @@
+[
+    {
+        "question": "What is the total geographical area of India as a percentage of the world's total area?",
+        "options": [
+            "2.4%",
+            "3.2%",
+            "2.9%",
+            "4.2%"
+        ],
+        "answer": "2.4%"
+    },
+    {
+        "question": "Which longitude is considered as the Standard Meridian of India?",
+        "options": [
+            "82°30' E",
+            "80°30' E",
+            "85°30' E",
+            "90°30' E"
+        ],
+        "answer": "82°30' E"
+    },
+    {
+        "question": "How many states and Union Territories does India have as per the latest classification?",
+        "options": [
+            "28 states and 8 UTs",
+            "29 states and 7 UTs",
+            "27 states and 9 UTs",
+            "30 states and 6 UTs"
+        ],
+        "answer": "28 states and 8 UTs"
+    },
+    {
+        "question": "Which neighboring country shares the longest border with India?",
+        "options": [
+            "China",
+            "Pakistan",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "question": "Which water body lies to the west of India?",
+        "options": [
+            "Bay of Bengal",
+            "Arabian Sea",
+            "Indian Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Arabian Sea"
+    },
+    {
+        "question": "Which Indian state has the longest coastline?",
+        "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+        ],
+        "answer": "Gujarat"
+    },
+    {
+        "question": "The Tropic of Cancer passes through how many Indian states?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which Indian island is of volcanic origin?",
+        "options": [
+            "Lakshadweep",
+            "Andaman Islands",
+            "Barren Island",
+            "Nicobar Islands"
+        ],
+        "answer": "Barren Island"
+    },
+    {
+        "question": "Which of the following is the youngest mountain range in India?",
+        "options": [
+            "Aravalli",
+            "Western Ghats",
+            "Himalayas",
+            "Vindhyas"
+        ],
+        "answer": "Himalayas"
+    },
+    {
+        "question": "Which of the following rivers originates from the Himalayas?",
+        "options": [
+            "Godavari",
+            "Ganga",
+            "Krishna",
+            "Cauvery"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which physiographic division of India is the most densely populated?",
+        "options": [
+            "Himalayan Region",
+            "Northern Plains",
+            "Peninsular Plateau",
+            "Coastal Plains"
+        ],
+        "answer": "Northern Plains"
+    },
+    {
+        "question": "Which Indian plateau is rich in minerals such as coal and iron?",
+        "options": [
+            "Deccan Plateau",
+            "Chotanagpur Plateau",
+            "Malwa Plateau",
+            "Meghalaya Plateau"
+        ],
+        "answer": "Chotanagpur Plateau"
+    },
+    {
+        "question": "Which mountain range forms the eastern boundary of the Indian subcontinent?",
+        "options": [
+            "Himalayas",
+            "Aravallis",
+            "Western Ghats",
+            "Purvanchal"
+        ],
+        "answer": "Purvanchal"
+    },
+    {
+        "question": "Which Indian river is known for its delta, one of the largest in the world?",
+        "options": [
+            "Krishna",
+            "Ganga-Brahmaputra",
+            "Godavari",
+            "Mahanadi"
+        ],
+        "answer": "Ganga-Brahmaputra"
+    },
+    {
+        "question": "Which part of the Indian subcontinent was originally a part of Gondwanaland?",
+        "options": [
+            "Northern Plains",
+            "The Himalayas",
+            "Peninsular India",
+            "Indo-Gangetic Basin"
+        ],
+        "answer": "Peninsular India"
+    },
+    {
+        "question": "Which of the following is a major feature of the Himalayan region?",
+        "options": [
+            "Alluvial soil",
+            "Glaciers",
+            "Volcanic eruptions",
+            "Sand dunes"
+        ],
+        "answer": "Glaciers"
+    },
+    {
+        "question": "Which river marks the western boundary of the Northern Plains?",
+        "options": [
+            "Ganga",
+            "Indus",
+            "Brahmaputra",
+            "Yamuna"
+        ],
+        "answer": "Indus"
+    },
+    {
+        "question": "Which region in India is prone to earthquakes due to tectonic activity?",
+        "options": [
+            "Deccan Plateau",
+            "Northern Plains",
+            "Himalayan Region",
+            "Coastal Plains"
+        ],
+        "answer": "Himalayan Region"
+    },
+    {
+        "question": "Which of these is not a part of the Northern Plains?",
+        "options": [
+            "Bhabar",
+            "Terai",
+            "Peninsula",
+            "Delta"
+        ],
+        "answer": "Peninsula"
+    },
+    {
+        "question": "Which plateau is known for its black soil, suitable for cotton cultivation?",
+        "options": [
+            "Deccan Plateau",
+            "Malwa Plateau",
+            "Chotanagpur Plateau",
+            "Bundelkhand Plateau"
+        ],
+        "answer": "Deccan Plateau"
+    },
+    {
+        "question": "Which pass is an important trade route between India and China?",
+        "options": [
+            "Nathu La",
+            "Banihal Pass",
+            "Shipki La",
+            "Khyber Pass"
+        ],
+        "answer": "Nathu La"
+    },
+    {
+        "question": "Which mountain range separates the Indian subcontinent from Tibet?",
+        "options": [
+            "Vindhyas",
+            "Satpura",
+            "Himalayas",
+            "Aravalli"
+        ],
+        "answer": "Himalayas"
+    },
+    {
+        "question": "The Northern Plains of India are mainly formed by which river system?",
+        "options": [
+            "Krishna-Godavari",
+            "Ganga-Brahmaputra-Indus",
+            "Narmada-Tapti",
+            "Mahanadi-Kaveri"
+        ],
+        "answer": "Ganga-Brahmaputra-Indus"
+    },
+    {
+        "question": "Which is the highest peak in the Indian Himalayas?",
+        "options": [
+            "Kanchenjunga",
+            "Nanda Devi",
+            "Everest",
+            "Kamet"
+        ],
+        "answer": "Kanchenjunga"
+    },
+    {
+        "question": "Which river originates from Amarkantak Plateau?",
+        "options": [
+            "Godavari",
+            "Mahanadi",
+            "Narmada",
+            "Ganga"
+        ],
+        "answer": "Narmada"
+    },
+    {
+        "question": "Which region of India is known for its sand dunes?",
+        "options": [
+            "Deccan Plateau",
+            "Thar Desert",
+            "Western Ghats",
+            "Himalayan Region"
+        ],
+        "answer": "Thar Desert"
+    },
+    {
+        "question": "Which of these rivers is a west-flowing river?",
+        "options": [
+            "Godavari",
+            "Krishna",
+            "Narmada",
+            "Ganga"
+        ],
+        "answer": "Narmada"
+    },
+    {
+        "question": "Which of the following separates the Peninsular Plateau from the Northern Plains?",
+        "options": [
+            "Aravalli Range",
+            "Vindhya Range",
+            "Satpura Range",
+            "Eastern Ghats"
+        ],
+        "answer": "Vindhya Range"
+    },
+    {
+        "question": "Which of these physiographic divisions of India is the oldest?",
+        "options": [
+            "Himalayas",
+            "Northern Plains",
+            "Peninsular Plateau",
+            "Coastal Plains"
+        ],
+        "answer": "Peninsular Plateau"
+    },
+    {
+        "question": "Which pass provides a link between Ladakh and Kashmir Valley?",
+        "options": [
+            "Nathu La",
+            "Banihal Pass",
+            "Karakoram Pass",
+            "Shipki La"
+        ],
+        "answer": "Banihal Pass"
+    },
+    {
+        "question": "The Western Ghats are also known as?",
+        "options": [
+            "Vindhyas",
+            "Sahyadris",
+            "Nilgiris",
+            "Satpura"
+        ],
+        "answer": "Sahyadris"
+    },
+    {
+        "question": "Which Indian state has the largest number of glaciers?",
+        "options": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Sikkim",
+            "Jammu & Kashmir"
+        ],
+        "answer": "Jammu & Kashmir"
+    },
+    {
+        "question": "The Aravalli Hills extend across which two states?",
+        "options": [
+            "Rajasthan & Gujarat",
+            "Madhya Pradesh & Maharashtra",
+            "Uttar Pradesh & Bihar",
+            "Haryana & Punjab"
+        ],
+        "answer": "Rajasthan & Gujarat"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Ganga",
+            "Brahmaputra",
+            "Godavari",
+            "Yamuna"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which river is known as the 'Sorrow of Bengal'?",
+        "options": [
+            "Kosi",
+            "Damodar",
+            "Mahanadi",
+            "Hooghly"
+        ],
+        "answer": "Damodar"
+    },
+    {
+        "question": "Which river originates from the Amarkantak Plateau?",
+        "options": [
+            "Narmada",
+            "Tapi",
+            "Godavari",
+            "Krishna"
+        ],
+        "answer": "Narmada"
+    },
+    {
+        "question": "Which river is known as the ‘Sorrow of Bihar’?",
+        "options": [
+            "Kosi",
+            "Ganga",
+            "Brahmaputra",
+            "Son"
+        ],
+        "answer": "Kosi"
+    },
+    {
+        "question": "Which river is called the ‘Dakshina Ganga’?",
+        "options": [
+            "Krishna",
+            "Kaveri",
+            "Godavari",
+            "Mahanadi"
+        ],
+        "answer": "Godavari"
+    },
+    {
+        "question": "Which river forms the largest delta in the world?",
+        "options": [
+            "Ganga-Brahmaputra",
+            "Krishna-Godavari",
+            "Indus-Sutlej",
+            "Mahanadi-Brahmani"
+        ],
+        "answer": "Ganga-Brahmaputra"
+    },
+    {
+        "question": "Which is the main tributary of the Ganga that flows through the capital of India?",
+        "options": [
+            "Yamuna",
+            "Son",
+            "Gandak",
+            "Ghaghara"
+        ],
+        "answer": "Yamuna"
+    },
+    {
+        "question": "Which river originates from Mansarovar Lake?",
+        "options": [
+            "Brahmaputra",
+            "Indus",
+            "Ganga",
+            "Sutlej"
+        ],
+        "answer": "Indus"
+    },
+    {
+        "question": "Which is the largest tributary of the Indus River?",
+        "options": [
+            "Jhelum",
+            "Chenab",
+            "Beas",
+            "Ravi"
+        ],
+        "answer": "Chenab"
+    },
+    {
+        "question": "Which is the largest freshwater lake in India?",
+        "options": [
+            "Wular Lake",
+            "Dal Lake",
+            "Chilika Lake",
+            "Sambhar Lake"
+        ],
+        "answer": "Wular Lake"
+    },
+    {
+        "question": "Which river is known for forming the spectacular 'Gokak Falls'?",
+        "options": [
+            "Krishna",
+            "Tungabhadra",
+            "Sharavati",
+            "Ghataprabha"
+        ],
+        "answer": "Ghataprabha"
+    },
+    {
+        "question": "Which river has the Hirakud Dam built on it?",
+        "options": [
+            "Mahanadi",
+            "Godavari",
+            "Krishna",
+            "Narmada"
+        ],
+        "answer": "Mahanadi"
+    },
+    {
+        "question": "Which river does not originate in India but still flows through it?",
+        "options": [
+            "Brahmaputra",
+            "Ganga",
+            "Godavari",
+            "Kaveri"
+        ],
+        "answer": "Brahmaputra"
+    },
+    {
+        "question": "Which is the only major east-flowing river of the Peninsular India?",
+        "options": [
+            "Narmada",
+            "Tapi",
+            "Mahanadi",
+            "Indus"
+        ],
+        "answer": "Mahanadi"
+    },
+    {
+        "question": "Which river has formed the famous Jog Falls?",
+        "options": [
+            "Sharavati",
+            "Krishna",
+            "Godavari",
+            "Tungabhadra"
+        ],
+        "answer": "Sharavati"
+    },
+    {
+        "question": "Which river is the main water source for Rajasthan?",
+        "options": [
+            "Chambal",
+            "Luni",
+            "Sabarmati",
+            "Mahi"
+        ],
+        "answer": "Luni"
+    },
+    {
+        "question": "Which river forms the boundary between India and Bangladesh before merging into the Bay of Bengal?",
+        "options": [
+            "Teesta",
+            "Brahmaputra",
+            "Ganga",
+            "Meghna"
+        ],
+        "answer": "Teesta"
+    },
+    {
+        "question": "Which river is known as the lifeline of Madhya Pradesh and Gujarat?",
+        "options": [
+            "Tapi",
+            "Mahanadi",
+            "Narmada",
+            "Godavari"
+        ],
+        "answer": "Narmada"
+    },
+    {
+        "question": "Which lake in India is a brackish water lagoon?",
+        "options": [
+            "Dal Lake",
+            "Wular Lake",
+            "Chilika Lake",
+            "Loktak Lake"
+        ],
+        "answer": "Chilika Lake"
+    },
+    {
+        "question": "Which of the following rivers is NOT a tributary of the Ganga?",
+        "options": [
+            "Son",
+            "Ghaghara",
+            "Gandak",
+            "Sutlej"
+        ],
+        "answer": "Sutlej"
+    },
+    {
+        "question": "Which is the second-longest river in India after the Ganga?",
+        "options": [
+            "Yamuna",
+            "Godavari",
+            "Krishna",
+            "Mahanadi"
+        ],
+        "answer": "Godavari"
+    },
+    {
+        "question": "Which river basin is known as the ‘Rice Bowl of India’?",
+        "options": [
+            "Krishna",
+            "Kaveri",
+            "Godavari",
+            "Mahanadi"
+        ],
+        "answer": "Godavari"
+    },
+    {
+        "question": "Which is the largest river of South India?",
+        "options": [
+            "Krishna",
+            "Godavari",
+            "Cauvery",
+            "Mahanadi"
+        ],
+        "answer": "Godavari"
+    },
+    {
+        "question": "Which river is known for the famous 'Pench National Park'?",
+        "options": [
+            "Narmada",
+            "Godavari",
+            "Krishna",
+            "Pench"
+        ],
+        "answer": "Pench"
+    },
+    {
+        "question": "Which of the following is a west-flowing river?",
+        "options": [
+            "Godavari",
+            "Mahanadi",
+            "Krishna",
+            "Tapi"
+        ],
+        "answer": "Tapi"
+    },
+    {
+        "question": "Which factor is primarily responsible for India's monsoon type climate?",
+        "options": [
+            "Latitude",
+            "Altitude",
+            "Pressure and Wind System",
+            "Ocean Currents"
+        ],
+        "answer": "Pressure and Wind System"
+    },
+    {
+        "question": "Which months are considered as the retreating monsoon season in India?",
+        "options": [
+            "March-May",
+            "June-September",
+            "October-November",
+            "December-February"
+        ],
+        "answer": "October-November"
+    },
+    {
+        "question": "Which of the following regions receives the highest rainfall in India?",
+        "options": [
+            "Western Ghats",
+            "Rajasthan",
+            "Thar Desert",
+            "Leh-Ladakh"
+        ],
+        "answer": "Western Ghats"
+    },
+    {
+        "question": "What is the primary cause of the Indian monsoon?",
+        "options": [
+            "Differential heating of land and sea",
+            "Ocean currents",
+            "Jet streams",
+            "Latitude"
+        ],
+        "answer": "Differential heating of land and sea"
+    },
+    {
+        "question": "Which wind pattern is responsible for bringing rainfall to India during the monsoon season?",
+        "options": [
+            "Westerlies",
+            "Trade Winds",
+            "Southwest Monsoon",
+            "Easterlies"
+        ],
+        "answer": "Southwest Monsoon"
+    },
+    {
+        "question": "Which region in India receives the least rainfall?",
+        "options": [
+            "Thar Desert",
+            "Cherrapunji",
+            "Western Ghats",
+            "Northeast India"
+        ],
+        "answer": "Thar Desert"
+    },
+    {
+        "question": "Which factor influences the climate of India the most?",
+        "options": [
+            "Proximity to the equator",
+            "Monsoon winds",
+            "Ocean currents",
+            "Cyclones"
+        ],
+        "answer": "Monsoon winds"
+    },
+    {
+        "question": "Which of the following statements about the ITCZ (Inter-Tropical Convergence Zone) is true?",
+        "options": [
+            "It is a permanent wind system",
+            "It shifts north and south seasonally",
+            "It is located at 60\u00b0 latitude",
+            "It does not affect India\u2019s climate"
+        ],
+        "answer": "It shifts north and south seasonally"
+    },
+    {
+        "question": "Which city experiences extreme climate due to its inland location?",
+        "options": [
+            "Mumbai",
+            "Kolkata",
+            "Delhi",
+            "Chennai"
+        ],
+        "answer": "Delhi"
+    },
+    {
+        "question": "What is the role of the Himalayas in India's climate?",
+        "options": [
+            "They prevent cold winds from Central Asia",
+            "They attract cyclones",
+            "They increase summer temperatures",
+            "They have no impact"
+        ],
+        "answer": "They prevent cold winds from Central Asia"
+    },
+    {
+        "question": "Which region in India experiences the highest diurnal temperature variation?",
+        "options": [
+            "Coastal regions",
+            "Himalayan region",
+            "Thar Desert",
+            "Northeast India"
+        ],
+        "answer": "Thar Desert"
+    },
+    {
+        "question": "Which Indian city receives rainfall both in summer and winter?",
+        "options": [
+            "Mumbai",
+            "Chennai",
+            "Kolkata",
+            "Jaipur"
+        ],
+        "answer": "Chennai"
+    },
+    {
+        "question": "What is the main reason for the retreat of the monsoon in India?",
+        "options": [
+            "Cooling of land",
+            "Change in Earth's axis",
+            "Increase in sea temperature",
+            "High-pressure system over land"
+        ],
+        "answer": "Cooling of land"
+    },
+    {
+        "question": "Which state experiences the coldest winters in India?",
+        "options": [
+            "Punjab",
+            "Himachal Pradesh",
+            "Rajasthan",
+            "Madhya Pradesh"
+        ],
+        "answer": "Himachal Pradesh"
+    },
+    {
+        "question": "What is the average annual rainfall in India?",
+        "options": [
+            "150 cm",
+            "100 cm",
+            "75 cm",
+            "200 cm"
+        ],
+        "answer": "100 cm"
+    },
+    {
+        "question": "Which state receives rainfall from both the southwest and northeast monsoons?",
+        "options": [
+            "Maharashtra",
+            "West Bengal",
+            "Tamil Nadu",
+            "Kerala"
+        ],
+        "answer": "Tamil Nadu"
+    },
+    {
+        "question": "Which of the following is NOT a local wind in India?",
+        "options": [
+            "Loo",
+            "Kalbaisakhi",
+            "Mistral",
+            "Mango showers"
+        ],
+        "answer": "Mistral"
+    },
+    {
+        "question": "Which Indian state receives the first monsoon showers?",
+        "options": [
+            "Tamil Nadu",
+            "Kerala",
+            "Odisha",
+            "West Bengal"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "Which term describes the sudden violent storms during summer in North India?",
+        "options": [
+            "Kalbaisakhi",
+            "Loo",
+            "Mango showers",
+            "Cyclone"
+        ],
+        "answer": "Kalbaisakhi"
+    },
+    {
+        "question": "Which phenomenon brings rainfall to the northwestern part of India during winter?",
+        "options": [
+            "Western Disturbances",
+            "Monsoon winds",
+            "Cyclones",
+            "Loo"
+        ],
+        "answer": "Western Disturbances"
+    },
+    {
+        "question": "Which area receives the highest rainfall in India?",
+        "options": [
+            "Cherrapunji",
+            "Mawsynram",
+            "Agumbe",
+            "Mumbai"
+        ],
+        "answer": "Mawsynram"
+    },
+    {
+        "question": "What is the average duration of the monsoon in India?",
+        "options": [
+            "2 months",
+            "4 months",
+            "6 months",
+            "8 months"
+        ],
+        "answer": "4 months"
+    },
+    {
+        "question": "Which wind pattern is responsible for the northeast monsoon in India?",
+        "options": [
+            "Southwest Monsoon",
+            "Western Disturbances",
+            "Trade Winds",
+            "Easterlies"
+        ],
+        "answer": "Easterlies"
+    },
+    {
+        "question": "Why does the Thar Desert receive very little rainfall?",
+        "options": [
+            "High altitude",
+            "Rain-shadow effect",
+            "Proximity to the sea",
+            "Cool ocean currents"
+        ],
+        "answer": "Rain-shadow effect"
+    },
+    {
+        "question": "What is the reason behind the high humidity in coastal regions of India?",
+        "options": [
+            "Proximity to the sea",
+            "High altitude",
+            "Dense vegetation",
+            "Monsoon winds"
+        ],
+        "answer": "Proximity to the sea"
+    },
+    {
+        "question": "Which type of vegetation is found in areas receiving more than 200 cm of rainfall?",
+        "options": [
+            "Tropical Evergreen Forests",
+            "Tropical Deciduous Forests",
+            "Thorny Bushes",
+            "Mangrove Forests"
+        ],
+        "answer": "Tropical Evergreen Forests"
+    },
+    {
+        "question": "Which trees are commonly found in tropical evergreen forests?",
+        "options": [
+            "Sal and Teak",
+            "Ebony and Mahogany",
+            "Pine and Fir",
+            "Babul and Date Palm"
+        ],
+        "answer": "Ebony and Mahogany"
+    },
+    {
+        "question": "Which type of forests are also called monsoon forests?",
+        "options": [
+            "Tropical Evergreen Forests",
+            "Tropical Deciduous Forests",
+            "Mangrove Forests",
+            "Mountain Forests"
+        ],
+        "answer": "Tropical Deciduous Forests"
+    },
+    {
+        "question": "Which forests are the most widespread in India?",
+        "options": [
+            "Tropical Evergreen",
+            "Tropical Deciduous",
+            "Thorny Forests",
+            "Mangrove Forests"
+        ],
+        "answer": "Tropical Deciduous"
+    },
+    {
+        "question": "Which trees are found in tropical deciduous forests?",
+        "options": [
+            "Ebony and Mahogany",
+            "Sal and Teak",
+            "Pine and Fir",
+            "Sundari and Keora"
+        ],
+        "answer": "Sal and Teak"
+    },
+    {
+        "question": "Which type of vegetation is found in desert regions of India?",
+        "options": [
+            "Thorny Bushes",
+            "Evergreen Forests",
+            "Mangrove Forests",
+            "Deciduous Forests"
+        ],
+        "answer": "Thorny Bushes"
+    },
+    {
+        "question": "Which tree is most commonly found in thorny vegetation?",
+        "options": [
+            "Teak",
+            "Pine",
+            "Babul",
+            "Ebony"
+        ],
+        "answer": "Babul"
+    },
+    {
+        "question": "Which type of vegetation is found in coastal areas and river deltas?",
+        "options": [
+            "Tropical Evergreen Forests",
+            "Thorny Forests",
+            "Mangrove Forests",
+            "Deciduous Forests"
+        ],
+        "answer": "Mangrove Forests"
+    },
+    {
+        "question": "Which tree is commonly found in mangrove forests?",
+        "options": [
+            "Sal",
+            "Teak",
+            "Sundari",
+            "Deodar"
+        ],
+        "answer": "Sundari"
+    },
+    {
+        "question": "Which forests are found in the Himalayan region?",
+        "options": [
+            "Evergreen Forests",
+            "Mountain Forests",
+            "Thorny Forests",
+            "Deciduous Forests"
+        ],
+        "answer": "Mountain Forests"
+    },
+    {
+        "question": "Which trees are commonly found in mountain forests at higher altitudes?",
+        "options": [
+            "Sal and Teak",
+            "Pine and Fir",
+            "Babul and Date Palm",
+            "Sundari and Keora"
+        ],
+        "answer": "Pine and Fir"
+    },
+    {
+        "question": "Which region of India has the maximum forest cover?",
+        "options": [
+            "Western Ghats",
+            "North-Eastern Region",
+            "Thar Desert",
+            "Indo-Gangetic Plain"
+        ],
+        "answer": "North-Eastern Region"
+    },
+    {
+        "question": "Which of the following states has the largest area under forest cover?",
+        "options": [
+            "Madhya Pradesh",
+            "Rajasthan",
+            "Punjab",
+            "Haryana"
+        ],
+        "answer": "Madhya Pradesh"
+    },
+    {
+        "question": "Which type of vegetation helps in preventing coastal erosion?",
+        "options": [
+            "Evergreen Forests",
+            "Mangrove Forests",
+            "Deciduous Forests",
+            "Thorny Bushes"
+        ],
+        "answer": "Mangrove Forests"
+    },
+    {
+        "question": "Which tree is known as the national tree of India?",
+        "options": [
+            "Neem",
+            "Banyan",
+            "Sal",
+            "Teak"
+        ],
+        "answer": "Banyan"
+    },
+    {
+        "question": "Which vegetation region in India has the least biodiversity?",
+        "options": [
+            "Western Ghats",
+            "Himalayas",
+            "Thar Desert",
+            "Sundarbans"
+        ],
+        "answer": "Thar Desert"
+    },
+    {
+        "question": "Which tree is highly valued for making railway sleepers?",
+        "options": [
+            "Banyan",
+            "Teak",
+            "Neem",
+            "Ebony"
+        ],
+        "answer": "Teak"
+    },
+    {
+        "question": "Which type of vegetation is most affected by deforestation?",
+        "options": [
+            "Evergreen Forests",
+            "Thorny Forests",
+            "Mangrove Forests",
+            "Grasslands"
+        ],
+        "answer": "Evergreen Forests"
+    },
+    {
+        "question": "Which organization is responsible for forest conservation in India?",
+        "options": [
+            "Forest Survey of India",
+            "Wildlife Institute of India",
+            "Indian Meteorological Department",
+            "National Biodiversity Authority"
+        ],
+        "answer": "Forest Survey of India"
+    },
+    {
+        "question": "What percentage of India's land area should ideally be under forest cover as per the National Forest Policy?",
+        "options": [
+            "25%",
+            "30%",
+            "33%",
+            "40%"
+        ],
+        "answer": "33%"
+    },
+    {
+        "question": "Which of the following is a medicinal plant found in India?",
+        "options": [
+            "Teak",
+            "Sandalwood",
+            "Cactus",
+            "Rosewood"
+        ],
+        "answer": "Sandalwood"
+    },
+    {
+        "question": "Which tree is widely used for making perfumes and essential oils?",
+        "options": [
+            "Teak",
+            "Sandalwood",
+            "Sal",
+            "Ebony"
+        ],
+        "answer": "Sandalwood"
+    },
+    {
+        "question": "Which factor is NOT responsible for the variation in natural vegetation in India?",
+        "options": [
+            "Climate",
+            "Soil",
+            "Altitude",
+            "Population Density"
+        ],
+        "answer": "Population Density"
+    },
+    {
+        "question": "Which type of forest provides valuable timber such as teak and sal?",
+        "options": [
+            "Tropical Evergreen",
+            "Tropical Deciduous",
+            "Thorny",
+            "Mangrove"
+        ],
+        "answer": "Tropical Deciduous"
+    },
+    {
+        "question": "Which tree is commonly used in making paper pulp?",
+        "options": [
+            "Teak",
+            "Sal",
+            "Eucalyptus",
+            "Neem"
+        ],
+        "answer": "Eucalyptus"
+    },
+    {
+        "question": "What is the total population of India according to the 2011 Census?",
+        "options": [
+            "1.21 billion",
+            "1.31 billion",
+            "1.11 billion",
+            "1.41 billion"
+        ],
+        "answer": "1.21 billion"
+    },
+    {
+        "question": "Which state in India has the highest population?",
+        "options": [
+            "Maharashtra",
+            "Uttar Pradesh",
+            "Bihar",
+            "West Bengal"
+        ],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "question": "Which state in India has the lowest population?",
+        "options": [
+            "Goa",
+            "Sikkim",
+            "Arunachal Pradesh",
+            "Lakshadweep"
+        ],
+        "answer": "Sikkim"
+    },
+    {
+        "question": "What is the literacy rate of India as per Census 2011?",
+        "options": [
+            "65.4%",
+            "72.1%",
+            "74.0%",
+            "78.5%"
+        ],
+        "answer": "74.0%"
+    },
+    {
+        "question": "Which city is the most populated in India?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Bangalore"
+        ],
+        "answer": "Mumbai"
+    },
+    {
+        "question": "Which factor is NOT a determinant of population growth?",
+        "options": [
+            "Birth rate",
+            "Death rate",
+            "Migration",
+            "Climate change"
+        ],
+        "answer": "Climate change"
+    },
+    {
+        "question": "What does the term 'Density of Population' mean?",
+        "options": [
+            "Number of people per household",
+            "Number of people per square kilometer",
+            "Total number of people in a country",
+            "Number of working individuals in a state"
+        ],
+        "answer": "Number of people per square kilometer"
+    },
+    {
+        "question": "Which state has the highest population density in India?",
+        "options": [
+            "West Bengal",
+            "Kerala",
+            "Bihar",
+            "Uttar Pradesh"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "What is the sex ratio in India according to Census 2011?",
+        "options": [
+            "940 females per 1000 males",
+            "900 females per 1000 males",
+            "950 females per 1000 males",
+            "925 females per 1000 males"
+        ],
+        "answer": "940 females per 1000 males"
+    },
+    {
+        "question": "Which Indian state has the highest sex ratio?",
+        "options": [
+            "Kerala",
+            "Tamil Nadu",
+            "Punjab",
+            "Haryana"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "Which Indian state has the lowest sex ratio?",
+        "options": [
+            "Haryana",
+            "Bihar",
+            "Rajasthan",
+            "Punjab"
+        ],
+        "answer": "Haryana"
+    },
+    {
+        "question": "Which of the following is NOT a reason for population growth?",
+        "options": [
+            "High birth rate",
+            "Low death rate",
+            "Urbanization",
+            "Improved healthcare"
+        ],
+        "answer": "Urbanization"
+    },
+    {
+        "question": "What is the main reason for rural-to-urban migration in India?",
+        "options": [
+            "Climatic conditions",
+            "Educational opportunities",
+            "Employment opportunities",
+            "Better healthcare"
+        ],
+        "answer": "Employment opportunities"
+    },
+    {
+        "question": "Which age group is considered as the working population?",
+        "options": [
+            "0-14 years",
+            "15-59 years",
+            "60+ years",
+            "All age groups"
+        ],
+        "answer": "15-59 years"
+    },
+    {
+        "question": "Which sector in India employs the largest portion of the population?",
+        "options": [
+            "Agriculture",
+            "Industries",
+            "Services",
+            "Trade"
+        ],
+        "answer": "Agriculture"
+    },
+    {
+        "question": "What is the main cause of declining death rates in India?",
+        "options": [
+            "Increased literacy",
+            "Better medical facilities",
+            "More employment",
+            "Industrialization"
+        ],
+        "answer": "Better medical facilities"
+    },
+    {
+        "question": "Which Indian state has the highest literacy rate?",
+        "options": [
+            "Tamil Nadu",
+            "Maharashtra",
+            "Kerala",
+            "Punjab"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "What is meant by 'demographic transition'?",
+        "options": [
+            "Change in the population structure over time",
+            "Increase in birth rate",
+            "Decrease in death rate",
+            "Migration from villages to cities"
+        ],
+        "answer": "Change in the population structure over time"
+    },
+    {
+        "question": "What is the primary reason for high population growth in India?",
+        "options": [
+            "Early marriage",
+            "High birth rate",
+            "Low death rate",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the name of the census conducted every ten years in India?",
+        "options": [
+            "Demographic Survey",
+            "National Population Count",
+            "Indian Census",
+            "People\u2019s Survey"
+        ],
+        "answer": "Indian Census"
+    }
+]
