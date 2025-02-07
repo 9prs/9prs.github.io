@@ -1,11 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>9 'C': Test Dashboard</title>
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="submit.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
 </head>
+
 <body>
-    <h1>Hello World</h1>
+    <div id="main">
+        <!-- <div class="loader">Loading Questions...</div> -->
+        <div id="questions-app">
+            <div class="question"></div>
+            <div class="options">
+                <div class="option"><i class="ri-circle-line"></i>
+                    <div class="txt"></div>
+                </div>
+                <div class="option"><i class="ri-circle-line"></i>
+                    <div class="txt"></div>
+                </div>
+                <div class="option"><i class="ri-circle-line"></i>
+                    <div class="txt"></div>
+                </div>
+                <div class="option"><i class="ri-circle-line"></i>
+                    <div class="txt"></div>
+                </div>
+            </div>
+            <div class="navigations">
+                <div class="left">
+                    <i class="ri-arrow-left-line"></i>
+                </div>
+                <div class="submit">
+                    <button>
+                        <span class="circle1"></span>
+                        <span class="circle2"></span>
+                        <span class="circle3"></span>
+                        <span class="circle4"></span>
+                        <span class="circle5"></span>
+                        <span class="text">Submit</span>
+                    </button>
+                </div>
+                <div class="right">
+                    <i class="ri-arrow-right-line"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="warning"></div>
+    <script src="script.js"></script>
+    <script src="submit.js"></script>
 </body>
+
 </html>

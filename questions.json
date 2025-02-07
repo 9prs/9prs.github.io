@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+        ],
+        "answer": "Delhi"
+    },
+    {
+        "question": "Who is the current Prime Minister of India?",
+        "options": [
+            "Narendra Modi",
+            "Rahul Gandhi",
+            "Arvind Kejriwal",
+            "Amit Shah"
+        ],
+        "answer": "Narendra Modi"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule",
+            "Watt"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Earth",
+            "Jupiter",
+            "Venus"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "100°C",
+            "0°C",
+            "50°C",
+            "200°C"
+        ],
+        "answer": "100°C"
+    },
+    {
+        "question": "Who is the current President of India?",
+        "options": [
+            "Droupadi Murmu",
+            "Pratibha Patil",
+            "Ram Nath Kovind",
+            "Sonia Gandhi"
+        ],
+        "answer": "Droupadi Murmu"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "H2O",
+            "O2",
+            "H2",
+            "CO2"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "question": "What is the largest planet in the Solar System?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Earth",
+            "Mars"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Brain",
+            "Lungs"
+        ],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the full form of DNA?",
+        "options": [
+            "Deoxyribonucleic Acid",
+            "Deoxynucleic Acid",
+            "Dinucleic Acid",
+            "Dioxyribonucleic Acid"
+        ],
+        "answer": "Deoxyribonucleic Acid"
+    },
+    {
+        "question": "Which is the tallest mountain in the world?",
+        "options": [
+            "Mount Everest",
+            "K2",
+            "Kangchenjunga",
+            "Makalu"
+        ],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "What is the primary source of energy for life on Earth?",
+        "options": [
+            "Sun",
+            "Wind",
+            "Water",
+            "Geothermal Energy"
+        ],
+        "answer": "Sun"
+    },
+    {
+        "question": "Which gas is essential for the process of photosynthesis?",
+        "options": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the study of the universe called?",
+        "options": [
+            "Astronomy",
+            "Geology",
+            "Biology",
+            "Meteorology"
+        ],
+        "answer": "Astronomy"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": [
+            "0°C",
+            "-10°C",
+            "10°C",
+            "-100°C"
+        ],
+        "answer": "0°C"
+    },
+    {
+        "question": "Which vitamin is also known as ascorbic acid?",
+        "options": [
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin A",
+            "Vitamin B"
+        ],
+        "answer": "Vitamin C"
+    },
+    {
+        "question": "Who is known as the 'Missile Man of India'?",
+        "options": [
+            "APJ Abdul Kalam",
+            "Homi Bhabha",
+            "Vikram Sarabhai",
+            "C.V. Raman"
+        ],
+        "answer": "APJ Abdul Kalam"
+    },
+    {
+        "question": "What is the primary function of the roots of a plant?",
+        "options": [
+            "Absorb water and nutrients",
+            "Perform photosynthesis",
+            "Store food",
+            "Transport oxygen"
+        ],
+        "answer": "Absorb water and nutrients"
+    },
+    {
+        "question": "What is the process of converting liquid water into water vapor called?",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Precipitation",
+            "Sublimation"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": [
+            "Cell",
+            "Atom",
+            "Molecule",
+            "Tissue"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "The book Delhi is not far is written by which of these authors?",
+        "options": [
+            "Khushwant Singh",
+            "Anita Desai", 
+            "Arundhati Roy",
+            "Ruskin Bond "
+        ],                                      
+        "answer": "Ruskin Bond"
+    },
+    {
+        "question": "Book 'A brief history of time' is written by:",
+        "options": [
+            "John Green",
+            "J.K Rowling", 
+            "Suzame Colling",
+            "Stephen Hawking"
+        ],                                      
+        "answer": "Stephen Hawking"
+    },
+    {
+        "question": "'Long Walk to Freedom' is an autobiography of:",
+        "options": [
+            "Kofi Annan",
+            "John F Kennedy", 
+            "Nelson Mandela",
+            "Abrahm Linkon"
+        ],                                      
+        "answer": "Nelson Mandela"
+    },
+    {
+        "question": "To scale Mount Everest, mountaineers need to go to _____ ?",
+        "options": [
+            "Afghanistan",
+            "Bhutan", 
+            "Nepal",
+            "Myanmmar"
+        ],                                      
+        "answer": "Nepal"
+    },
+    {
+        "question": "New Delhi's Lotus Temple was designed by an architect from _____ ?",
+        "options": [
+            "Germany",
+            "Iran", 
+            "UAE",
+            "Japan"
+        ],                                      
+        "answer": "Iran"
+    },
+    {
+        "question": "In Vienna, there's a statue of Indian hockey player _____ holding four hockey sticks in four Hands ?",
+        "options": [
+            "Dhyan Chand",
+            "Dhanraj Pillay", 
+            "Udham Singh Kular",
+            "Bharat Kumar Chettri"
+        ],                                      
+        "answer": "Dhyan Chand"
+    },
+    {
+        "question": "In the context of NITI Aayog, what does ' T' stand for in NITI ?",
+        "options": [
+            "Travelling",
+            "Training", 
+            "Transforming",
+            "Transferring"
+        ],                                      
+        "answer": "Transforming"
+    },
+    {
+        "question": "What does the 'T' stand for in ATM?",
+        "options": [
+            "Teller",
+            "Trunk", 
+            "Translation",
+            "Transfer"
+        ],                                      
+        "answer": "Teller"
+    },
+    {
+        "question": "In the context of banking sector, what does 'F' stand for in IFSC?",
+        "options": [
+            "Functional",
+            "Forum", 
+            "Fiscal",
+            "Financial"
+        ],                                      
+        "answer": "Financial"
+    },
+    {
+        "question": "Wich of the following abbreviations related to categories of Indian Civil Serices is INCORRECT?",
+        "options": [
+            "IAS",
+            "ICS", 
+            "IPS",
+            "IFS"
+        ],                                      
+        "answer": "ICS"
+    }
+]
