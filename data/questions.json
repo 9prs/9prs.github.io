@@ -200,16 +200,6 @@
         "answer": "Cell"
     },
     {
-        "question": "The book Delhi is not far is written by which of these authors?",
-        "options": [
-            "Khushwant Singh",
-            "Anita Desai", 
-            "Arundhati Roy",
-            "Ruskin Bond "
-        ],                                      
-        "answer": "Ruskin Bond"
-    },
-    {
         "question": "Book 'A brief history of time' is written by:",
         "options": [
             "John Green",

@@ -9,7 +9,7 @@ let answeredArray = [];
 let answeredQuestions = [];
 
 function fetchData() {
-    return fetch('questions.json')
+    return fetch('data/questions.json')
         .then(response => response.json())
         .then(JSONdata => {
             data = JSONdata;
