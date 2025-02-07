@@ -7,10 +7,24 @@ let askedQuestions = [];
 let questionNum = 0;
 let answeredArray = [];
 let answeredQuestions = [];
-let maximumQuestionsLimit = 30;
+let maximumQuestionsLimit = 10;
+let subjects = {
+    'Physics' : "phy.json",
+    'Biology' : "bio.json",
+    'Chemistry' : "chem.json",
+    'History' : "hist.json",
+    'Economics' : "econ.json",
+    'Geography' : "geo.json",
+    'Civics' : "civics.json",
+    'Maths' : "maths.json",
+    'Literature' : "lit.json",
+    'Language' : "lang.json"
+}
+
+let selectedSubject = "History"
 
 function fetchData() {
-    return fetch('data/questions.json')
+    return fetch(`data/${subjects[selectedSubject]}`)
         .then(response => response.json())
         .then(JSONdata => {
             data = JSONdata;

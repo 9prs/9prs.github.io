@@ -1,0 +1,1112 @@
+[
+    {
+        "question": "What is the meaning of 'Massai'?",
+        "options": [
+            "My People",
+            "My Land",
+            "My Freedom",
+            "My Africa"
+        ],
+        "answer": "My People"
+    },
+    {
+        "question": "Which book was written by Hitler?",
+        "options": [
+            "Mein Kampf",
+            "German Glory",
+            "Das Kapital",
+            "Communist Manifesto"
+        ],
+        "answer": "Mein Kampf"
+    },
+    {
+        "question": "What was the symbol of the Nazi Party?",
+        "options": [
+            "Swastika",
+            "Cross",
+            "Hammer and Sickle",
+            "Eagle"
+        ],
+        "answer": "Swastika"
+    },
+    {
+        "question": "Which political party was led by Hitler?",
+        "options": [
+            "Nazi Party",
+            "Democratic Party",
+            "Liberal Party",
+            "Communist Party"
+        ],
+        "answer": "Nazi Party"
+    },
+    {
+        "question": "Which treaty was signed after World War I?",
+        "options": [
+            "Treaty of Versailles",
+            "Treaty of Frankfurt",
+            "Treaty of Brest-Litovsk",
+            "Treaty of Paris"
+        ],
+        "answer": "Treaty of Versailles"
+    },
+    {
+        "question": "Who led the Reign of Terror?",
+        "options": [
+            "Robespierre",
+            "Marat",
+            "Louis XVI",
+            "Napoleon"
+        ],
+        "answer": "Robespierre"
+    },
+    {
+        "question": "Which African community is known for cattle herding?",
+        "options": [
+            "Massai",
+            "Zulu",
+            "Bantu",
+            "Boers"
+        ],
+        "answer": "Massai"
+    },
+    {
+        "question": "Which term refers to seasonal movement of livestock?",
+        "options": [
+            "Transhumance",
+            "Herding",
+            "Migration",
+            "Nomadism"
+        ],
+        "answer": "Transhumance"
+    },
+    {
+        "question": "What was the name of the Tsar who was overthrown in 1917?",
+        "options": [
+            "Nicholas II",
+            "Alexander III",
+            "Peter I",
+            "Ivan IV"
+        ],
+        "answer": "Nicholas II"
+    },
+    {
+        "question": "Which ideology did the Bolsheviks follow?",
+        "options": [
+            "Communism",
+            "Capitalism",
+            "Monarchy",
+            "Liberalism"
+        ],
+        "answer": "Communism"
+    },
+    {
+        "question": "Which prison was stormed on 14th July 1789?",
+        "options": [
+            "Bastille",
+            "Louvre",
+            "Versailles",
+            "Tuileries"
+        ],
+        "answer": "Bastille"
+    },
+    {
+        "question": "What document declared the rights of man and citizen?",
+        "options": [
+            "Declaration of the Rights of Man and Citizen",
+            "Treaty of Paris",
+            "Napoleonic Code",
+            "Civil Constitution of the Clergy"
+        ],
+        "answer": "Declaration of the Rights of Man and Citizen"
+    },
+    {
+        "question": "Which year did Hitler become Chancellor of Germany?",
+        "options": [
+            "1933",
+            "1929",
+            "1935",
+            "1941"
+        ],
+        "answer": "1933"
+    },
+    {
+        "question": "Which treaty ended Russia\u2019s involvement in WWI?",
+        "options": [
+            "Treaty of Brest-Litovsk",
+            "Treaty of Moscow",
+            "Treaty of Versailles",
+            "Treaty of Paris"
+        ],
+        "answer": "Treaty of Brest-Litovsk"
+    },
+    {
+        "question": "Which year did the Russian Revolution take place?",
+        "options": [
+            "1917",
+            "1905",
+            "1923",
+            "1930"
+        ],
+        "answer": "1917"
+    },
+    {
+        "question": "Which act restricted the use of forests by local people?",
+        "options": [
+            "Indian Forest Act",
+            "Land Acquisition Act",
+            "Natural Resources Act",
+            "Timber Act"
+        ],
+        "answer": "Indian Forest Act"
+    },
+    {
+        "question": "Who was the king of France during the French Revolution?",
+        "options": [
+            "Louis XVI",
+            "Robespierre",
+            "Napoleon",
+            "Louis XIV"
+        ],
+        "answer": "Louis XVI"
+    },
+    {
+        "question": "Which estate in France did the clergy belong to?",
+        "options": [
+            "The First Estate",
+            "The Third Estate",
+            "The Commoners",
+            "The Second Estate"
+        ],
+        "answer": "The First Estate"
+    },
+    {
+        "question": "Which device was used for executions during the French Revolution?",
+        "options": [
+            "Guillotine",
+            "Sword",
+            "Rope",
+            "Pistol"
+        ],
+        "answer": "Guillotine"
+    },
+    {
+        "question": "What was the name of the Russian Parliament?",
+        "options": [
+            "Duma",
+            "Soviet",
+            "Assembly",
+            "Congress"
+        ],
+        "answer": "Duma"
+    },
+    {
+        "question": "Which social group in France was forced to pay taxes?",
+        "options": [
+            "The Third Estate",
+            "The First Estate",
+            "The Nobility",
+            "The Second Estate"
+        ],
+        "answer": "The Third Estate"
+    },
+    {
+        "question": "Which tribe revolted against the British in 1895?",
+        "options": [
+            "Munda Tribe",
+            "Gond Tribe",
+            "Santhal Tribe",
+            "Bhils"
+        ],
+        "answer": "Munda Tribe"
+    },
+    {
+        "question": "What was the name of the political body in France before 1789?",
+        "options": [
+            "Estates General",
+            "Convention",
+            "National Assembly",
+            "Directory"
+        ],
+        "answer": "Estates General"
+    },
+    {
+        "question": "Which system was introduced by the British to manage forests?",
+        "options": [
+            "Scientific Forestry",
+            "Deforestation",
+            "Selective Cutting",
+            "Community Forestry"
+        ],
+        "answer": "Scientific Forestry"
+    },
+    {
+        "question": "Which act affected pastoralists in India?",
+        "options": [
+            "Forest Acts",
+            "Tenancy Act",
+            "Panchayat Act",
+            "Land Revenue Act"
+        ],
+        "answer": "Forest Acts"
+    },
+    {
+        "question": "Who was the leader of the Bolsheviks?",
+        "options": [
+            "Vladimir Lenin",
+            "Karl Marx",
+            "Leon Trotsky",
+            "Joseph Stalin"
+        ],
+        "answer": "Vladimir Lenin"
+    },
+    {
+        "question": "What was the main cause of the French Revolution?",
+        "options": [
+            "Social Inequality",
+            "Religious Conflicts",
+            "Colonialism",
+            "Industrial Revolution"
+        ],
+        "answer": "Social Inequality"
+    },
+    {
+        "question": "What was Hitler\u2019s secret police called?",
+        "options": [
+            "Gestapo",
+            "Red Army",
+            "Brownshirts",
+            "SS"
+        ],
+        "answer": "Gestapo"
+    },
+    {
+        "question": "What type of government was established in France after the revolution?",
+        "options": [
+            "Republic",
+            "Dictatorship",
+            "Monarchy",
+            "Oligarchy"
+        ],
+        "answer": "Republic"
+    },
+    {
+        "question": "Which Indian pastoral community is found in Gujarat?",
+        "options": [
+            "Maldharis",
+            "Santhals",
+            "Baigas",
+            "Gonds"
+        ],
+        "answer": "Maldharis"
+    },
+    {
+        "question": "Which forest act divided forests into reserved, protected, and village forests?",
+        "options": [
+            "Indian Forest Act of 1878",
+            "Forest Conservation Act",
+            "Timber Act",
+            "Biodiversity Act"
+        ],
+        "answer": "Indian Forest Act of 1878"
+    },
+    {
+        "question": "When did World War II start?",
+        "options": [
+            "1939",
+            "1945",
+            "1914",
+            "1923"
+        ],
+        "answer": "1939"
+    },
+    {
+        "question": "Which type of farming was banned by the British?",
+        "options": [
+            "Shifting Cultivation",
+            "Mixed Farming",
+            "Terrace Farming",
+            "Irrigation Farming"
+        ],
+        "answer": "Shifting Cultivation"
+    },
+    {
+        "question": "Who wrote 'The Social Contract'?",
+        "options": [
+            "Jean-Jacques Rousseau",
+            "John Locke",
+            "Voltaire",
+            "Montesquieu"
+        ],
+        "answer": "Jean-Jacques Rousseau"
+    },
+    {
+        "question": "Which movement opposed British forest policies?",
+        "options": [
+            "Chipko Movement",
+            "Swadeshi Movement",
+            "Non-Cooperation Movement",
+            "Quit India Movement"
+        ],
+        "answer": "Chipko Movement"
+    },
+    {
+        "question": "Which event led to the decline of pastoralism in Africa?",
+        "options": [
+            "Colonial Rule",
+            "Agricultural Revolution",
+            "Civil War",
+            "Industrialization"
+        ],
+        "answer": "Colonial Rule"
+    },
+    {
+        "question": "What was the main source of livelihood for pastoralists?",
+        "options": [
+            "Animal Rearing",
+            "Agriculture",
+            "Fishing",
+            "Mining"
+        ],
+        "answer": "Animal Rearing"
+    },
+    {
+        "question": "Who was the founder of communism?",
+        "options": [
+            "Karl Marx",
+            "Lenin",
+            "Stalin",
+            "Trotsky"
+        ],
+        "answer": "Karl Marx"
+    },
+    {
+        "question": "Which event triggered World War II?",
+        "options": [
+            "Invasion of Poland",
+            "Dunkirk Evacuation",
+            "Fall of France",
+            "Attack on Pearl Harbor"
+        ],
+        "answer": "Invasion of Poland"
+    },
+    {
+        "question": "Which of the follwing was the part of Lenin's April Thesis?",
+        "options": [
+            "Nationalizing the Banks",
+            "Capitalist Reform",
+            "Five Year Plan",
+            "Civil Rights"
+        ],
+        "answer": "Nationalizing the Banks"
+    },
+    {
+        "question": "Which region is famous for Massai pastoralists?",
+        "options": [
+            "Eastern Africa",
+            "Southern Africa",
+            "Northern Africa",
+            "Western Africa"
+        ],
+        "answer": "Eastern Africa"
+    },
+    {
+        "question": "What was Lenin\u2019s slogan during the revolution?",
+        "options": [
+            "Peace, Land, and Bread",
+            "One Nation, One Leader",
+            "Workers of the World Unite",
+            "Liberty, Equality, Fraternity"
+        ],
+        "answer": "Peace, Land, and Bread"
+    },
+    {
+        "question": "What was the name of the radical group that led the revolution?",
+        "options": [
+            "Jacobins",
+            "Moderates",
+            "Girondins",
+            "Royalists"
+        ],
+        "answer": "Jacobins"
+    },
+    {
+        "question": "Which philosopher influenced the idea of separation of powers?",
+        "options": [
+            "Montesquieu",
+            "Voltaire",
+            "Locke",
+            "Rousseau"
+        ],
+        "answer": "Montesquieu"
+    },
+    {
+        "question": "Which law abolished feudal privileges in France?",
+        "options": [
+            "Abolition of Feudal System",
+            "Napoleonic Code",
+            "Declaration of Liberty",
+            "Civil Rights Act"
+        ],
+        "answer": "Abolition of Feudal System"
+    },
+    {
+        "question": "Which British official implemented scientific forestry?",
+        "options": [
+            "Dietrich Brandis",
+            "John Shore",
+            "Lord Curzon",
+            "Robert Clive"
+        ],
+        "answer": "Dietrich Brandis"
+    },
+    {
+        "question": "Which estate had no political rights before the revolution?",
+        "options": [
+            "The Third Estate",
+            "The Second Estate",
+            "The Aristocracy",
+            "The First Estate"
+        ],
+        "answer": "The Third Estate"
+    },
+    {
+        "question": "Which revolution is also known as 'Bloooddy Sunday'?",
+        "options": [
+            "1905 Revolution",
+            "Civil War",
+            "October Revolution",
+            "February Revolution"
+        ],
+        "answer": "1905 Revolution"
+    },
+    {
+        "question": "What was the name of Lenin\u2019s party?",
+        "options": [
+            "Bolshevik",
+            "Menshevik",
+            "Duma",
+            "Soviet"
+        ],
+        "answer": "Bolshevik"
+    },
+    {
+        "question": "Who was the queen of France during the revolution?",
+        "options": [
+            "Marie Antoinette",
+            "Elizabeth I",
+            "Catherine the Great",
+            "Anne Boleyn"
+        ],
+        "answer": "Marie Antoinette"
+    },
+    {
+        "question": "What was the main ideology of Nazism?",
+        "options": [
+            "Racial Supremacy",
+            "Liberalism",
+            "Communism",
+            "Democracy"
+        ],
+        "answer": "Racial Supremacy"
+    },
+    {
+        "question": "Who succeeded Lenin as the leader of USSR?",
+        "options": [
+            "Stalin",
+            "Trotsky",
+            "Gorbachev",
+            "Khrushchev"
+        ],
+        "answer": "Stalin"
+    },
+    {
+        "question": "Which community suffered the most under Hitler?",
+        "options": [
+            "Jews",
+            "Americans",
+            "Russians",
+            "French"
+        ],
+        "answer": "Jews"
+    },
+    {
+        "question": "Which product did British exploit from Indian forests?",
+        "options": [
+            "Timber",
+            "Cotton",
+            "Coal",
+            "Spices"
+        ],
+        "answer": "Timber"
+    },
+    {
+        "question": "What was the main aim of Nazi propaganda?",
+        "options": [
+            "Glorifying Hitler",
+            "Encouraging peace",
+            "Reducing nationalism",
+            "Promoting democracy"
+        ],
+        "answer": "Glorifying Hitler"
+    },
+    {
+        "question": "Why did the British encourage commercial forestry?",
+        "options": [
+            "To meet timber demands",
+            "To protect biodiversity",
+            "To provide land to farmers",
+            "To increase tourism"
+        ],
+        "answer": "To meet timber demands"
+    },
+    {
+        "question": "What was the Estates-General?",
+        "options": [
+            "A representative assembly",
+            "A revolutionary club",
+            "A military council",
+            "A tax collection agency"
+        ],
+        "answer": "A representative assembly"
+    },
+    {
+        "question": "What was the main source of livelihood for pastoralists?",
+        "options": [
+            "Animal Rearing",
+            "Fishing",
+            "Mining",
+            "Agriculture"
+        ],
+        "answer": "Animal Rearing"
+    },
+    {
+        "question": "What is transhumance?",
+        "options": [
+            "Seasonal migration of pastoralists",
+            "Rotation of crops",
+            "Industrial farming",
+            "Permanent settlement of tribes"
+        ],
+        "answer": "Seasonal migration of pastoralists"
+    },
+    {
+        "question": "Which war weakened Russia before the 1917 Revolution?",
+        "options": [
+            "Russo-Japanese War",
+            "World War II",
+            "Napoleonic Wars",
+            "Crimean War"
+        ],
+        "answer": "Russo-Japanese War"
+    },
+    {
+        "question": "What did the British introduce to control grazing lands?",
+        "options": [
+            "Grazing Tax",
+            "Land Acquisition Act",
+            "Commercial Forestry",
+            "Permanent Settlement"
+        ],
+        "answer": "Grazing Tax"
+    },
+    {
+        "question": "Which group was targeted during the Holocaust?",
+        "options": [
+            "Jews",
+            "Americans",
+            "French",
+            "Slavs"
+        ],
+        "answer": "Jews"
+    },
+    {
+        "question": "Which Act restricted Indian access to forests?",
+        "options": [
+            "Forest Act of 1878",
+            "Biodiversity Act",
+            "Wildlife Protection Act",
+            "Environmental Protection Act"
+        ],
+        "answer": "Forest Act of 1878"
+    },
+    {
+        "question": "Which document declared 'Men are born and remain free and equal in rights'?",
+        "options": [
+            "Declaration of the Rights of Man and Citizen",
+            "French Constitution of 1791",
+            "Napoleonic Code",
+            "Tennis Court Oath"
+        ],
+        "answer": "Declaration of the Rights of Man and Citizen"
+    },
+    {
+        "question": "Which Indian leader protested against British forest policies?",
+        "options": [
+            "Birsa Munda",
+            "Raja Rammohan Roy",
+            "Gandhi",
+            "Nehru"
+        ],
+        "answer": "Birsa Munda"
+    },
+    {
+        "question": "Dietrich Brandis belongs to which of the following contry?",
+        "options": [
+            "Germany",
+            "USA",
+            "Britain",
+            "France"
+        ],
+        "answer": "Dietrich Brandis"
+    },
+    {
+        "question": "Which community of Kashmir practices pastoralism?",
+        "options": [
+            "Gujjars and Bakarwals ",
+            "Santhals",
+            "Bhils",
+            "Gaddis"
+        ],
+        "answer": "Gujjars and Bakarwals"
+    },
+    {
+        "question": "Which act affected pastoralists in India?",
+        "options": [
+            "Criminal Tribes Act",
+            "Land Revenue Act",
+            "Agricultural Land Act",
+            "Indian Forest Act"
+        ],
+        "answer": "Criminal Tribes Act"
+    },
+    {
+        "question": "What was the effect of War Communism?",
+        "options": [
+            "Economic decline",
+            "Industrial growth",
+            "Improved wages",
+            "Expansion of agriculture"
+        ],
+        "answer": "Economic decline"
+    },
+    {
+        "question": "Samburu National Park is in which country?",
+        "options": [
+            "Kenya",
+            "Tanzania",
+            "Somalia",
+            "Akhand Bharat"
+        ],
+        "answer": "Kenya"
+    },
+    {
+        "question": "Serengeti National Park is in which country?",
+        "options": [
+            "Tanzania",
+            "Moon",
+            "Kenya",
+            "Ethiopia"
+        ],
+        "answer": "Tanzania"
+    },
+    {
+        "question": "Which of the following woman was active in French Revolution?",
+        "options": [
+            "Olympe de Gouges",
+            "Napolean Bonaparte",
+            "Charlotte Corday",
+            "Asha Bhosle"
+        ],
+        "answer": "Olympe de Gouges"
+    },
+    {
+        "question": "What was the Bastille?",
+        "options": [
+            "A prison",
+            "A market",
+            "A church",
+            "A palace"
+        ],
+        "answer": "A prison"
+    },
+    {
+        "question": "Which of the following was one of the reason for economic depression in Germany?",
+        "options": [
+            "Crash of WallStreet Exchange",
+            "Unawareness of people",
+            "November Criminals",
+            "Treaty of Brest-Litovsk"
+        ],
+        "answer": "Crash of WallStreet Exchange"
+    },
+    {
+        "question": "What was the Enabling Act?",
+        "options": [
+            "It gave Hitler dictatorial powers",
+            "It abolished democracy",
+            "It ended World War II",
+            "It imposed economic sanctions on Germany"
+        ],
+        "answer": "It gave Hitler dictatorial powers"
+    },
+    {
+        "question": "By what name the peple started to call the Weimar Republic?",
+        "options": [
+            "November Criminals",
+            "Zulu",
+            "Bantu",
+            "Berber"
+        ],
+        "answer": "November Criminals"
+    },
+    {
+        "question": "From the following, who participated actively from Andra Pradesh in rebellion against the British?",
+        "options": [
+            "Alluri Sitarama Raju",
+            "Santhals",
+            "Siddhu and Kanu",
+            "Gunda Dhur"
+        ],
+        "answer": "Alluri Sitarama Raju"
+    },
+    {
+        "question": "Which event triggered USA to participate in WWII?",
+        "options": [
+            "Attack on Pearl Harbor",
+            "Fall of France",
+            "Dunkirk Evacuation",
+            "Invasion of Poland"
+        ],
+        "answer": "Attack on Pearl Harbor"
+    },
+    {
+        "question": "Which event marked the end of Tsarist rule in Russia?",
+        "options": [
+            "February Revolution",
+            "1905 Revolution",
+            "October Revolution",
+            "World War I"
+        ],
+        "answer": "February Revolution"
+    },
+    {
+        "question": "Which country used the Scorched Earth Policy against whom?",
+        "options": [
+            "Dutch against Japanese",
+            "Japanese against Indonesians",
+            "USA against Britain",
+            "India against China"
+        ],
+        "answer": "Dutch against Japanese"
+    },
+    {
+        "question": "Which type of farming was also known as swidden agriculture?",
+        "options": [
+            "Shifting Cultivation",
+            "Terrace Farming",
+            "Mixed Farming",
+            "Irrigation Farming"
+        ],
+        "answer": "Shifting Cultivation"
+    },
+    {
+        "question": "In which year 'French women' got the voting rights?",
+        "options": [
+            "1948",
+            "1857",
+            "1791",
+            "1794"
+        ],
+        "answer": "1948"
+    },
+    {
+        "question": "Which movement opposed British forest policies?",
+        "options": [
+            "Chipko Movement",
+            "Non-Cooperation Movement",
+            "Quit India Movement",
+            "Swadeshi Movement"
+        ],
+        "answer": "Chipko Movement"
+    },
+    {
+        "question": "Which communities depended on forests for their livelihood?",
+        "options": [
+            "Tribal Communities",
+            "British Officials",
+            "Industrial Workers",
+            "Merchants"
+        ],
+        "answer": "Tribal Communities"
+    },
+    {
+        "question": "What was the significance of the Tennis Court Oath?",
+        "options": [
+            "It led to the formation of the National Assembly and a Constitution",
+            "It was the end of monarchy",
+            "It was a demand for religious reforms",
+            "It started the Reign of Terror"
+        ],
+        "answer": "It led to the formation of the National Assembly"
+    },
+    {
+        "question": "What is shifting cultivation also known as?",
+        "options": [
+            "Slash and Burn Agriculture",
+            "Permanent Farming",
+            "Pastoralism",
+            "Terrace Farming"
+        ],
+        "answer": "Slash and Burn Agriculture"
+    },
+    {
+        "question": "What was the main cause of the French Revolution?",
+        "options": [
+            "Social Inequality",
+            "Industrial Revolution",
+            "Religious Conflicts",
+            "Colonialism"
+        ],
+        "answer": "Social Inequality"
+    },
+    {
+        "question": "Which of the following grasslands are found on mountains?",
+        "options": [
+            "Bugyals",
+            "Savanna",
+            "Prairie",
+            "Pampas"
+        ],
+        "answer": "Bugyals"
+    },
+    {
+        "question": "What was the political impact of the Colonialism in India?",
+        "options": [
+            "Significant change",
+            "No impact",
+            "Decline in trade",
+            "Increased monarchy"
+        ],
+        "answer": "Significant change"
+    },
+    {
+        "question": "What was the cultural influence of the Russian Revolution?",
+        "options": [
+            "Increased monarchy",
+            "No impact",
+            "Significant change",
+            "Decline in trade"
+        ],
+        "answer": "Significant change"
+    },
+    {
+        "question": "Which country introduced scientific forestry in India?",
+        "options": [
+            "Portugal",
+            "Britain",
+            "Netherlands",
+            "France"
+        ],
+        "answer": "Britain"
+    },
+    {
+        "question": "What were years of economic depression in Germany?",
+        "options": [
+            "1929-32",
+            "1918-21",
+            "1924-28",
+            "No such case"
+        ],
+        "answer": "1929-32"
+    },
+    {
+        "question": "Who was the propaganda minister of Hitler?",
+        "options": [
+            "Joseph Goebbels",
+            "Hjalmar Schacht",
+            "Hitler Self",
+            "Father of Helmuth"
+        ],
+        "answer": "Joseph Goebbels"
+    },
+    {
+        "question": "Which economist was given the responsibility of ecnomic recovery of Germany?",
+        "options": [
+            "Joseph Goebbels",
+            "Hjalmar Schacht",
+            "Hitler Self",
+            "Father of Helmuth"
+        ],
+        "answer": "Hjalmar Schacht"
+    },
+    {
+        "question": "Which of the following was famous place for concentration camps?",
+        "options": [
+            "Auswitch",
+            "Poland",
+            "Prussia",
+            "Berlin"
+        ],
+        "answer": "Auswitch"
+    },
+    {
+        "question": "Which of the following was the Hitler's ideology related to geopolitics?",
+        "options": [
+            "Concept of Lebensraum",
+            "Genocidal War",
+            "Racial Supremacy",
+            "None"
+        ],
+        "answer": "Concept of Lebensraum"
+    },
+    {
+        "question": "Which of the following was the Nazi Youth Group?",
+        "options": [
+            "Jungvolk",
+            "Ghetto",
+            "Nordic German Aryans",
+            "None"
+        ],
+        "answer": "Jungvolk"
+    },
+    {
+        "question": "What was the new name of St. Petersburg?",
+        "options": [
+            "Petrograd",
+            "Moscow",
+            "Auswitch",
+            "Romania"
+        ],
+        "answer": "Petrograd"
+    },
+    {
+        "question": "Who were the Muslim reformers within the Russian Empire?",
+        "options": [
+            "Jadidists",
+            "Mir",
+            "Father Gapon",
+            "Duma"
+        ],
+        "answer": "Jadidists"
+    },
+    {
+        "question": "Who led the revolution of 1905?",
+        "options": [
+            "Father Gapon",
+            "Lenin",
+            "Tsar",
+            "Stalin"
+        ],
+        "answer": "Father Gapon"
+    },
+    {
+        "question": "Who introduced the idea of collectivisation?",
+        "options": [
+            "Lenin",
+            "Stalin",
+            "Army Officials",
+            "Nicholas II"
+        ],
+        "answer": "Stalin"
+    },
+    {
+        "question": "Which countries were in Central Powers in WWI?",
+        "options": [
+            "Germany, Austria and Turkeye",
+            "Italy and Romania",
+            "France, Britain and Russia",
+            "Japan and USA"
+        ],
+        "answer": "Germany, Austria and Turkeye"
+    },
+    {
+        "question": "In which year USSR was created?",
+        "options": [
+            "1922",
+            "1923",
+            "1921",
+            "1924"
+        ],
+        "answer": "1922"
+    },
+    {
+        "question": "Who were the whites in the civil war?",
+        "options": [
+            "pro-Tsarists",
+            "Socialist Revolutionaries",
+            "Bolsheviks",
+            "Foreign Invaders"
+        ],
+        "answer": "pro-Tsarists"
+    },
+    {
+        "question": "Who were the greens in the civil war?",
+        "options": [
+            "Socialist Revolutionaries",
+            "reds",
+            "pro-Tsarists",
+            "Bolsheviks"
+        ],
+        "answer": "Socialist Revolutionaries"
+    },
+    {
+        "question": "Who were the reds in the civil war?",
+        "options": [
+            "Bolsheviks",
+            "Japanese",
+            "Socialist Revolutionaries",
+            "pro-Tsarists"
+        ],
+        "answer": "Bolsheviks"
+    },
+    {
+        "question": "Who among the follwing were supported by other countries in civil war?",
+        "options": [
+            "whites (pro-Tsarists)",
+            "reds (Bolsheviks)",
+            "greens (Socialist Revolutionaries)",
+            "blues (hihihi... none)"
+        ],
+        "answer": "whites (pro-Tsarists)"
+    },
+    {
+        "question": "Who was the popular revolutionary from the Nethnar village?",
+        "options": [
+            "Gunda Dhur",
+            "Alluri Sitaram Raju",
+            "Birsa Munda",
+            "Sidhu and Kanu"
+        ],
+        "answer": "Gunda Dhur"
+    },
+    {
+        "question": "Which of the following was the system of providing free labour and buffaloes instead of rent?",
+        "options": [
+            "Blandongdiensten",
+            "Randublatung",
+            "Scorched-Earth Policy",
+            "Lebensraum"
+        ],
+        "answer": "Blandongdiensten"
+    },
+    {
+        "question": "Dutch belonged to which country?",
+        "options": [
+            "Portugal",
+            "Netherlands",
+            "Scotland",
+            "Greenland"
+        ],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "What was the use of sleepers?",
+        "options": [
+            "making railway tracks",
+            "making wooden ships",
+            "making log houses",
+            "natural fuel"
+        ],
+        "answer": "making railway tracks"
+    }
+]
