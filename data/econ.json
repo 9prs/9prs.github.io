@@ -1,0 +1,1072 @@
+[
+    {
+        "question": "What is the main occupation of the people in Palampur?",
+        "options": [
+            "Agriculture",
+            "Fishing",
+            "Mining",
+            "Industries"
+        ],
+        "answer": "Agriculture"
+    },
+    {
+        "question": "Which of the following is a modern farming method used in Palampur?",
+        "options": [
+            "Use of wells",
+            "Use of HYV seeds",
+            "Using ox-driven plough",
+            "none"
+        ],
+        "answer": "Use of HYV seeds"
+    },
+    {
+        "question": "What is the major source of irrigation in Palampur?",
+        "options": [
+            "Wells",
+            "Canals",
+            "Rainwater",
+            "Tube wells"
+        ],
+        "answer": "Tube wells"
+    },
+    {
+        "question": "Which sector employs the highest number of people in India?",
+        "options": [
+            "Primary sector",
+            "Secondary sector",
+            "Tertiary sector",
+            "Quaternary sector"
+        ],
+        "answer": "Primary sector"
+    },
+    {
+        "question": "Which of the following is NOT a factor of production?",
+        "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Technology"
+        ],
+        "answer": "Technology"
+    },
+    {
+        "question": "What is the literacy rate required for a country to be considered developed?",
+        "options": [
+            "50%",
+            "60%",
+            "70%",
+            "No fixed value"
+        ],
+        "answer": "No fixed value"
+    },
+    {
+        "question": "Which of the following is an example of disguised unemployment?",
+        "options": [
+            "A software engineer working part-time",
+            "A farmer's family working on the same small land",
+            "A person actively looking for a job",
+            "A government employee"
+        ],
+        "answer": "A farmer's family working on the same small land"
+    },
+    {
+        "question": "Which program was launched to reduce poverty in rural India?",
+        "options": [
+            "MNREGA",
+            "Make in India",
+            "Digital India",
+            "Smart Cities Mission"
+        ],
+        "answer": "MNREGA"
+    },
+    {
+        "question": "Which year is considered as the base year for poverty estimation in India?",
+        "options": [
+            "1999-2000",
+            "2011-12",
+            "2004-05",
+            "2009-10"
+        ],
+        "answer": "2011-12"
+    },
+    {
+        "question": "What is the full form of PDS?",
+        "options": [
+            "Public Development System",
+            "Public Distribution System",
+            "Product Delivery System",
+            "Poverty Distribution Scheme"
+        ],
+        "answer": "Public Distribution System"
+    },
+    {
+        "question": "Which factor of production is represented by the money used to buy seeds and tools?",
+        "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Enterprise"
+        ],
+        "answer": "Capital"
+    },
+    {
+        "question": "Why do farmers of Palampur grow multiple crops in a year?",
+        "options": [
+            "To increase production",
+            "To increase soil fertility",
+            "To use more water",
+            "To make land useless"
+        ],
+        "answer": "To increase production"
+    },
+    {
+        "question": "Which of the following is NOT used in modern farming?",
+        "options": [
+            "HYV seeds",
+            "Chemical fertilizers",
+            "Bullock carts",
+            "Tractors"
+        ],
+        "answer": "Bullock carts"
+    },
+    {
+        "question": "What is Green Revolution related to?",
+        "options": [
+            "Increase in food production",
+            "Increase in forests",
+            "Increase in employment",
+            "Increase in technology"
+        ],
+        "answer": "Increase in food production"
+    },
+    {
+        "question": "Which of the following activities is an example of non-farming activity?",
+        "options": [
+            "Dairy farming",
+            "Wheat farming",
+            "Paddy cultivation",
+            "Multiple cropping"
+        ],
+        "answer": "Dairy farming"
+    },
+    {
+        "question": "What is meant by \u2018People as Resource\u2019?",
+        "options": [
+            "People working in offices",
+            "People\u2019s role in the economy",
+            "Population control",
+            "People living in villages"
+        ],
+        "answer": "People\u2019s role in the economy"
+    },
+    {
+        "question": "What is the main factor that makes human resource different from other resources?",
+        "options": [
+            "It is renewable",
+            "It can improve productivity",
+            "It is expensive",
+            "It can be exported"
+        ],
+        "answer": "It can improve productivity"
+    },
+    {
+        "question": "Which of the following is NOT an indicator of human resource development?",
+        "options": [
+            "Education",
+            "Health",
+            "Employment",
+            "Land size"
+        ],
+        "answer": "Land size"
+    },
+    {
+        "question": "Which sector is associated with education and healthcare?",
+        "options": [
+            "Primary sector",
+            "Secondary sector",
+            "Tertiary sector",
+            "Quaternary sector"
+        ],
+        "answer": "Tertiary sector"
+    },
+    {
+        "question": "Which one of the following is a measure to control unemployment?",
+        "options": [
+            "Increasing population",
+            "Increasing job opportunities",
+            "Reducing education",
+            "Encouraging migration"
+        ],
+        "answer": "Increasing job opportunities"
+    },
+    {
+        "question": "What is the main criterion used to measure poverty in India?",
+        "options": [
+            "Income level",
+            "Education level",
+            "Health status",
+            "Crime rate"
+        ],
+        "answer": "Income level"
+    },
+    {
+        "question": "Which of the following is a cause of poverty in India?",
+        "options": [
+            "Low productivity in agriculture",
+            "High employment rate",
+            "Industrial growth",
+            "High literacy rate"
+        ],
+        "answer": "Low productivity in agriculture"
+    },
+    {
+        "question": "Which program was launched to help rural poor by providing 100 days of guaranteed wage employment?",
+        "options": [
+            "PM-Kisan",
+            "MNREGA",
+            "Digital India",
+            "Startup India"
+        ],
+        "answer": "MNREGA"
+    },
+    {
+        "question": "Which state in India has the highest poverty rate?",
+        "options": [
+            "Bihar",
+            "Punjab",
+            "Kerala",
+            "Goa"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "What is meant by food security?",
+        "options": [
+            "Availability of food",
+            "Accessibility to food",
+            "Affordability of food",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which organization is responsible for the Public Distribution System in India?",
+        "options": [
+            "FCI",
+            "WHO",
+            "IMF",
+            "WTO"
+        ],
+        "answer": "FCI"
+    },
+    {
+        "question": "Which of the following is a problem with the Public Distribution System?",
+        "options": [
+            "Low food production",
+            "Black marketing",
+            "Lack of land",
+            "Use of technology"
+        ],
+        "answer": "Black marketing"
+    },
+    {
+        "question": "Which state in India has the lowest percentage of food-insecure people?",
+        "options": [
+            "Punjab",
+            "Odisha",
+            "Bihar",
+            "Madhya Pradesh"
+        ],
+        "answer": "Punjab"
+    },
+    {
+        "question": "What does \u2018People as Resource\u2019 refer to?",
+        "options": [
+            "Unemployed people",
+            "People\u2019s contribution to economy",
+            "Only educated people",
+            "Landowners"
+        ],
+        "answer": "People\u2019s contribution to economy"
+    },
+    {
+        "question": "Which factor contributes the most to human capital formation?",
+        "options": [
+            "Technology",
+            "Education and health",
+            "Raw materials",
+            "Land"
+        ],
+        "answer": "Education and health"
+    },
+    {
+        "question": "What is the main cause of unemployment in India?",
+        "options": [
+            "Lack of education",
+            "High birth rate",
+            "Less job opportunities",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which sector does a teacher belong to?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Tertiary"
+    },
+    {
+        "question": "Which of the following is NOT a type of unemployment?",
+        "options": [
+            "Seasonal",
+            "Cyclical",
+            "Franchise",
+            "Disguised"
+        ],
+        "answer": "Franchise"
+    },
+    {
+        "question": "What is the main measure of poverty in India?",
+        "options": [
+            "Literacy rate",
+            "Crime rate",
+            "Income level",
+            "Land ownership"
+        ],
+        "answer": "Income level"
+    },
+    {
+        "question": "Which government scheme guarantees 100 days of wage employment?",
+        "options": [
+            "PDS",
+            "PM-Kisan",
+            "MNREGA",
+            "Digital India"
+        ],
+        "answer": "MNREGA"
+    },
+    {
+        "question": "Which state in India has the highest poverty rate?",
+        "options": [
+            "Goa",
+            "Punjab",
+            "Bihar",
+            "Kerala"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "Which of the following is NOT a cause of poverty?",
+        "options": [
+            "Unemployment",
+            "Low productivity",
+            "High literacy rate",
+            "Social discrimination"
+        ],
+        "answer": "High literacy rate"
+    },
+    {
+        "question": "Which organization sets the international poverty line?",
+        "options": [
+            "UNESCO",
+            "IMF",
+            "World Bank",
+            "WHO"
+        ],
+        "answer": "World Bank"
+    },
+    {
+        "question": "What is food security?",
+        "options": [
+            "Availability of food",
+            "Access to food",
+            "Affordability of food",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which organization runs the Public Distribution System (PDS) in India?",
+        "options": [
+            "IMF",
+            "WTO",
+            "FCI",
+            "WHO"
+        ],
+        "answer": "FCI"
+    },
+    {
+        "question": "Which state has the lowest food insecurity in India?",
+        "options": [
+            "Bihar",
+            "Odisha",
+            "Punjab",
+            "Madhya Pradesh"
+        ],
+        "answer": "Punjab"
+    },
+    {
+        "question": "What is the main reason for food insecurity?",
+        "options": [
+            "Lack of food production",
+            "Poverty",
+            "Government policies",
+            "International trade"
+        ],
+        "answer": "Poverty"
+    },
+    {
+        "question": "What is the role of buffer stock in food security?",
+        "options": [
+            "Increase food prices",
+            "Supply food during shortages",
+            "Promote private sector",
+            "Reduce exports"
+        ],
+        "answer": "Supply food during shortages"
+    },
+    {
+        "question": "Which of the following is a major factor of production?",
+        "options": [
+            "Land",
+            "Transport",
+            "Technology",
+            "Market"
+        ],
+        "answer": "Land"
+    },
+    {
+        "question": "Which non-farming activity is common in Palampur?",
+        "options": [
+            "Mining",
+            "Manufacturing",
+            "Dairy farming",
+            "Fishing"
+        ],
+        "answer": "Dairy farming"
+    },
+    {
+        "question": "Which source of irrigation is widely used in Palampur?",
+        "options": [
+            "Canals",
+            "Wells",
+            "Tube wells",
+            "Tanks"
+        ],
+        "answer": "Tube wells"
+    },
+    {
+        "question": "What is the term for growing more than one crop on a piece of land?",
+        "options": [
+            "Shifting cultivation",
+            "Multiple cropping",
+            "Subsistence farming",
+            "Organic farming"
+        ],
+        "answer": "Multiple cropping"
+    },
+    {
+        "question": "Who are the main buyers of surplus farm products in Palampur?",
+        "options": [
+            "Traders",
+            "Government",
+            "Local consumers",
+            "Self-help groups"
+        ],
+        "answer": "Traders"
+    },
+    {
+        "question": "Which factor does NOT contribute to human capital formation?",
+        "options": [
+            "Education",
+            "Health",
+            "Migration",
+            "Training"
+        ],
+        "answer": "Migration"
+    },
+    {
+        "question": "What is the literacy rate of India as per recent reports?",
+        "options": [
+            "60%",
+            "74%",
+            "85%",
+            "90%"
+        ],
+        "answer": "74%"
+    },
+    {
+        "question": "Which sector has the maximum number of workers in India?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Public"
+        ],
+        "answer": "Primary"
+    },
+    {
+        "question": "Which of the following is an example of seasonal unemployment?",
+        "options": [
+            "Agricultural laborers",
+            "Factory workers",
+            "Bank employees",
+            "Teachers"
+        ],
+        "answer": "Agricultural laborers"
+    },
+    {
+        "question": "Which of these is NOT a feature of the unorganized sector?",
+        "options": [
+            "Irregular wages",
+            "Job security",
+            "No fixed working hours",
+            "Lack of benefits"
+        ],
+        "answer": "Job security"
+    },
+    {
+        "question": "Which of the following is NOT a reason for poverty in India?",
+        "options": [
+            "Lack of education",
+            "Unemployment",
+            "Inflation",
+            "Overpopulation"
+        ],
+        "answer": "Inflation"
+    },
+    {
+        "question": "Which of the following schemes is aimed at self-employment?",
+        "options": [
+            "MGNREGA",
+            "PDS",
+            "Mid-Day Meal",
+            "Jan Dhan Yojana"
+        ],
+        "answer": "MGNREGA"
+    },
+    {
+        "question": "Which sector provides the highest employment to poor people?",
+        "options": [
+            "Manufacturing",
+            "Construction",
+            "Agriculture",
+            "IT"
+        ],
+        "answer": "Agriculture"
+    },
+    {
+        "question": "What is the minimum calorie intake for rural poverty line?",
+        "options": [
+            "1800",
+            "2100",
+            "2400",
+            "2800"
+        ],
+        "answer": "2400"
+    },
+    {
+        "question": "Who is responsible for estimating poverty in India?",
+        "options": [
+            "IMF",
+            "World Bank",
+            "NITI Aayog",
+            "Planning Commission"
+        ],
+        "answer": "NITI Aayog"
+    },
+    {
+        "question": "Which organization is responsible for food procurement in India?",
+        "options": [
+            "FCI",
+            "WHO",
+            "RBI",
+            "FAO"
+        ],
+        "answer": "FCI"
+    },
+    {
+        "question": "What does PDS stand for?",
+        "options": [
+            "Public Development Scheme",
+            "Private Distribution System",
+            "Public Distribution System",
+            "Primary Development Service"
+        ],
+        "answer": "Public Distribution System"
+    },
+    {
+        "question": "Which crop is the staple food of India?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Maize",
+            "Millets"
+        ],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which group is the most vulnerable to food insecurity?",
+        "options": [
+            "Urban rich",
+            "Landless laborers",
+            "Government employees",
+            "Factory owners"
+        ],
+        "answer": "Landless laborers"
+    },
+    {
+        "question": "Which of the following is NOT a food security program?",
+        "options": [
+            "TPDS",
+            "Mid-Day Meal",
+            "ICDS",
+            "Beti Bachao Beti Padhao"
+        ],
+        "answer": "Beti Bachao Beti Padhao"
+    },
+    {
+        "question": "Which input is required for modern farming?",
+        "options": [
+            "Traditional seeds",
+            "Organic fertilizers",
+            "HYV seeds",
+            "Small land"
+        ],
+        "answer": "HYV seeds"
+    },
+    {
+        "question": "What is the main reason for small farmers taking loans?",
+        "options": [
+            "Personal expenses",
+            "Buying machinery",
+            "Buying seeds and fertilizers",
+            "Buying land"
+        ],
+        "answer": "Buying seeds and fertilizers"
+    },
+    {
+        "question": "Which crop is grown in winter in Palampur?",
+        "options": [
+            "Rice",
+            "Bajra",
+            "Wheat",
+            "Jowar"
+        ],
+        "answer": "Wheat"
+    },
+    {
+        "question": "Who are the landless laborers in Palampur?",
+        "options": [
+            "Big farmers",
+            "Farm owners",
+            "Workers without land",
+            "Government officers"
+        ],
+        "answer": "Workers without land"
+    },
+    {
+        "question": "Which factor has improved farming in Palampur?",
+        "options": [
+            "Traditional tools",
+            "Less labor",
+            "Electricity",
+            "Small farms"
+        ],
+        "answer": "Electricity"
+    },
+    {
+        "question": "Which of these is NOT a part of human development?",
+        "options": [
+            "Education",
+            "Health",
+            "Employment",
+            "Politics"
+        ],
+        "answer": "Politics"
+    },
+    {
+        "question": "Why is education important for human capital?",
+        "options": [
+            "Increases productivity",
+            "Reduces crime",
+            "Promotes migration",
+            "Increases population"
+        ],
+        "answer": "Increases productivity"
+    },
+    {
+        "question": "Which state in India has the highest literacy rate?",
+        "options": [
+            "Kerala",
+            "Bihar",
+            "UP",
+            "Rajasthan"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "Which sector includes doctors and teachers?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Tertiary"
+    },
+    {
+        "question": "What does unemployment lead to?",
+        "options": [
+            "Poverty",
+            "Higher wages",
+            "Lower productivity",
+            "Both A and C"
+        ],
+        "answer": "Both A and C"
+    },
+    {
+        "question": "Which poverty removal scheme focuses on rural self-employment?",
+        "options": [
+            "MGNREGA",
+            "PM-KISAN",
+            "Ayushman Bharat",
+            "Make in India"
+        ],
+        "answer": "MGNREGA"
+    },
+    {
+        "question": "What is the main cause of urban poverty?",
+        "options": [
+            "Lack of skills",
+            "Industrialization",
+            "Overpopulation",
+            "High wages"
+        ],
+        "answer": "Lack of skills"
+    },
+    {
+        "question": "Which of these is a poverty reduction program?",
+        "options": [
+            "RBI",
+            "PDS",
+            "NABARD",
+            "WTO"
+        ],
+        "answer": "PDS"
+    },
+    {
+        "question": "Which state has the lowest poverty rate?",
+        "options": [
+            "Kerala",
+            "Bihar",
+            "UP",
+            "MP"
+        ],
+        "answer": "Kerala"
+    },
+    {
+        "question": "Which organization provides microfinance to the poor?",
+        "options": [
+            "IMF",
+            "NABARD",
+            "FCI",
+            "SEBI"
+        ],
+        "answer": "NABARD"
+    },
+    {
+        "question": "Which factor affects food security?",
+        "options": [
+            "Price of food",
+            "Weather conditions",
+            "Government policies",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary goal of buffer stock?",
+        "options": [
+            "Export food",
+            "Stabilize food prices",
+            "Increase profits",
+            "Reduce farming"
+        ],
+        "answer": "Stabilize food prices"
+    },
+    {
+        "question": "Which is NOT a reason for food insecurity?",
+        "options": [
+            "Drought",
+            "Floods",
+            "Technological development",
+            "Unemployment"
+        ],
+        "answer": "Technological development"
+    },
+    {
+        "question": "Who manages ration shops in India?",
+        "options": [
+            "Private retailers",
+            "State governments",
+            "IMF",
+            "WTO"
+        ],
+        "answer": "State governments"
+    },
+    {
+        "question": "Which food security program provides free meals to school children?",
+        "options": [
+            "Mid-Day Meal",
+            "TPDS",
+            "ICDS",
+            "NREGA"
+        ],
+        "answer": "Mid-Day Meal"
+    },
+    {
+        "question": "Which of the following non-farm activities is commonly found in Palampur?",
+        "options": [
+            "Dairy farming",
+            "Coal mining",
+            "Shipbuilding",
+            "Oil refining"
+        ],
+        "answer": "Dairy farming"
+    },
+    {
+        "question": "What is the primary source of irrigation in Palampur?",
+        "options": [
+            "Tube wells",
+            "Rainwater harvesting",
+            "Dams",
+            "Drip irrigation"
+        ],
+        "answer": "Tube wells"
+    },
+    {
+        "question": "Why do farmers in Palampur practice multiple cropping?",
+        "options": [
+            "To increase soil fertility",
+            "To earn more profit",
+            "To protect crops from pests",
+            "To reduce water usage"
+        ],
+        "answer": "To earn more profit"
+    },
+    {
+        "question": "Which sector does a shopkeeper in Palampur belong to?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": "Tertiary"
+    },
+    {
+        "question": "What is the main advantage of using HYV (High Yielding Variety) seeds?",
+        "options": [
+            "Lower production cost",
+            "Higher crop production",
+            "Less water required",
+            "Requires no fertilizers"
+        ],
+        "answer": "Higher crop production"
+    },
+    {
+        "question": "Which factor is NOT a determinant of human resource development?",
+        "options": [
+            "Education",
+            "Health",
+            "Skill development",
+            "Land ownership"
+        ],
+        "answer": "Land ownership"
+    },
+    {
+        "question": "Which sector is the largest employer in India?",
+        "options": [
+            "Primary sector",
+            "Secondary sector",
+            "Tertiary sector",
+            "IT sector"
+        ],
+        "answer": "Primary sector"
+    },
+    {
+        "question": "Which of the following is an example of disguised unemployment?",
+        "options": [
+            "A doctor without patients",
+            "A worker in a factory",
+            "A farmer with extra laborers",
+            "A teacher in school"
+        ],
+        "answer": "A farmer with extra laborers"
+    },
+    {
+        "question": "What does 'People as a Resource' mean?",
+        "options": [
+            "Population as an asset",
+            "Overpopulation problem",
+            "Only educated people matter",
+            "Workers in the tertiary sector"
+        ],
+        "answer": "Population as an asset"
+    },
+    {
+        "question": "Which of the following factors contribute to the improvement of human capital?",
+        "options": [
+            "Better roads",
+            "Higher literacy rate",
+            "Increased land area",
+            "More industries"
+        ],
+        "answer": "Higher literacy rate"
+    },
+    {
+        "question": "Which of the following is NOT a criterion for measuring poverty in India?",
+        "options": [
+            "Income level",
+            "Caloric intake",
+            "Employment status",
+            "Education qualification"
+        ],
+        "answer": "Education qualification"
+    },
+    {
+        "question": "Which organization determines the poverty line in India?",
+        "options": [
+            "RBI",
+            "Planning Commission (NITI Aayog)",
+            "WHO",
+            "UNDP"
+        ],
+        "answer": "Planning Commission (NITI Aayog)"
+    },
+    {
+        "question": "Which of these groups is most vulnerable to poverty in India?",
+        "options": [
+            "Urban businessmen",
+            "Landless rural laborers",
+            "Government employees",
+            "IT professionals"
+        ],
+        "answer": "Landless rural laborers"
+    },
+    {
+        "question": "Which state in India has the highest poverty rate?",
+        "options": [
+            "Kerala",
+            "Punjab",
+            "Bihar",
+            "Haryana"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "Which government program was launched to provide employment to rural households?",
+        "options": [
+            "MNREGA",
+            "Make in India",
+            "Digital India",
+            "Smart Cities Mission"
+        ],
+        "answer": "MNREGA"
+    },
+    {
+        "question": "What is the primary cause of urban poverty in India?",
+        "options": [
+            "Overpopulation",
+            "Lack of education",
+            "Limited industrial growth",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which year did India introduce the concept of the Public Distribution System (PDS)?",
+        "options": [
+            "1947",
+            "1951",
+            "1965",
+            "1975"
+        ],
+        "answer": "1965"
+    },
+    {
+        "question": "Which type of food security issue arises due to price fluctuations?",
+        "options": [
+            "Seasonal insecurity",
+            "Chronic food insecurity",
+            "Economic food insecurity",
+            "Natural food scarcity"
+        ],
+        "answer": "Economic food insecurity"
+    },
+    {
+        "question": "Which organization is responsible for procuring and distributing food grains in India?",
+        "options": [
+            "RBI",
+            "FCI",
+            "NITI Aayog",
+            "WHO"
+        ],
+        "answer": "FCI"
+    },
+    {
+        "question": "Which crop is most commonly distributed under the PDS system in India?",
+        "options": [
+            "Rice and wheat",
+            "Maize and pulses",
+            "Millets and sorghum",
+            "Sugarcane and cotton"
+        ],
+        "answer": "Rice and wheat"
+    },
+    {
+        "question": "Which of the following is NOT a reason for food insecurity?",
+        "options": [
+            "Natural disasters",
+            "Low agricultural production",
+            "Poor transport system",
+            "Availability of fertilizers"
+        ],
+        "answer": "Availability of fertilizers"
+    },
+    {
+        "question": "What does the National Food Security Act (NFSA) aim to provide?",
+        "options": [
+            "Free food for all",
+            "Subsidized food for targeted groups",
+            "Elimination of food markets",
+            "Only organic food"
+        ],
+        "answer": "Subsidized food for targeted groups"
+    },
+    {
+        "question": "What is the role of buffer stock in food security?",
+        "options": [
+            "To sell food at higher prices",
+            "To ensure supply during crises",
+            "To export surplus grains",
+            "To support rich farmers"
+        ],
+        "answer": "To ensure supply during crises"
+    },
+    {
+        "question": "Which region of India faces the most severe food insecurity?",
+        "options": [
+            "North-east states",
+            "Western India",
+            "Southern coastal region",
+            "Central Indian states"
+        ],
+        "answer": "North-east states"
+    }
+]
