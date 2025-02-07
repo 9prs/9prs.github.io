@@ -1,0 +1,1252 @@
+[
+    {
+        "question": "What is the basic definition of democracy?",
+        "options": [
+            "Rule by the king",
+            "Rule by the people",
+            "Rule by military",
+            "Rule by a dictator"
+        ],
+        "answer": "Rule by the people"
+    },
+    {
+        "question": "Which of the following is NOT a feature of democracy?",
+        "options": [
+            "Free and fair elections",
+            "One-party rule",
+            "Rule of law",
+            "Fundamental rights"
+        ],
+        "answer": "One-party rule"
+    },
+    {
+        "question": "Which country is known as the largest democracy in the world?",
+        "options": [
+            "USA",
+            "India",
+            "China",
+            "Russia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Which form of government is opposed to democracy?",
+        "options": [
+            "Monarchy",
+            "Dictatorship",
+            "Oligarchy",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a key feature of democratic elections?",
+        "options": [
+            "Only rich people can vote",
+            "Government decides the winners",
+            "People elect their representatives",
+            "Election is held once every 20 years"
+        ],
+        "answer": "People elect their representatives"
+    },
+    {
+        "question": "Which of these countries is NOT a democracy?",
+        "options": [
+            "India",
+            "USA",
+            "North Korea",
+            "Germany"
+        ],
+        "answer": "North Korea"
+    },
+    {
+        "question": "Which country follows a one-party system?",
+        "options": [
+            "India",
+            "USA",
+            "China",
+            "UK"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Who is the head of the government in a parliamentary democracy?",
+        "options": [
+            "President",
+            "Prime Minister",
+            "Governor",
+            "Chief Minister"
+        ],
+        "answer": "Prime Minister"
+    },
+    {
+        "question": "Which of the following is NOT an argument in favor of democracy?",
+        "options": [
+            "Ensures equality",
+            "Respects individual freedom",
+            "Quick decision-making",
+            "Prevents misuse of power"
+        ],
+        "answer": "Quick decision-making"
+    },
+    {
+        "question": "Which of the following statements is true about democracy?",
+        "options": [
+            "Democracy promotes corruption",
+            "Democracy increases instability",
+            "Democracy ensures accountability",
+            "Democracy means rule by the wealthy"
+        ],
+        "answer": "Democracy ensures accountability"
+    },
+    {
+        "question": "Which of the following is an example of a direct democracy?",
+        "options": [
+            "USA",
+            "India",
+            "Switzerland",
+            "UK"
+        ],
+        "answer": "Switzerland"
+    },
+    {
+        "question": "Why is democracy considered the best form of government?",
+        "options": [
+            "It gives power to the rich",
+            "It provides equal rights to all",
+            "It allows one person to rule forever",
+            "It does not require elections"
+        ],
+        "answer": "It provides equal rights to all"
+    },
+    {
+        "question": "What is the main characteristic of a democracy?",
+        "options": [
+            "Freedom of speech",
+            "Military rule",
+            "Religious law",
+            "No elections"
+        ],
+        "answer": "Freedom of speech"
+    },
+    {
+        "question": "Which of the following is NOT necessary for a democracy?",
+        "options": [
+            "Regular elections",
+            "Independent judiciary",
+            "Freedom of press",
+            "Religious rule"
+        ],
+        "answer": "Religious rule"
+    },
+    {
+        "question": "Which of these is a demerit of democracy?",
+        "options": [
+            "Decisions are delayed",
+            "Freedom of speech",
+            "People\u2019s participation",
+            "Rule of law"
+        ],
+        "answer": "Decisions are delayed"
+    },
+    {
+        "question": "In which year did India become a democratic republic?",
+        "options": [
+            "1947",
+            "1950",
+            "1952",
+            "1965"
+        ],
+        "answer": "1950"
+    },
+    {
+        "question": "Which country is the oldest democracy in the world?",
+        "options": [
+            "USA",
+            "India",
+            "UK",
+            "France"
+        ],
+        "answer": "UK"
+    },
+    {
+        "question": "What does universal adult franchise mean?",
+        "options": [
+            "Only rich people can vote",
+            "Only men can vote",
+            "Every adult citizen has the right to vote",
+            "Only educated people can vote"
+        ],
+        "answer": "Every adult citizen has the right to vote"
+    },
+    {
+        "question": "Which of these is NOT a type of democracy?",
+        "options": [
+            "Direct",
+            "Indirect",
+            "Mixed",
+            "Representative"
+        ],
+        "answer": "Mixed"
+    },
+    {
+        "question": "What is meant by 'rule of law'?",
+        "options": [
+            "Only rulers must follow laws",
+            "Laws apply equally to all citizens",
+            "Laws are only for poor people",
+            "Laws are created only for elections"
+        ],
+        "answer": "Laws apply equally to all citizens"
+    },
+    {
+        "question": "Which country does not have a democratic form of government?",
+        "options": [
+            "India",
+            "USA",
+            "Saudi Arabia",
+            "France"
+        ],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "Why is political competition important in a democracy?",
+        "options": [
+            "It helps leaders gain power",
+            "It allows better policies to be implemented",
+            "It creates instability",
+            "It prevents elections"
+        ],
+        "answer": "It allows better policies to be implemented"
+    },
+    {
+        "question": "Which document provides the framework for democracy in India?",
+        "options": [
+            "Indian Penal Code",
+            "The Constitution of India",
+            "The Government Act",
+            "The Citizenship Act"
+        ],
+        "answer": "The Constitution of India"
+    },
+    {
+        "question": "Which of these is NOT a democratic principle?",
+        "options": [
+            "Equality",
+            "Freedom",
+            "One-party rule",
+            "Justice"
+        ],
+        "answer": "One-party rule"
+    },
+    {
+        "question": "Who has the ultimate power in a democracy?",
+        "options": [
+            "The government",
+            "The military",
+            "The people",
+            "The judiciary"
+        ],
+        "answer": "The people"
+    },
+    {
+        "question": "Which country\u2019s constitution served as an inspiration for the Indian Constitution?",
+        "options": [
+            "USA",
+            "UK",
+            "France",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which historical event led to the making of the Indian Constitution?",
+        "options": [
+            "Partition of India",
+            "Quit India Movement",
+            "Independence of India",
+            "All of the above"
+        ],
+        "answer": "Independence of India"
+    },
+    {
+        "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+        "options": [
+            "Dr. Rajendra Prasad",
+            "Sardar Patel",
+            "Dr. B.R. Ambedkar",
+            "Jawaharlal Nehru"
+        ],
+        "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+        "question": "When was the Indian Constitution adopted?",
+        "options": [
+            "15 August 1947",
+            "26 January 1949",
+            "26 November 1949",
+            "26 January 1950"
+        ],
+        "answer": "26 November 1949"
+    },
+    {
+        "question": "When did the Indian Constitution come into effect?",
+        "options": [
+            "26 November 1949",
+            "15 August 1947",
+            "26 January 1950",
+            "2 October 1950"
+        ],
+        "answer": "26 January 1950"
+    },
+    {
+        "question": "Which of the following is NOT a key feature of the Indian Constitution?",
+        "options": [
+            "Federalism",
+            "Presidential System",
+            "Separation of Powers",
+            "Secularism"
+        ],
+        "answer": "Presidential System"
+    },
+    {
+        "question": "How many members were there in the Constituent Assembly that drafted the Indian Constitution?",
+        "options": [
+            "199",
+            "389",
+            "250",
+            "312"
+        ],
+        "answer": "389"
+    },
+    {
+        "question": "Which fundamental right ensures the right to practice any religion?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Freedom of Religion",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Freedom of Religion"
+    },
+    {
+        "question": "What is the Preamble of the Indian Constitution?",
+        "options": [
+            "An introduction",
+            "A summary",
+            "A list of fundamental rights",
+            "None of the above"
+        ],
+        "answer": "An introduction"
+    },
+    {
+        "question": "Which word was added to the Preamble by the 42nd Amendment Act?",
+        "options": [
+            "Socialist",
+            "Secular",
+            "Integrity",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of government does the Indian Constitution establish?",
+        "options": [
+            "Monarchy",
+            "Presidential Democracy",
+            "Parliamentary Democracy",
+            "Dictatorship"
+        ],
+        "answer": "Parliamentary Democracy"
+    },
+    {
+        "question": "Which country has the longest written constitution in the world?",
+        "options": [
+            "USA",
+            "India",
+            "UK",
+            "France"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Which part of the Constitution contains the fundamental rights?",
+        "options": [
+            "Preamble",
+            "Part I",
+            "Part III",
+            "Part V"
+        ],
+        "answer": "Part III"
+    },
+    {
+        "question": "Which part of the Constitution contains the Directive Principles of State Policy?",
+        "options": [
+            "Part I",
+            "Part III",
+            "Part IV",
+            "Part V"
+        ],
+        "answer": "Part IV"
+    },
+    {
+        "question": "Which fundamental right prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Freedom of Religion",
+            "Right against Exploitation"
+        ],
+        "answer": "Right to Equality"
+    },
+    {
+        "question": "Which fundamental right has been described as the \u2018heart and soul\u2019 of the Indian Constitution by Dr. B.R. Ambedkar?",
+        "options": [
+            "Right to Equality",
+            "Right to Constitutional Remedies",
+            "Right to Freedom",
+            "Right against Exploitation"
+        ],
+        "answer": "Right to Constitutional Remedies"
+    },
+    {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Dr. B.R. Ambedkar",
+            "Sardar Patel"
+        ],
+        "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+        "question": "Which Amendment Act lowered the voting age from 21 years to 18 years?",
+        "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "61st Amendment",
+            "73rd Amendment"
+        ],
+        "answer": "61st Amendment"
+    },
+    {
+        "question": "Which article of the Indian Constitution provides special status to Jammu and Kashmir (before it was revoked)?",
+        "options": [
+            "Article 370",
+            "Article 356",
+            "Article 368",
+            "Article 395"
+        ],
+        "answer": "Article 370"
+    },
+    {
+        "question": "Which schedule of the Indian Constitution deals with the division of powers between the Union and the States?",
+        "options": [
+            "7th Schedule",
+            "8th Schedule",
+            "9th Schedule",
+            "10th Schedule"
+        ],
+        "answer": "7th Schedule"
+    },
+    {
+        "question": "What is the minimum age required to become the President of India?",
+        "options": [
+            "25 years",
+            "30 years",
+            "35 years",
+            "40 years"
+        ],
+        "answer": "35 years"
+    },
+    {
+        "question": "Which part of the Constitution declares India as a Sovereign, Socialist, Secular, and Democratic Republic?",
+        "options": [
+            "Preamble",
+            "Fundamental Rights",
+            "Directive Principles",
+            "Union List"
+        ],
+        "answer": "Preamble"
+    },
+    {
+        "question": "Which article of the Indian Constitution provides the right to constitutional remedies?",
+        "options": [
+            "Article 32",
+            "Article 44",
+            "Article 51",
+            "Article 21"
+        ],
+        "answer": "Article 32"
+    },
+    {
+        "question": "How many fundamental duties are listed in the Indian Constitution?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "11"
+    },
+    {
+        "question": "Which organ of the government is responsible for interpreting the Constitution?",
+        "options": [
+            "Legislature",
+            "Executive",
+            "Judiciary",
+            "President"
+        ],
+        "answer": "Judiciary"
+    },
+    {
+        "question": "What is the minimum age required to vote in India?",
+        "options": [
+            "18 years",
+            "21 years",
+            "16 years",
+            "25 years"
+        ],
+        "answer": "18 years"
+    },
+    {
+        "question": "Which body conducts elections in India?",
+        "options": [
+            "Supreme Court",
+            "Parliament",
+            "Election Commission",
+            "Lok Sabha"
+        ],
+        "answer": "Election Commission"
+    },
+    {
+        "question": "How often are Lok Sabha elections held in India?",
+        "options": [
+            "Every 3 years",
+            "Every 4 years",
+            "Every 5 years",
+            "Every 6 years"
+        ],
+        "answer": "Every 5 years"
+    },
+    {
+        "question": "What is the full form of EVM?",
+        "options": [
+            "Electronic Voting Machine",
+            "Election Vote Method",
+            "Electronic Vote Mechanism",
+            "Election Verification Machine"
+        ],
+        "answer": "Electronic Voting Machine"
+    },
+    {
+        "question": "Who appoints the Chief Election Commissioner of India?",
+        "options": [
+            "Prime Minister",
+            "President",
+            "Parliament",
+            "Supreme Court"
+        ],
+        "answer": "President"
+    },
+    {
+        "question": "What is NOT a function of the Election Commission?",
+        "options": [
+            "Conducting elections",
+            "Recognizing political parties",
+            "Appointing the Prime Minister",
+            "Monitoring election expenses"
+        ],
+        "answer": "Appointing the Prime Minister"
+    },
+    {
+        "question": "Which of the following is NOT a feature of a democratic election?",
+        "options": [
+            "Universal Adult Franchise",
+            "Secret Ballot",
+            "One-Party System",
+            "Fair Competition"
+        ],
+        "answer": "One-Party System"
+    },
+    {
+        "question": "What does NOTA stand for in Indian elections?",
+        "options": [
+            "None Of The Above",
+            "National Organization for Transparent Administration",
+            "National Open Testing Agency",
+            "Not Officially Taken Account"
+        ],
+        "answer": "None Of The Above"
+    },
+    {
+        "question": "How many constituencies does India have for Lok Sabha elections?",
+        "options": [
+            "525",
+            "543",
+            "550",
+            "560"
+        ],
+        "answer": "543"
+    },
+    {
+        "question": "Which election is NOT conducted by the Election Commission of India?",
+        "options": [
+            "Lok Sabha elections",
+            "Rajya Sabha elections",
+            "Gram Panchayat elections",
+            "Presidential elections"
+        ],
+        "answer": "Gram Panchayat elections"
+    },
+    {
+        "question": "Which amendment reduced the voting age in India from 21 to 18 years?",
+        "options": [
+            "52nd Amendment",
+            "61st Amendment",
+            "73rd Amendment",
+            "44th Amendment"
+        ],
+        "answer": "61st Amendment"
+    },
+    {
+        "question": "Which political party system exists in India?",
+        "options": [
+            "One-Party System",
+            "Two-Party System",
+            "Multi-Party System",
+            "No-Party System"
+        ],
+        "answer": "Multi-Party System"
+    },
+    {
+        "question": "What is meant by \u2018Universal Adult Franchise\u2019?",
+        "options": [
+            "Right to vote for all citizens above a certain age",
+            "Right to contest elections",
+            "Right to form political parties",
+            "Right to recall elected leaders"
+        ],
+        "answer": "Right to vote for all citizens above a certain age"
+    },
+    {
+        "question": "Which article of the Indian Constitution deals with elections?",
+        "options": [
+            "Article 356",
+            "Article 324",
+            "Article 14",
+            "Article 44"
+        ],
+        "answer": "Article 324"
+    },
+    {
+        "question": "What is the role of an election manifesto?",
+        "options": [
+            "To declare policies of a political party",
+            "To conduct elections",
+            "To declare election results",
+            "To issue voter ID cards"
+        ],
+        "answer": "To declare policies of a political party"
+    },
+    {
+        "question": "Which of the following is NOT a type of election in India?",
+        "options": [
+            "General Election",
+            "Presidential Election",
+            "Parliamentary Election",
+            "Regional Election"
+        ],
+        "answer": "Regional Election"
+    },
+    {
+        "question": "What is the term for a constituency where only one representative is elected?",
+        "options": [
+            "Single-member constituency",
+            "Multi-member constituency",
+            "Regional constituency",
+            "Proportional constituency"
+        ],
+        "answer": "Single-member constituency"
+    },
+    {
+        "question": "Which of these is a challenge to free and fair elections?",
+        "options": [
+            "High voter turnout",
+            "Use of EVMs",
+            "Vote Buying",
+            "Secret Ballot"
+        ],
+        "answer": "Vote Buying"
+    },
+    {
+        "question": "Which of the following ensures free and fair elections?",
+        "options": [
+            "Police Department",
+            "Election Commission",
+            "Political Parties",
+            "Central Government"
+        ],
+        "answer": "Election Commission"
+    },
+    {
+        "question": "What is meant by \u2018reserved constituencies\u2019 in elections?",
+        "options": [
+            "Seats reserved for women candidates",
+            "Seats reserved for SC/ST candidates",
+            "Seats reserved for economically weaker sections",
+            "Seats reserved for senior citizens"
+        ],
+        "answer": "Seats reserved for SC/ST candidates"
+    },
+    {
+        "question": "Which type of election is held when an elected representative resigns or dies?",
+        "options": [
+            "Midterm Election",
+            "Re-Election",
+            "By-Election",
+            "General Election"
+        ],
+        "answer": "By-Election"
+    },
+    {
+        "question": "What does a political party need to be recognized as a national party?",
+        "options": [
+            "At least 2% of seats in Lok Sabha",
+            "Presence in at least four states",
+            "Winning 50% of total seats",
+            "Only the President's approval"
+        ],
+        "answer": "Presence in at least four states"
+    },
+    {
+        "question": "What is the main purpose of an electoral roll?",
+        "options": [
+            "To keep a record of political parties",
+            "To list eligible voters",
+            "To count votes",
+            "To announce election results"
+        ],
+        "answer": "To list eligible voters"
+    },
+    {
+        "question": "Which factor affects election outcomes the most?",
+        "options": [
+            "Voter awareness",
+            "Weather conditions",
+            "Number of candidates",
+            "Party symbols"
+        ],
+        "answer": "Voter awareness"
+    },
+    {
+        "question": "Which of the following is NOT a reason for electoral reforms in India?",
+        "options": [
+            "Increase in voter turnout",
+            "Use of money power",
+            "Criminalization of politics",
+            "Misuse of government machinery"
+        ],
+        "answer": "Increase in voter turnout"
+    },
+    {
+        "question": "Which of the following is NOT a part of the Parliament of India?",
+        "options": [
+            "President",
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Supreme Court"
+        ],
+        "answer": "Supreme Court"
+    },
+    {
+        "question": "Who is the head of the state in India?",
+        "options": [
+            "Prime Minister",
+            "President",
+            "Chief Justice",
+            "Lok Sabha Speaker"
+        ],
+        "answer": "President"
+    },
+    {
+        "question": "The President of India is elected by:",
+        "options": [
+            "Direct election",
+            "Prime Minister",
+            "Electoral College",
+            "Governor"
+        ],
+        "answer": "Electoral College"
+    },
+    {
+        "question": "The real executive power in India is vested in:",
+        "options": [
+            "President",
+            "Parliament",
+            "Prime Minister",
+            "Supreme Court"
+        ],
+        "answer": "Prime Minister"
+    },
+    {
+        "question": "Which institution is responsible for making laws in India?",
+        "options": [
+            "Supreme Court",
+            "Parliament",
+            "Election Commission",
+            "Governor"
+        ],
+        "answer": "Parliament"
+    },
+    {
+        "question": "The tenure of the Lok Sabha is:",
+        "options": [
+            "4 years",
+            "5 years",
+            "6 years",
+            "7 years"
+        ],
+        "answer": "5 years"
+    },
+    {
+        "question": "Which house of Parliament is also called the 'House of Elders'?",
+        "options": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Legislative Assembly",
+            "Legislative Council"
+        ],
+        "answer": "Rajya Sabha"
+    },
+    {
+        "question": "Who is the presiding officer of the Lok Sabha?",
+        "options": [
+            "Prime Minister",
+            "President",
+            "Vice President",
+            "Speaker"
+        ],
+        "answer": "Speaker"
+    },
+    {
+        "question": "The Council of Ministers is collectively responsible to:",
+        "options": [
+            "President",
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Supreme Court"
+        ],
+        "answer": "Lok Sabha"
+    },
+    {
+        "question": "Who appoints the Chief Justice of India?",
+        "options": [
+            "President",
+            "Prime Minister",
+            "Parliament",
+            "Governor"
+        ],
+        "answer": "President"
+    },
+    {
+        "question": "Which institution has the power to interpret the Constitution?",
+        "options": [
+            "Parliament",
+            "President",
+            "Supreme Court",
+            "Election Commission"
+        ],
+        "answer": "Supreme Court"
+    },
+    {
+        "question": "Which of the following is NOT a function of the Indian Parliament?",
+        "options": [
+            "Making laws",
+            "Executing laws",
+            "Controlling the government",
+            "Passing the budget"
+        ],
+        "answer": "Executing laws"
+    },
+    {
+        "question": "Who has the power to dissolve the Lok Sabha?",
+        "options": [
+            "Prime Minister",
+            "President",
+            "Chief Justice",
+            "Speaker"
+        ],
+        "answer": "President"
+    },
+    {
+        "question": "Which body is responsible for resolving disputes between the Centre and the States?",
+        "options": [
+            "Parliament",
+            "Supreme Court",
+            "President",
+            "Rajya Sabha"
+        ],
+        "answer": "Supreme Court"
+    },
+    {
+        "question": "What is the minimum age to become a member of the Lok Sabha?",
+        "options": [
+            "18 years",
+            "21 years",
+            "25 years",
+            "30 years"
+        ],
+        "answer": "25 years"
+    },
+    {
+        "question": "Who presides over the Rajya Sabha?",
+        "options": [
+            "President",
+            "Vice President",
+            "Prime Minister",
+            "Chief Justice"
+        ],
+        "answer": "Vice President"
+    },
+    {
+        "question": "Which organ of the government is responsible for implementing laws?",
+        "options": [
+            "Legislature",
+            "Executive",
+            "Judiciary",
+            "Governor"
+        ],
+        "answer": "Executive"
+    },
+    {
+        "question": "Who prepares the Union Budget in India?",
+        "options": [
+            "President",
+            "Prime Minister",
+            "Finance Minister",
+            "Lok Sabha"
+        ],
+        "answer": "Finance Minister"
+    },
+    {
+        "question": "Which is the highest judicial authority in India?",
+        "options": [
+            "High Court",
+            "Supreme Court",
+            "Lok Sabha",
+            "Rajya Sabha"
+        ],
+        "answer": "Supreme Court"
+    },
+    {
+        "question": "The Judiciary in India is:",
+        "options": [
+            "Dependent",
+            "Independent",
+            "Partially independent",
+            "Controlled by Parliament"
+        ],
+        "answer": "Independent"
+    },
+    {
+        "question": "Who has the power to amend the Constitution of India?",
+        "options": [
+            "Supreme Court",
+            "President",
+            "Parliament",
+            "Prime Minister"
+        ],
+        "answer": "Parliament"
+    },
+    {
+        "question": "Who is the head of the government in India?",
+        "options": [
+            "President",
+            "Prime Minister",
+            "Speaker",
+            "Chief Justice"
+        ],
+        "answer": "Prime Minister"
+    },
+    {
+        "question": "Which body ensures that the elections in India are free and fair?",
+        "options": [
+            "Supreme Court",
+            "Election Commission",
+            "Parliament",
+            "President"
+        ],
+        "answer": "Election Commission"
+    },
+    {
+        "question": "What is the minimum age for contesting elections for the Rajya Sabha?",
+        "options": [
+            "18 years",
+            "25 years",
+            "30 years",
+            "35 years"
+        ],
+        "answer": "30 years"
+    },
+    {
+        "question": "What is the term of office for the President of India?",
+        "options": [
+            "4 years",
+            "5 years",
+            "6 years",
+            "7 years"
+        ],
+        "answer": "5 years"
+    },
+    {
+        "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+        "options": [
+            "Part II",
+            "Part III",
+            "Part IV",
+            "Part V"
+        ],
+        "answer": "Part III"
+    },
+    {
+        "question": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+        "options": [
+            "Five",
+            "Six",
+            "Seven",
+            "Eight"
+        ],
+        "answer": "Six"
+    },
+    {
+        "question": "Which Fundamental Right was removed by the 44th Amendment Act, 1978?",
+        "options": [
+            "Right to Equality",
+            "Right to Property",
+            "Right to Education",
+            "Right to Constitutional Remedies"
+        ],
+        "answer": "Right to Property"
+    },
+    {
+        "question": "Which Fundamental Right prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+        "options": [
+            "Right to Freedom",
+            "Right to Equality",
+            "Right against Exploitation",
+            "Right to Constitutional Remedies"
+        ],
+        "answer": "Right to Equality"
+    },
+    {
+        "question": "Which Fundamental Right protects individuals from untouchability?",
+        "options": [
+            "Right to Freedom",
+            "Right to Equality",
+            "Right against Exploitation",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Equality"
+    },
+    {
+        "question": "Under which Fundamental Right is the freedom of speech and expression guaranteed?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Constitutional Remedies",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Freedom"
+    },
+    {
+        "question": "Which Fundamental Right prohibits forced labor and child labor?",
+        "options": [
+            "Right to Freedom",
+            "Right to Equality",
+            "Right against Exploitation",
+            "Right to Constitutional Remedies"
+        ],
+        "answer": "Right against Exploitation"
+    },
+    {
+        "question": "Which Article of the Constitution grants the Right to Constitutional Remedies?",
+        "options": [
+            "Article 19",
+            "Article 21",
+            "Article 32",
+            "Article 39"
+        ],
+        "answer": "Article 32"
+    },
+    {
+        "question": "Who described the Right to Constitutional Remedies as the 'heart and soul' of the Constitution?",
+        "options": [
+            "Mahatma Gandhi",
+            "B.R. Ambedkar",
+            "Jawaharlal Nehru",
+            "Sardar Patel"
+        ],
+        "answer": "B.R. Ambedkar"
+    },
+    {
+        "question": "Which writ is issued to produce a person before a court who has been detained unlawfully?",
+        "options": [
+            "Mandamus",
+            "Habeas Corpus",
+            "Quo Warranto",
+            "Certiorari"
+        ],
+        "answer": "Habeas Corpus"
+    },
+    {
+        "question": "Which Fundamental Right ensures the protection of the interests of minorities?",
+        "options": [
+            "Right to Equality",
+            "Cultural and Educational Rights",
+            "Right to Freedom",
+            "Right to Property"
+        ],
+        "answer": "Cultural and Educational Rights"
+    },
+    {
+        "question": "Which Article of the Constitution provides for the abolition of untouchability?",
+        "options": [
+            "Article 15",
+            "Article 16",
+            "Article 17",
+            "Article 18"
+        ],
+        "answer": "Article 17"
+    },
+    {
+        "question": "Which writ is issued by a court to compel a public official to perform their duty?",
+        "options": [
+            "Mandamus",
+            "Habeas Corpus",
+            "Quo Warranto",
+            "Certiorari"
+        ],
+        "answer": "Mandamus"
+    },
+    {
+        "question": "Which Fundamental Right allows people to follow any religion of their choice?",
+        "options": [
+            "Right to Freedom",
+            "Right to Equality",
+            "Right to Freedom of Religion",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Freedom of Religion"
+    },
+    {
+        "question": "Which Article guarantees the right to freedom of speech and expression?",
+        "options": [
+            "Article 14",
+            "Article 19",
+            "Article 21",
+            "Article 25"
+        ],
+        "answer": "Article 19"
+    },
+    {
+        "question": "Which Fundamental Right ensures that no person is deprived of life and personal liberty except according to the law?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Life and Personal Liberty",
+            "Right against Exploitation"
+        ],
+        "answer": "Right to Life and Personal Liberty"
+    },
+    {
+        "question": "Which Fundamental Right is often called the \u2018Right to Live with Dignity\u2019 by the Supreme Court?",
+        "options": [
+            "Right to Equality",
+            "Right to Life and Personal Liberty",
+            "Right to Freedom",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Life and Personal Liberty"
+    },
+    {
+        "question": "Which Article guarantees protection of language, script, and culture of minorities?",
+        "options": [
+            "Article 25",
+            "Article 29",
+            "Article 30",
+            "Article 32"
+        ],
+        "answer": "Article 29"
+    },
+    {
+        "question": "Which writ is issued by the court to prevent a lower court from exceeding its jurisdiction?",
+        "options": [
+            "Mandamus",
+            "Habeas Corpus",
+            "Prohibition",
+            "Certiorari"
+        ],
+        "answer": "Prohibition"
+    },
+    {
+        "question": "Which Fundamental Right allows citizens to form associations and unions?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right against Exploitation",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Freedom"
+    },
+    {
+        "question": "Which Fundamental Right ensures equality before the law?",
+        "options": [
+            "Right to Freedom",
+            "Right against Exploitation",
+            "Right to Equality",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Equality"
+    },
+    {
+        "question": "Which Fundamental Right protects people from being punished for the same offense more than once?",
+        "options": [
+            "Right to Freedom",
+            "Right to Equality",
+            "Right to Protection from Double Jeopardy",
+            "Right against Exploitation"
+        ],
+        "answer": "Right to Protection from Double Jeopardy"
+    },
+    {
+        "question": "Which Article of the Constitution provides freedom to manage religious affairs?",
+        "options": [
+            "Article 25",
+            "Article 26",
+            "Article 27",
+            "Article 28"
+        ],
+        "answer": "Article 26"
+    },
+    {
+        "question": "Which writ is issued to question the legality of a person holding a public office?",
+        "options": [
+            "Mandamus",
+            "Habeas Corpus",
+            "Quo Warranto",
+            "Certiorari"
+        ],
+        "answer": "Quo Warranto"
+    },
+    {
+        "question": "Which Fundamental Right prohibits discrimination in public employment?",
+        "options": [
+            "Right to Equality",
+            "Right to Freedom",
+            "Right to Life",
+            "Cultural and Educational Rights"
+        ],
+        "answer": "Right to Equality"
+    }
+]
