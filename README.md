@@ -1,6 +1,6 @@
 # 📝 QuizMaster - The Ultimate Exam Revision Tool 🎯
 
-![GitHub stars](https://img.shields.io/github/stars/cam9c/cam9c.github.io?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cam9c/cam9c.github.io?style=social&cacheSeconds=3600)
 ![GitHub forks](https://img.shields.io/github/forks/cam9c/cam9c.github.io?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/cam9c/cam9c.github.io)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
