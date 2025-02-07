@@ -7,6 +7,7 @@ let askedQuestions = [];
 let questionNum = 0;
 let answeredArray = [];
 let answeredQuestions = [];
+let maximumQuestionsLimit = 30;
 
 function fetchData() {
     return fetch('data/questions.json')
@@ -63,12 +64,16 @@ const creatingQuestions = () => {
     if (data.length === 0) {
         return;
     }
-    let question = data[Math.floor(Math.random() * data.length)];
-    shuffleArrays(question.options);
-    question.answered = false;
-    data.splice(data.indexOf(question), 1);
-    askedQuestions.push(question);
-    return;
+    if (askedQuestions.length + 1 <= maximumQuestionsLimit) {
+        let question = data[Math.floor(Math.random() * data.length)];
+        shuffleArrays(question.options);
+        question.answered = false;
+        data.splice(data.indexOf(question), 1);
+        askedQuestions.push(question);
+    }
+    else {
+        return;
+    }
 }
 
 function reverseQuestion() {
