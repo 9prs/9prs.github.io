@@ -35,7 +35,7 @@ body {
 }
 
 #questions-app {
-    height: 65vh;
+    height: 70vh;
     width: 80%;
     max-width: 500px;
     background-color: white;
@@ -72,6 +72,25 @@ body {
     color:black;
     justify-content: space-between;
 }
+
+.popup{
+    min-height: 6vh;
+    width:60%;
+    background-color: rgba(255, 255, 255,0.7);
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border-radius: 0.7rem;
+    z-index:1000;
+    opacity: 0;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:0.3s opacity ease;
+}
+
 
 .warning .btns{
     display:flex;

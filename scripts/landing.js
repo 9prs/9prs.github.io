@@ -3,6 +3,7 @@ export let maximumQuestionsLimit;
 export let testTime;
 
 import {app} from "./script.js";
+import { data } from "./script.js";
 
 document.addEventListener('DOMContentLoaded',function(){
     setTimeout(() => {
@@ -16,12 +17,14 @@ document.addEventListener('DOMContentLoaded',function(){
 setTimeout(()=>{
     document.querySelector('#home').style.display = 'block'
         document.querySelector('#contents .icon').addEventListener('click', function () {
+            document.querySelector('.wrapper').style.maxHeight = 'fit-content';
             document.querySelector('#home').style.maxHeight = 'fit-content';
             document.querySelector('.about').style.height = `${document.querySelector('#home').offsetHeight}px`;
             document.querySelector('.about').style.transform = 'translateX(0%)';
         })
         document.querySelector('.about .icon').addEventListener('click', function () {
             document.querySelector('.about').style.transform = 'translateX(100%)';
+            document.querySelector('.wrapper').style.maxHeight = '100vh';
             document.querySelector('#home').style.maxHeight = '100vh';
         })
         
@@ -42,11 +45,27 @@ setTimeout(()=>{
             },700)
             setTimeout(()=>{
                 document.querySelector('#main').style.transform = 'translateY(-100%)'
-            },720)
+            },720);
+            if (document.querySelector('#main').getBoundingClientRect().top + window.scrollY <= 0) {
+            
+                if (data.length == 0) {
+                    document.querySelector('.popup').textContent = "We are getting the data..."
+                    document.querySelector('.popup').style.opacity = 1;
+                    let checkData = setInterval(() => {
+                        if (data.length > 0) {
+                            document.querySelector('.popup').style.opacity = 0;
+                            document.querySelector('.popup').textContent = "";
+                            clearInterval(checkData); 
+                        }
+                    }, 200);                    
+                }
+            
+                if (data.length > 0) {
+                    return;
+                }
+            }
+            
             app();
-            setTimeout(()=>{
-
-            },400)
             console.log(maximumQuestionsLimit)
             console.log(selectedSubject)
             console.log(testTime)
