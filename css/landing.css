@@ -216,6 +216,7 @@ body {
     padding: 2rem;
     max-width: 60%;
     gap: 2rem;
+    min-width: 60%;
 }
 
 .dropdown-label {
@@ -224,12 +225,13 @@ body {
     font-weight: 600;
     color: #ca3a16;
     margin-bottom: 0.5rem;
-    display: block;
+    padding: 0.5em;
 }
 
 .dropdown {
     width: 100%;
-    padding: 0.5rem;
+    padding: 0.5em;
+    height:fit-content;
     font-size: 1rem;
     border: 2px solid #ca3a16;
     border-radius: 5px;

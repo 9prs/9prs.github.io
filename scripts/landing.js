@@ -7,7 +7,7 @@ import { data } from "./script.js";
 
 document.addEventListener('DOMContentLoaded',function(){
     setTimeout(() => {
-        document.querySelector('.loader').style.top = '-100%';
+        document.querySelector('.loader').style.top = '-100vh';
     }, 3000);
     setTimeout(()=>{
         document.querySelector('.loader').remove;
