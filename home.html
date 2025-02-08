@@ -26,7 +26,7 @@
         #home {
             min-height: 100vh;
             min-width: 100vw;
-            max-height: fit-content;
+            max-height: 100vh;
             max-width: fit-content;
             overflow: hidden;
             background: url("data/bgimg.jpg");
@@ -376,11 +376,13 @@
     </div>
     <script>
         document.querySelector('#contents .icon').addEventListener('click', function () {
-            document.querySelector('.about').style.height = `${document.querySelector('#home').offsetHeight}px`
-            document.querySelector('.about').style.transform = 'translateX(0%)'
+            document.querySelector('#home').style.maxHeight = 'fit-content';
+            document.querySelector('.about').style.height = `${document.querySelector('#home').offsetHeight}px`;
+            document.querySelector('.about').style.transform = 'translateX(0%)';
         })
         document.querySelector('.about .icon').addEventListener('click', function () {
             document.querySelector('.about').style.transform = 'translateX(100%)';
+            document.querySelector('#home').style.maxHeight = '100vh';
         })
     </script>
 </body>
