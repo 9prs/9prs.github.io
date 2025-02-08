@@ -15,13 +15,23 @@ body {
 }
 
 #main {
-    height: 100%;
+    min-height:100vh;
+    max-height: 100vh;
     width: 100vw;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     background: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 100%);
     padding: 2rem 0rem;
+    display:none;
+    transition: 0.4s all ease;
+    position: relative;
+}
+
+#main .footer{
+    z-index: 15;
+    position: absolute;
+    bottom: 1%;
 }
 
 #questions-app {
@@ -170,9 +180,17 @@ body {
     justify-content: center;
     font-size: xx-large;
     font-weight: 700;
-    color:orangered;
-    text-shadow: 0px 0px 10px orangered;
+    color:#ca3a16;
+    text-shadow: 0px 0px 10px #ca3a16;
     transition: 1s all ease;
+}
+
+.wrapper{
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 @media (max-width:1000px) {

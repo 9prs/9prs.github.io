@@ -1,3 +1,5 @@
+import {selectedSubject,maximumQuestionsLimit,testTime} from "./landing.js";
+
 let questionDiv = document.querySelector(".question");
 let optionsArr = document.querySelectorAll(".option");
 let nextQue = document.querySelector(".right");
@@ -6,7 +8,7 @@ let data = [];
 let askedQuestions = [];
 let questionNum = 0;
 let answeredArray = [];
-let answeredQuestions = [];
+export let answeredQuestions = [];
 let subjects = {
     'Physics' : "phy.json",
     'Biology' : "bio.json",
@@ -19,7 +21,6 @@ let subjects = {
     'Literature' : "lit.json",
     'Language' : "lang.json"
 }
-
 
 function fetchData() {
     return fetch(`data/${subjects[selectedSubject]}`)
@@ -141,16 +142,11 @@ function shuffleArrays(array) {
     return array;
 }
 
-const app = async () => {
+export const app = async () => {
     await fetchingData();
     loggingQuestions();
-    setTimeout(() => {
-        this.document.querySelector('.loader').style.top = '-100%';
-    }, 3000);
     nextQue.addEventListener('click', loggingQuestions);
     backQue.addEventListener('click', reverseQuestion);
     validatingAnswers();
     renderAnsweredQuestion();
 }
-
-app();

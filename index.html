@@ -5,55 +5,173 @@
     <meta http-equiv="Permissions-Policy" content="geolocation=(), microphone=()" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>9 'C': Dashboard</title>
+    <title>PRS: DashBoard</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/landing.css">
     <link rel="stylesheet" href="css/submit.css">
     <link rel="shortcut icon" href="data/android-chrome-512x512.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
 </head>
 
 <body>
-    <div id="main">
-        <div class="loader">Application Loading...</div>
-        <div id="questions-app">
-            <div class="question"></div>
-            <div class="options">
-                <div class="option"><i class="ri-circle-line"></i>
-                    <div class="txt"></div>
+    <div class="wrapper">
+        <div class="loader">Loading Application...</div>
+        <div id="home">
+    
+            <div class="about">
+                <div class="icon">
+                    <i class="ri-close-fill"></i>
                 </div>
-                <div class="option"><i class="ri-circle-line"></i>
-                    <div class="txt"></div>
+                <h2>About Us</h2>
+                <p>Welcome to PRS, a revolutionary open-source initiative designed to enhance students'
+                    cognitive development and exam revision through engaging, well-structured questions.</p>
+    
+                <p>As final exams approach, students often struggle with effective revision strategies. Our platform
+                    bridges this gap by providing a structured question-based learning experience, ensuring they retain
+                    concepts efficiently.</p>
+    
+                <p>
+                    This visionary project is built with the idea of collaborative learning, allowing students to practice,
+                    assess, and improve their knowledge effortlessly. Since it's open-source, anyone can contribute, refine,
+                    and expand this initiative to benefit a wider student community.
+                </p>
+    
+                Join us in making learning smarter, sharper, and more effective! 🚀
+    
+                <div class="slogan">
+                    - Your revision is OUR priority...
                 </div>
-                <div class="option"><i class="ri-circle-line"></i>
-                    <div class="txt"></div>
-                </div>
-                <div class="option"><i class="ri-circle-line"></i>
-                    <div class="txt"></div>
+                <div class="footer">
+                    Made with ❤️ by Piyush Mishra & Rajiv Ranjan <br>
+                    © CopyRight of PRS Crew since 2025
                 </div>
             </div>
-            <div class="navigations">
-                <div class="left">
-                    <i class="ri-arrow-left-line"></i>
+            <div id="contents">
+                <div class="icon">
+                    <i class="ri-menu-3-fill"></i>
                 </div>
-                <div class="submit">
-                    <button>
-                        <span class="circle1"></span>
-                        <span class="circle2"></span>
-                        <span class="circle3"></span>
-                        <span class="circle4"></span>
-                        <span class="circle5"></span>
-                        <span class="text">Submit</span>
+                <div class="logo">
+                    <div class="img">
+                        <img src="data/android-chrome-512x512.png" alt="">
+                    </div>
+                    <h3>PRS: Practice & Revision System</h3>
+                </div>
+    
+                <div class="credentials">
+                    <div class="sub">
+                        <label for="subject" class="dropdown-label">Select Subject:</label>
+                        <select id="subject" class="dropdown">
+                            <option value="History">History</option>
+                            <option value="Economics">Economics</option>
+                            <option value="Geography">Geography</option>
+                            <option value="Civics">Civics</option>
+                            <option value="Physics">Physics</option>
+                            <option value="Chemistry">Chemistry</option>
+                            <option value="Biology">Biology</option>
+                            <option value="Literature">Literature</option>
+                            <option value="Language">Language</option>
+                        </select>
+                    </div>
+                    <div class="questions">
+                        <label for="questions" class="dropdown-label">Select No. Of Questions:</label>
+                        <select id="questions" class="dropdown">
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                            <option value="15">15</option>
+                            <option value="20">20</option>
+                            <option value="30">30</option>
+                            <option value="30">50</option>
+                        </select>
+                    </div>
+                    <div class="time">
+                        <label for="time" class="dropdown-label">Select the time of the test:</label>
+                        <select id="time" class="dropdown">
+                            <option value="30">30sec</option>
+                            <option value="60">1 min</option>
+                            <option value="120">2 mins</option>
+                            <option value="180">3 mins</option>
+                            <option value="300">5 mins</option>
+                            <option value="600">10 mins</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="cta">
+                    <button style="--clr: #ca3a16" class="button" href="#">
+                        <span class="button__icon-wrapper">
+                            <svg width="10" class="button__icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none"
+                                viewBox="0 0 14 15">
+                                <path fill="currentColor"
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z">
+                                </path>
+                            </svg>
+    
+                            <svg class="button__icon-svg button__icon-svg--copy" xmlns="http://www.w3.org/2000/svg"
+                                width="10" fill="none" viewBox="0 0 14 15">
+                                <path fill="currentColor"
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z">
+                                </path>
+                            </svg>
+                        </span>
+                        Test Yourself
                     </button>
                 </div>
-                <div class="right">
-                    <i class="ri-arrow-right-line"></i>
+                <div class="footer">
+                    Made with ❤️ by Piyush Mishra & Rajiv Ranjan <br>
+                    © CopyRight of PRS Crew since 2025
                 </div>
             </div>
         </div>
+        <div id="main">
+    
+            <div id="questions-app">
+                <div class="question"></div>
+                <div class="options">
+                    <div class="option"><i class="ri-circle-line"></i>
+                        <div class="txt"></div>
+                    </div>
+                    <div class="option"><i class="ri-circle-line"></i>
+                        <div class="txt"></div>
+                    </div>
+                    <div class="option"><i class="ri-circle-line"></i>
+                        <div class="txt"></div>
+                    </div>
+                    <div class="option"><i class="ri-circle-line"></i>
+                        <div class="txt"></div>
+                    </div>
+                </div>
+                <div class="navigations">
+                    <div class="left">
+                        <i class="ri-arrow-left-line"></i>
+                    </div>
+                    <div class="submit">
+                        <button>
+                            <span class="circle1"></span>
+                            <span class="circle2"></span>
+                            <span class="circle3"></span>
+                            <span class="circle4"></span>
+                            <span class="circle5"></span>
+                            <span class="text">Submit</span>
+                        </button>
+                    </div>
+                    <div class="right">
+                        <i class="ri-arrow-right-line"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+                Made with ❤️ by Piyush Mishra & Rajiv Ranjan <br>
+                © CopyRight of PRS Crew since 2025
+            </div>
+        </div>
+        <div class="warning"></div>
     </div>
-    <div class="warning"></div>
-    <script src="scripts/script.js"></script>
-    <script src="scripts/submit.js"></script>
+    
+    <script>
+
+    </script>
+    <script type="module" src="scripts/landing.js"></script>
+    <script type="module" src="scripts/script.js"></script>
+    <script type="module" src="scripts/submit.js"></script>
 </body>
 
 </html>
