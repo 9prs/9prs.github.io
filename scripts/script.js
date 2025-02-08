@@ -7,7 +7,7 @@ let askedQuestions = [];
 let questionNum = 0;
 let answeredArray = [];
 let answeredQuestions = [];
-let maximumQuestionsLimit = alert("Enter the max questions: ");
+let maximumQuestionsLimit = prompt("Enter the max questions: ");
 let subjects = {
     'Physics' : "phy.json",
     'Biology' : "bio.json",
@@ -21,7 +21,7 @@ let subjects = {
     'Language' : "lang.json"
 }
 
-let selectedSubject = alert("Enter the sub: ");
+let selectedSubject = prompt("Enter the sub: ");
 
 function fetchData() {
     return fetch(`data/${subjects[selectedSubject]}`)
