@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="data/android-chrome-512x512.png" type="image/x-icon">
+    <title>DashBoard</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Dancing+Script:wght@400..700&family=Funnel+Display:wght@300..800&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        #home {
+            min-height: 100vh;
+            min-width: 100vw;
+            max-height: fit-content;
+            max-width: fit-content;
+            overflow: hidden;
+            background: url("https://depositphotos-blog.s3.eu-west-1.amazonaws.com/uploads/2017/07/Soothing-nature-backgrounds-2.jpg");
+            position: relative;
+        }
+
+        #home::after {
+            content: '';
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.1);
+            z-index: 2;
+        }
+
+        #contents {
+            position: absolute;
+            top: 20%;
+            left: 50%;
+            transform: translate(-50%, -20%);
+            height: 90%;
+            width: 90%;
+            background-color: rgba(255, 255, 255, 0.4);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 1rem;
+            display: flex;
+            z-index: 3;
+            backdrop-filter: blur(5px);
+            padding: 1rem;
+            flex-direction: column;
+            justify-content: space-between;
+            max-height: 700px;
+        }
+
+        .logo {
+            display: flex;
+            flex-direction: column;
+            color: #ca3a16;
+            font-family: "Arima";
+            justify-content: center;
+            align-items: center;
+            font-size: large;
+            text-align: center;
+        }
+
+        .logo .img {
+            height: 50px;
+            width: 50px;
+            overflow: hidden;
+            object-fit: cover;
+            border-radius: 50%;
+            z-index: 4;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .logo .img img {
+            height: 126%;
+            width: 126%;
+            object-fit: cover;
+        }
+
+        .button {
+            line-height: 1;
+            text-decoration: none;
+            display: inline-flex;
+            border: none;
+            cursor: pointer;
+            align-items: center;
+            gap: 0.75rem;
+            background-color: #ca3a16;
+            color: #fff;
+            border-radius: 10rem;
+            font-weight: 600;
+            padding: 0.75rem 1.5rem;
+            padding-left: 20px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            transition: background-color 0.3s, transform 0.4s ease;
+            font-family: "Ubuntu Mono";
+        }
+
+        .button__icon-wrapper {
+            flex-shrink: 0;
+            width: 25px;
+            height: 25px;
+            position: relative;
+            color: #ca3a16;
+            background-color: #fff;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            overflow: hidden;
+        }
+
+        .button:active {
+            transform: translateX(-8px);
+        }
+
+        .button:hover {
+            background-color: #000;
+        }
+
+        .button:hover .button__icon-wrapper {
+            color: #000;
+        }
+
+        .button__icon-svg--copy {
+            position: absolute;
+            transform: translate(-150%, 150%);
+        }
+
+        .button:hover .button__icon-svg:first-child {
+            transition: transform 0.3s ease-in-out;
+            transform: translate(150%, -150%);
+        }
+
+        .button:hover .button__icon-svg--copy {
+            transition: transform 0.3s ease-in-out 0.1s;
+            transform: translate(0);
+        }
+
+        .cta {
+            display: flex;
+            justify-content: center;
+        }
+
+        .about {
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            line-height: 3.6vh;
+            max-height: fit-content;
+            width: 100%;
+            background-color: aliceblue;
+            font-family: "Ubuntu Mono";
+            padding: 2rem;
+            position: relative;
+            transform: translateX(100%);
+            transition: 0.6s transform ease;
+            z-index: 10;
+        }
+
+        .about h2 {
+            color: #ca3a16;
+            font-family: "Arima";
+            margin-bottom: 1rem;
+        }
+
+        .slogan {
+            color: #ca3a16;
+            font-size: medium;
+            font-family: "Arima";
+            text-align: right;
+            margin-top: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .footer {
+            text-align: center;
+            width: 100%;
+            font-weight: 300;
+            font-family: "Arima";
+            font-size: small;
+            margin-top: auto;
+        }
+
+        .icon {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            font-weight: 600;
+            position: absolute;
+            top: 3%;
+            right: 3%;
+            height: 2rem;
+            width: 2rem;
+            display: inline-block;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            cursor: pointer;
+            z-index: 10;
+        }
+
+        .credentials {
+            display: flex;
+            flex-direction: column;
+            padding: 2rem;
+            max-width: 60%;
+            gap: 2rem;
+        }
+
+        .dropdown-label {
+            width:100%;
+            font-family: "Ubuntu Mono";
+            font-weight: 600;
+            color: #ca3a16;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .dropdown {
+            width: 100%;
+            padding: 0.5rem;
+            font-size: 1rem;
+            border: 2px solid #ca3a16;
+            border-radius: 5px;
+            background-color: white;
+            color: #ca3a16;
+            font-family: "Ubuntu Mono";
+            cursor: pointer;
+        }
+
+        .dropdown:focus {
+            outline: none;
+            border-color: #8c2a0f;
+            box-shadow: 0 0 5px rgba(202, 58, 22, 0.5);
+        }
+        @media (max-width:900px) {
+            .credentials{
+                margin-top: 5vh;
+                padding: 2rem 0.4rem;
+                max-width: 90%;
+            }
+            #contents{
+                padding-right: 1rem;
+                padding-left: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="home">
+
+        <div class="about">
+            <div class="icon">
+                <i class="ri-close-fill"></i>
+            </div>
+            <h2>About Us</h2>
+            <p>Welcome to PRS, a revolutionary open-source initiative designed to enhance students'
+                cognitive development and exam revision through engaging, well-structured questions.</p>
+
+            <p>As final exams approach, students often struggle with effective revision strategies. Our platform
+                bridges this gap by providing a structured question-based learning experience, ensuring they retain
+                concepts efficiently.</p>
+
+            <p>
+                This visionary project is built with the idea of collaborative learning, allowing students to practice,
+                assess, and improve their knowledge effortlessly. Since it's open-source, anyone can contribute, refine,
+                and expand this initiative to benefit a wider student community.
+            </p>
+
+            Join us in making learning smarter, sharper, and more effective! 🚀
+
+            <div class="slogan">
+                - Your revision is OUR priority...
+            </div>
+            <div class="footer">
+                Made with ❤️ by Piyush Mishra & Rajiv Ranjan <br>
+                © CopyRight of PRS Crew since 2025
+            </div>
+        </div>
+        <div id="contents">
+            <div class="icon">
+                <i class="ri-menu-3-fill"></i>
+            </div>
+            <div class="logo">
+                <div class="img">
+                    <img src="data/android-chrome-512x512.png" alt="">
+                </div>
+                <h3>PRS: Practice & Revision System</h3>
+            </div>
+
+            <div class="credentials">
+                <div class="sub">
+                    <label for="subject" class="dropdown-label">Select Subject:</label>
+                    <select id="subject" class="dropdown">
+                        <option value="Physics">Physics</option>
+                        <option value="Chemistry">Chemistry</option>
+                        <option value="Biology">Biology</option>
+                        <option value="Literature">Literature</option>
+                        <option value="Language">Language</option>
+                        <option value="History">History</option>
+                        <option value="Economics">Economics</option>
+                        <option value="Geography">Geography</option>
+                        <option value="Civics">Civics</option>
+                    </select>
+                </div>
+                <div class="questions">
+                    <label for="questions" class="dropdown-label">Select No. Of Questions:</label>
+                    <select id="subject" class="dropdown">
+                        <option value="5">5</option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                        <option value="30">30</option>
+                        <option value="30">50</option>
+                    </select>
+                </div>
+                <div class="time">
+                    <label for="time" class="dropdown-label">Select the time of the test:</label>
+                    <select id="time" class="dropdown">
+                        <option value="physics">30sec</option>
+                        <option value="chemistry">1 min</option>
+                        <option value="biology">2 mins</option>
+                        <option value="literature">3 mins</option>
+                        <option value="language">5 mins</option>
+                        <option value="language">10 mins</option>
+                    </select>
+                </div>
+                <div class="cta">
+                    <button href="#" class="button" style="--clr: #7808d0">
+                        <span class="button__icon-wrapper">
+                            <svg viewBox="0 0 14 15" fill="none" xmlns="http://www.w3.org/2000/svg" class="button__icon-svg"
+                                width="10">
+                                <path
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                    fill="currentColor"></path>
+                            </svg>
+    
+                            <svg viewBox="0 0 14 15" fill="none" width="10" xmlns="http://www.w3.org/2000/svg"
+                                class="button__icon-svg button__icon-svg--copy">
+                                <path
+                                    d="M13.376 11.552l-.264-10.44-10.44-.24.024 2.28 6.96-.048L.2 12.56l1.488 1.488 9.432-9.432-.048 6.912 2.304.024z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </span>
+                        Test Your Self
+                    </button>
+    
+                </div>
+            </div>
+            <div class="footer">
+                Made with ❤️ by Piyush Mishra & Rajiv Ranjan <br>
+                © CopyRight of PRS Crew since 2025
+            </div>
+        </div>
+    </div>
+    <script>
+        document.querySelector('#contents .icon').addEventListener('click', function () {
+            document.querySelector('.about').style.height = `${document.querySelector('#home').offsetHeight}px`
+            document.querySelector('.about').style.transform = 'translateX(0%)'
+        })
+        document.querySelector('.about .icon').addEventListener('click', function () {
+            document.querySelector('.about').style.transform = 'translateX(100%)';
+        })
+    </script>
+</body>
+
+</html>
