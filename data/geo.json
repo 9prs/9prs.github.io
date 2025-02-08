@@ -95,7 +95,7 @@
             "Godavari",
             "Ganga",
             "Krishna",
-            "Cauvery"
+            "Kaveri"
         ],
         "answer": "Ganga"
     },
@@ -118,6 +118,16 @@
             "Meghalaya Plateau"
         ],
         "answer": "Chotanagpur Plateau"
+    },
+    {
+        "question": "What is the length of land boundary of India?",
+        "options": [
+            "1500 km",
+            "15,000 km",
+            "15,100 km",
+            "15,200 km"
+        ],
+        "answer": "15,200 km"
     },
     {
         "question": "Which mountain range forms the eastern boundary of the Indian subcontinent?",
@@ -150,6 +160,26 @@
         "answer": "Peninsular India"
     },
     {
+        "question": "By what name Brahmputra is called in Tibet?",
+        "options": [
+            "Tsang Po",
+            "Chang Cho",
+            "Hwang Ho",
+            "Neva"
+        ],
+        "answer": "Tsang Po"
+    },
+    {
+        "question": "What is the name of that massive river which forms in Bangladesh by the merging of Ganga and Brahmputra?",
+        "options": [
+            "Meghna",
+            "Hugli",
+            "Dihang",
+            "Lohit"
+        ],
+        "answer": "Meghna"
+    },
+    {
         "question": "Which of the following is a major feature of the Himalayan region?",
         "options": [
             "Alluvial soil",
@@ -170,6 +200,26 @@
         "answer": "Indus"
     },
     {
+        "question": "The Ganga river basin lies between which two rivers?",
+        "options": [
+            "Teesta-Dihang",
+            "Ghaghar-Teesta",
+            "Indus-Kali",
+            "Dibang-Lohit"
+        ],
+        "answer": "Ghaghar-Teesta"
+    },
+    {
+        "question": "What are the black soil area of the peninsular plateau?",
+        "options": [
+            "Deccan Trap",
+            "Barchans",
+            "Gondwana Land",
+            "Indo-Gangetic Basin"
+        ],
+        "answer": "Deccan Trap"
+    },
+    {
         "question": "Which region in India is prone to earthquakes due to tectonic activity?",
         "options": [
             "Deccan Plateau",
@@ -180,44 +230,44 @@
         "answer": "Himalayan Region"
     },
     {
-        "question": "Which of these is not a part of the Northern Plains?",
+        "question": "Which of these is made of older alluvium?",
         "options": [
             "Bhabar",
             "Terai",
-            "Peninsula",
-            "Delta"
+            "Bhangar",
+            "Khadar"
         ],
-        "answer": "Peninsula"
+        "answer": "Bhangar"
     },
     {
-        "question": "Which plateau is known for its black soil, suitable for cotton cultivation?",
+        "question": "Which of the following rivers flows in the ChotaNagpuria Plateau?",
         "options": [
-            "Deccan Plateau",
-            "Malwa Plateau",
-            "Chotanagpur Plateau",
-            "Bundelkhand Plateau"
+            "Damodar",
+            "Chambal",
+            "Son",
+            "Mahanadi"
         ],
-        "answer": "Deccan Plateau"
+        "answer": "Damodar"
     },
     {
-        "question": "Which pass is an important trade route between India and China?",
+        "question": "Which of the following insland is part of Lakshdweep and popular for birds?",
         "options": [
-            "Nathu La",
-            "Banihal Pass",
-            "Shipki La",
-            "Khyber Pass"
+            "Pitti Island",
+            "Barren Island",
+            "Kavarati",
+            "Daman"
         ],
-        "answer": "Nathu La"
+        "answer": "Pitti Island"
     },
     {
-        "question": "Which mountain range separates the Indian subcontinent from Tibet?",
+        "question": "What is the area of pitti island?",
         "options": [
-            "Vindhyas",
-            "Satpura",
-            "Himalayas",
-            "Aravalli"
+            "32sq km",
+            "30sq km",
+            "40sq km",
+            "45sq km"
         ],
-        "answer": "Himalayas"
+        "answer": "32sq km"
     },
     {
         "question": "The Northern Plains of India are mainly formed by which river system?",
@@ -240,7 +290,17 @@
         "answer": "Kanchenjunga"
     },
     {
-        "question": "Which river originates from Amarkantak Plateau?",
+        "question": "What is the height of Kanchenjunga?",
+        "options": [
+            "8598m",
+            "8848m",
+            "8657m",
+            "2415m"
+        ],
+        "answer": "8598m"
+    },
+    {
+        "question": "Which river originates from Amarkantak hills?",
         "options": [
             "Godavari",
             "Mahanadi",
@@ -248,6 +308,16 @@
             "Ganga"
         ],
         "answer": "Narmada"
+    },
+    {
+        "question": "Which river forms Chilika lake?",
+        "options": [
+            "Godavari",
+            "Mahanadi",
+            "Narmada",
+            "Ganga"
+        ],
+        "answer": "Mahanadi"
     },
     {
         "question": "Which region of India is known for its sand dunes?",
@@ -270,14 +340,14 @@
         "answer": "Narmada"
     },
     {
-        "question": "Which of the following separates the Peninsular Plateau from the Northern Plains?",
+        "question": "Which of the following marks the eastern most boundary of Malwa Plateau?",
         "options": [
-            "Aravalli Range",
-            "Vindhya Range",
+            "BundelKhand",
+            "Karbi-Anglong Plateau",
             "Satpura Range",
             "Eastern Ghats"
         ],
-        "answer": "Vindhya Range"
+        "answer": "BundelKhand"
     },
     {
         "question": "Which of these physiographic divisions of India is the oldest?",
@@ -290,14 +360,14 @@
         "answer": "Peninsular Plateau"
     },
     {
-        "question": "Which pass provides a link between Ladakh and Kashmir Valley?",
+        "question": "At which place Bhagirathi and Alaknanda merges and forms Ganga?",
         "options": [
-            "Nathu La",
-            "Banihal Pass",
-            "Karakoram Pass",
-            "Shipki La"
+            "DevPrayag",
+            "PrayagRaj",
+            "Haridwar",
+            "Ambala"
         ],
-        "answer": "Banihal Pass"
+        "answer": "DevPrayag"
     },
     {
         "question": "The Western Ghats are also known as?",
@@ -310,14 +380,14 @@
         "answer": "Sahyadris"
     },
     {
-        "question": "Which Indian state has the largest number of glaciers?",
+        "question": "Which of the following is a fresh water AND natural lake?",
         "options": [
-            "Himachal Pradesh",
-            "Uttarakhand",
-            "Sikkim",
-            "Jammu & Kashmir"
+            "Dal Lake",
+            "Govind Sagar Lake",
+            "Chilika Lake",
+            "Sambhar Lake"
         ],
-        "answer": "Jammu & Kashmir"
+        "answer": "Dal Lake"
     },
     {
         "question": "The Aravalli Hills extend across which two states?",
@@ -350,16 +420,6 @@
         "answer": "Damodar"
     },
     {
-        "question": "Which river originates from the Amarkantak Plateau?",
-        "options": [
-            "Narmada",
-            "Tapi",
-            "Godavari",
-            "Krishna"
-        ],
-        "answer": "Narmada"
-    },
-    {
         "question": "Which river is known as the ‘Sorrow of Bihar’?",
         "options": [
             "Kosi",
@@ -380,17 +440,17 @@
         "answer": "Godavari"
     },
     {
-        "question": "Which river forms the largest delta in the world?",
+        "question": "Which of the following is an attractive tree of SundarBans?",
         "options": [
-            "Ganga-Brahmaputra",
-            "Krishna-Godavari",
-            "Indus-Sutlej",
-            "Mahanadi-Brahmani"
+            "Sundari",
+            "Mangrove",
+            "Teak",
+            "Sal"
         ],
-        "answer": "Ganga-Brahmaputra"
+        "answer": "Sundari"
     },
     {
-        "question": "Which is the main tributary of the Ganga that flows through the capital of India?",
+        "question": "Which is the main tributary of the Ganga that flows through the capital of India and both merges at PrayagRaj?",
         "options": [
             "Yamuna",
             "Son",
@@ -410,14 +470,14 @@
         "answer": "Indus"
     },
     {
-        "question": "Which is the largest tributary of the Indus River?",
+        "question": "Which of the following is the tributary of Indus IN India?",
         "options": [
             "Jhelum",
-            "Chenab",
+            "Zaskar",
             "Beas",
             "Ravi"
         ],
-        "answer": "Chenab"
+        "answer": "Zaskar"
     },
     {
         "question": "Which is the largest freshwater lake in India?",
@@ -430,14 +490,14 @@
         "answer": "Wular Lake"
     },
     {
-        "question": "Which river is known for forming the spectacular 'Gokak Falls'?",
+        "question": "Which of the following rivers forms the Dhuandhar waterfalls near Jabalpur?",
         "options": [
-            "Krishna",
+            "Narmada",
             "Tungabhadra",
             "Sharavati",
             "Ghataprabha"
         ],
-        "answer": "Ghataprabha"
+        "answer": "Narmada"
     },
     {
         "question": "Which river has the Hirakud Dam built on it?",
@@ -470,14 +530,14 @@
         "answer": "Mahanadi"
     },
     {
-        "question": "Which river has formed the famous Jog Falls?",
+        "question": "Which is the heighest fall of India?",
         "options": [
-            "Sharavati",
-            "Krishna",
-            "Godavari",
-            "Tungabhadra"
+            "Jog Falls",
+            "Dhuandhar WaterFalls",
+            "DudhSagar Falls",
+            "Kunchikal Falls"
         ],
-        "answer": "Sharavati"
+        "answer": "Jog Falls"
     },
     {
         "question": "Which river is the main water source for Rajasthan?",
@@ -560,14 +620,14 @@
         "answer": "Godavari"
     },
     {
-        "question": "Which river is known for the famous 'Pench National Park'?",
+        "question": "Which of the following river is the tributary of Kaveri?",
         "options": [
-            "Narmada",
-            "Godavari",
+            "Bhavani",
+            "Wain Ganga",
             "Krishna",
-            "Pench"
+            "Pranhita"
         ],
-        "answer": "Pench"
+        "answer": "Bhavani"
     },
     {
         "question": "Which of the following is a west-flowing river?",
@@ -602,12 +662,12 @@
     {
         "question": "Which of the following regions receives the highest rainfall in India?",
         "options": [
-            "Western Ghats",
-            "Rajasthan",
-            "Thar Desert",
-            "Leh-Ladakh"
+            "Mawsynram",
+            "Anglong",
+            "Kerala",
+            "Tamil Nadu"
         ],
-        "answer": "Western Ghats"
+        "answer": "Mawsynram"
     },
     {
         "question": "What is the primary cause of the Indian monsoon?",
