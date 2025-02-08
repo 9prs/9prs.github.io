@@ -89,6 +89,21 @@ const creatingQuestions = () => {
     }
 }
 
+function testTimer(){
+    let time = testTime;
+    let minutes = document.querySelector('.minute');
+    let seconds = document.querySelector('.seconds');
+    let timer = setInterval(() => {
+        time--;
+        minutes.textContent = String(Math.floor(time/60)).padStart(2,"0");
+        seconds.textContent = String(time%60).padStart(2,"0");
+        if(time == 0){
+            alert('Time Up')
+            clearInterval(timer);
+        }
+    }, 1000);
+}
+
 function reverseQuestion() {
     if (questionNum > 0) {
         if (questionNum == 1) {
@@ -149,4 +164,5 @@ export const app = async () => {
     backQue.addEventListener('click', reverseQuestion);
     validatingAnswers();
     renderAnsweredQuestion();
+    testTimer();
 }

@@ -58,3 +58,40 @@
     transform: translate(-50%, -50%) scale(4);
     transition: 1.5s ease;
 }
+
+/* code for timer */
+
+.timer-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.timeLeft{
+    display: flex;
+    align-items: center;
+    font-family: "Arima";
+}
+
+.timer {
+    border: 1.8px solid #ca3a16;
+    background-color: #ca3a1610;
+    font-size: large;
+    font-weight: bold;
+    color: #ca3a16;
+    padding: 0.2em 0.4em;
+    border-radius: 1em;
+}
+
+/* code for hard submit */
+#main nav button.submit{
+    border: 3px solid #ca3a16;
+    background-color: #ca3a1610;
+    color: #ca3a16;
+    font-family: "Arima";
+    border-radius: 1.5em;
+    padding: 0.5em 1.5em;
+    font-weight: 800;
+    cursor: pointer;
+}
