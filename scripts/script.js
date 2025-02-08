@@ -7,7 +7,6 @@ let askedQuestions = [];
 let questionNum = 0;
 let answeredArray = [];
 let answeredQuestions = [];
-let maximumQuestionsLimit = prompt("Enter the max questions: ");
 let subjects = {
     'Physics' : "phy.json",
     'Biology' : "bio.json",
@@ -21,7 +20,6 @@ let subjects = {
     'Language' : "lang.json"
 }
 
-let selectedSubject = prompt("Enter the sub: ");
 
 function fetchData() {
     return fetch(`data/${subjects[selectedSubject]}`)
@@ -30,7 +28,7 @@ function fetchData() {
             data = JSONdata;
             return JSONdata;
         })
-        .catch(error => console.error('Error fetching JSON:', error));
+        .catch(error => {alert('ERR_404 \n\nWe are having some trouble to find questions! Please refresh the site and then try...');console.error('Error fetching JSON:', error)});
 }
 async function fetchingData() {
     await fetchData();
