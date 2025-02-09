@@ -29,7 +29,7 @@ export async function logResults() {
         "Questions Attempted": answeredQuestions.length,
         "Answered Correct": correctAnswer,
         "Answered Incorrect": incorrectAnswer,
-        "Time took": testTime - time,
+        "Time took": `${String(Math.floor((testTime-time)/60)).padStart(2, "0")} : ${String((testTime - time)%60).padStart(2, "0")}`,
         "Percentage": percentage + "%",
         "Remarks": ai_generated_remarks 
     }
