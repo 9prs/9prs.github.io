@@ -73,7 +73,9 @@ const renderAnsweredQuestion = () => {
             })
         }
     }
-    requestAnimationFrame(renderAnsweredQuestion);
+    document.addEventListener('click',function(){
+        renderAnsweredQuestion();
+    })
 }
 
 const creatingQuestions = () => {
