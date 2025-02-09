@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded',function(){
 setTimeout(()=>{
     document.querySelector('#home').style.display = 'block'
         document.querySelector('#contents .icon').addEventListener('click', function () {
-            document.querySelector('.wrapper').style.maxHeight = 'fit-content';
+            document.querySelector('.wrapper').style.maxHeight = `${document.querySelector(".about").offsetHeight}px`;
             document.querySelector('#home').style.maxHeight = 'fit-content';
             document.querySelector('.about').style.height = `${document.querySelector('#home').offsetHeight}px`;
             document.querySelector('.about').style.transform = 'translateX(0%)';

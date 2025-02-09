@@ -169,5 +169,5 @@ export const app = async () => {
     backQue.addEventListener('click', reverseQuestion);
     validatingAnswers();
     renderAnsweredQuestion();
-    testTimer();
+    setTimeout(()=>{testTimer()},1500)
 }

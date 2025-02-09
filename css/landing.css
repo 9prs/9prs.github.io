@@ -59,11 +59,14 @@ body {
     display: flex;
     flex-direction: column;
     color: #ca3a16;
-    font-family: "Arima";
     justify-content: center;
     align-items: center;
     font-size: large;
     text-align: center;
+}
+
+.logo h3{
+    font-family: "Arima";
 }
 
 .logo .img {
@@ -150,6 +153,7 @@ body {
 .cta {
     display: flex;
     justify-content: center;
+    margin-top: auto;
 }
 
 .about {
@@ -163,10 +167,11 @@ body {
     background-color: aliceblue;
     font-family: "Ubuntu Mono";
     padding: 2rem;
-    position: relative;
+    position: sticky;
+    top: 0%;
     transform: translateX(100%);
     transition: 0.6s transform ease;
-    z-index: 10;
+    z-index: 25;
 }
 
 .about h2 {
