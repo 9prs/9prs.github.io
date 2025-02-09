@@ -20,7 +20,6 @@ let subjects = {
     'Economics': "econ.json",
     'Geography': "geo.json",
     'Civics': "civics.json",
-    'Maths': "maths.json",
     'Language': "lang.json"
 }
 
