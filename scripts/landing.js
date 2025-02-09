@@ -66,9 +66,6 @@ setTimeout(()=>{
             }
             
             app();
-            console.log(maximumQuestionsLimit)
-            console.log(selectedSubject)
-            console.log(testTime)
         })
         
 },3100)

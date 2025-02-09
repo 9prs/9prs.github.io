@@ -1,14 +1,17 @@
 import {selectedSubject,maximumQuestionsLimit,testTime} from "./landing.js";
+import { submitTest } from "./submit.js";
+import {submitted} from "./submit.js"
 
 let questionDiv = document.querySelector(".question");
 let optionsArr = document.querySelectorAll(".option");
 let nextQue = document.querySelector(".right");
 let backQue = document.querySelector(".left");
 export let data = [];
-let askedQuestions = [];
+export let askedQuestions = [];
 let questionNum = 0;
-let answeredArray = [];
+export let answeredArray = [];
 export let answeredQuestions = [];
+export let time = 0;
 let subjects = {
     'Physics' : "phy.json",
     'Biology' : "bio.json",
@@ -90,17 +93,21 @@ const creatingQuestions = () => {
 }
 
 function testTimer(){
-    let time = testTime;
+    time = testTime;
     let minutes = document.querySelector('.minute');
     let seconds = document.querySelector('.seconds');
     let timer = setInterval(() => {
+        if(submitted == true){
+            clearInterval(timer);
+        }
         time--;
         minutes.textContent = String(Math.floor(time/60)).padStart(2,"0");
         seconds.textContent = String(time%60).padStart(2,"0");
         if(time == 0){
-            alert('Time Up')
             clearInterval(timer);
+            submitTest("submitByTime");
         }
+        
     }, 1000);
 }
 
@@ -129,8 +136,6 @@ function validatingAnswers() {
         let obj = { question: question.question, options: question.options, answer: question.answer, answerGiven: target.querySelector('.txt').textContent };
         answeredArray.push(obj);
         answeredQuestions.push(questionNum);
-        console.log(answeredQuestions);
-        console.log(answeredArray)
         if (questionNum == 0) {
             question = askedQuestions[questionNum];
         }

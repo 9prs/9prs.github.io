@@ -56,7 +56,7 @@ body {
     width:300px;
     max-width: 500px;
     background-color: white;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 20px #ca3a1684, inset 0px 10px 50px #ca3a1684;
     border-radius: 1em;
     overflow: hidden;
     word-wrap: break-word;
@@ -71,6 +71,10 @@ body {
     transform: translate(-50%,-50%);
     color:black;
     justify-content: space-between;
+}
+
+.warning h3{
+    color:#ca3a16;
 }
 
 .popup{
