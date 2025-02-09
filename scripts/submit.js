@@ -10,7 +10,6 @@ const warning = document.querySelector('.warning');
 export let submitted = false;
 
 export function submitTest(e) {
-    submitted = true;
     if (e != "submitByTime") {
         if (!e.target.classList.contains("hard")) {
             if (answeredQuestions.length < maximumQuestionsLimit) {
@@ -18,19 +17,22 @@ export function submitTest(e) {
                 warning.innerHTML = `<div class="txts"><h3>All questions are not answered yet...</h3><br><h5>Are you sure you want to submit the test?</h5></div><div class='btns'><div class="close"><i class="ri-close-circle-fill"></i></div><div class="confirm"><i class="ri-checkbox-circle-fill"></i></div></div>`;
             }
             else {
+                submitted = true;
                 finalSubmission();
             }
         }
         else {
+            submitted = true;
             finalSubmission();
         }
     }
     else {
+        submitted = true;
         finalSubmission();
     }
 }
 
-document.querySelector('#submission .home').addEventListener('click',function(){
+document.querySelector('#submission .home').addEventListener('click', function () {
     location.reload(true)
 })
 
@@ -55,8 +57,9 @@ warning.addEventListener('click', function (e) {
         warning.style.display = 'none';
     }
     if (e.target.classList.contains('ri-checkbox-circle-fill' || e.target.classList.contains('confirm'))) {
-        alert("Test Submitted");
-        answerEvaluation();
-        displayResults();
+        if(getComputedStyle(warning).display == 'flex'){
+            warning.style.display = 'none';
+        }
+        finalSubmission();
     }
 })
