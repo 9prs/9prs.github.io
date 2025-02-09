@@ -1,0 +1,602 @@
+[
+    {
+        "question": "Which of the following is not a characteristic of particles of matter?",
+        "options": [
+            "Particles of matter have space between them",
+            "Particles of matter are in continuous motion",
+            "Particles of matter attract each other",
+            "Particles of matter are stationary"
+        ],
+        "answer": "Particles of matter are stationary"
+    },
+    {
+        "question": "What is the physical state of water at 100°C?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Gas"
+    },
+    {
+        "question": "Which property of matter is demonstrated when sugar dissolves in water?",
+        "options": [
+            "Particles of matter are in constant motion",
+            "Particles of matter have spaces between them",
+            "Particles of matter attract each other",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following processes is exothermic?",
+        "options": [
+            "Melting of ice",
+            "Evaporation of water",
+            "Condensation of steam",
+            "Sublimation of camphor"
+        ],
+        "answer": "Condensation of steam"
+    },
+    {
+        "question": "The temperature at which a liquid changes into gas is called?",
+        "options": [
+            "Melting point",
+            "Boiling point",
+            "Freezing point",
+            "Condensation point"
+        ],
+        "answer": "Boiling point"
+    },
+    {
+        "question": "What happens when a solid changes directly into gas without becoming liquid?",
+        "options": [
+            "Melting",
+            "Condensation",
+            "Sublimation",
+            "Evaporation"
+        ],
+        "answer": "Sublimation"
+    },
+    {
+        "question": "Which state of matter has a definite shape and volume?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Solid"
+    },
+    {
+        "question": "Which of the following is an example of a homogeneous mixture?",
+        "options": [
+            "Air",
+            "Sand and salt",
+            "Oil and water",
+            "Concrete"
+        ],
+        "answer": "Air"
+    },
+    {
+        "question": "Which separation method is used to separate salt from seawater?",
+        "options": [
+            "Filtration",
+            "Distillation",
+            "Evaporation",
+            "Sublimation"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "Which of the following is a pure substance?",
+        "options": [
+            "Milk",
+            "Steel",
+            "Diamond",
+            "Brass"
+        ],
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the process of conversion of a liquid into vapor without reaching its boiling point?",
+        "options": [
+            "Condensation",
+            "Evaporation",
+            "Sublimation",
+            "Freezing"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "Which state of matter has the highest kinetic energy?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Bose-Einstein Condensate"
+        ],
+        "answer": "Gas"
+    },
+    {
+        "question": "Which factor does NOT affect the rate of evaporation?",
+        "options": [
+            "Surface area",
+            "Humidity",
+            "Boiling point",
+            "Wind speed"
+        ],
+        "answer": "Boiling point"
+    },
+    {
+        "question": "Which of the following is an example of a colloidal solution?",
+        "options": [
+            "Saltwater",
+            "Milk",
+            "Sugar solution",
+            "Copper sulfate solution"
+        ],
+        "answer": "Milk"
+    },
+    {
+        "question": "Which method is used to separate two immiscible liquids?",
+        "options": [
+            "Evaporation",
+            "Chromatography",
+            "Separating funnel",
+            "Filtration"
+        ],
+        "answer": "Separating funnel"
+    },
+    {
+        "question": "What happens to the boiling point of a liquid when pressure is increased?",
+        "options": [
+            "Boiling point increases",
+            "Boiling point decreases",
+            "Boiling point remains constant",
+            "Boiling point first decreases then increases"
+        ],
+        "answer": "Boiling point increases"
+    },
+    {
+        "question": "Which component of air is a pure substance?",
+        "options": [
+            "Oxygen",
+            "Air",
+            "Dust",
+            "Smoke"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Which type of mixture is formed when two substances are mixed but can be seen separately?",
+        "options": [
+            "Colloidal solution",
+            "Homogeneous mixture",
+            "Heterogeneous mixture",
+            "Pure substance"
+        ],
+        "answer": "Heterogeneous mixture"
+    },
+    {
+        "question": "Which method is used to separate pigments in ink?",
+        "options": [
+            "Distillation",
+            "Chromatography",
+            "Evaporation",
+            "Sedimentation"
+        ],
+        "answer": "Chromatography"
+    },
+    {
+        "question": "Which of the following is a property of gases?",
+        "options": [
+            "Definite shape and volume",
+            "Definite shape but no definite volume",
+            "No definite shape but definite volume",
+            "Neither definite shape nor definite volume"
+        ],
+        "answer": "Neither definite shape nor definite volume"
+    },
+    {
+        "question": "Which state of matter has the strongest intermolecular forces?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Solid"
+    },
+    {
+        "question": "Which method is used to separate a dissolved solid from a liquid?",
+        "options": [
+            "Filtration",
+            "Crystallization",
+            "Decantation",
+            "Magnetic separation"
+        ],
+        "answer": "Crystallization"
+    },
+    {
+        "question": "Which of the following is an element?",
+        "options": [
+            "Brass",
+            "Steel",
+            "Gold",
+            "Air"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "question": "Which of the following is NOT an example of sublimation?",
+        "options": [
+            "Camphor",
+            "Dry ice",
+            "Naphthalene",
+            "Salt"
+        ],
+        "answer": "Salt"
+    },
+    {
+        "question": "Which type of mixture can be separated by simple filtration?",
+        "options": [
+            "Homogeneous mixture",
+            "Colloidal solution",
+            "Suspension",
+            "True solution"
+        ],
+        "answer": "Suspension"
+    },
+    {
+        "question": "Who gave the law of conservation of mass?",
+        "options": [
+            "Dalton",
+            "Lavoisier",
+            "Thomson",
+            "Rutherford"
+        ],
+        "answer": "Lavoisier"
+    },
+    {
+        "question": "Which of the following statements is true about atoms?",
+        "options": [
+            "Atoms can be created",
+            "Atoms can be destroyed",
+            "Atoms combine in whole number ratios to form compounds",
+            "Atoms are always neutral"
+        ],
+        "answer": "Atoms combine in whole number ratios to form compounds"
+    },
+    {
+        "question": "Which scientist proposed the atomic theory?",
+        "options": [
+            "Lavoisier",
+            "Dalton",
+            "Rutherford",
+            "Bohr"
+        ],
+        "answer": "Dalton"
+    },
+    {
+        "question": "What is the chemical formula of ammonia?",
+        "options": [
+            "NH₄",
+            "NH₃",
+            "NO₃",
+            "N₂H₄"
+        ],
+        "answer": "NH₃"
+    },
+    {
+        "question": "Which subatomic particle was discovered by J.J. Thomson?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Nucleus"
+        ],
+        "answer": "Electron"
+    },
+    {
+        "question": "What is the charge on a neutron?",
+        "options": [
+            "Positive",
+            "Negative",
+            "Neutral",
+            "Depends on the element"
+        ],
+        "answer": "Neutral"
+    },
+    {
+        "question": "Which atomic model is also known as the plum pudding model?",
+        "options": [
+            "Rutherford’s model",
+            "Bohr’s model",
+            "Dalton’s model",
+            "Thomson’s model"
+        ],
+        "answer": "Thomson’s model"
+    },
+    {
+        "question": "What is the SI unit of atomic mass?",
+        "options": [
+            "Gram",
+            "Kilogram",
+            "Unified atomic mass unit (u)",
+            "Mole"
+        ],
+        "answer": "Unified atomic mass unit (u)"
+    },
+    {
+        "question": "Which element has an atomic number of 6?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon",
+            "Hydrogen"
+        ],
+        "answer": "Carbon"
+    },
+    {
+        "question": "What is the atomic number of hydrogen?",
+        "options": [
+            "1",
+            "2",
+            "8",
+            "10"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which of the following has the highest atomic mass?",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon",
+            "Sodium"
+        ],
+        "answer": "Sodium"
+    },
+    {
+        "question": "What is the valency of oxygen?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which of the following molecules is diatomic?",
+        "options": [
+            "CO₂",
+            "H₂O",
+            "O₂",
+            "NH₃"
+        ],
+        "answer": "O₂"
+    },
+    {
+        "question": "Which subatomic particle is found in the nucleus along with protons?",
+        "options": [
+            "Electrons",
+            "Neutrons",
+            "Quarks",
+            "Photons"
+        ],
+        "answer": "Neutrons"
+    },
+    {
+        "question": "What is the charge on an electron?",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "+2"
+        ],
+        "answer": "-1"
+    },
+    {
+        "question": "Who discovered the neutron?",
+        "options": [
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "James Chadwick",
+            "Niels Bohr"
+        ],
+        "answer": "James Chadwick"
+    },
+    {
+        "question": "Which of the following is NOT a molecule?",
+        "options": [
+            "H₂O",
+            "O₂",
+            "CO₂",
+            "Na"
+        ],
+        "answer": "Na"
+    },
+    {
+        "question": "What is the valency of sodium?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Which law states that mass can neither be created nor destroyed?",
+        "options": [
+            "Law of constant proportion",
+            "Law of conservation of mass",
+            "Dalton’s atomic theory",
+            "Bohr’s atomic model"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Which isotope of hydrogen has one neutron?",
+        "options": [
+            "Protium",
+            "Deuterium",
+            "Tritium",
+            "None of the above"
+        ],
+        "answer": "Deuterium"
+    },
+    {
+        "question": "What is the maximum number of electrons that can be present in the K shell?",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which scientist discovered the nucleus of an atom?",
+        "options": [
+            "Dalton",
+            "Rutherford",
+            "Bohr",
+            "Chadwick"
+        ],
+        "answer": "Rutherford"
+    },
+    {
+        "question": "What is the name of the process in which atoms rearrange to form a new substance?",
+        "options": [
+            "Physical change",
+            "Chemical reaction",
+            "Sublimation",
+            "Boiling"
+        ],
+        "answer": "Chemical reaction"
+    },
+    {
+        "question": "What is the number of protons in a neutral carbon atom?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Which scientist proposed the planetary model of the atom?",
+        "options": [
+            "Dalton",
+            "Rutherford",
+            "Bohr",
+            "Thomson"
+        ],
+        "answer": "Bohr"
+    },
+    {
+        "question": "Why do gases exert pressure?",
+        "options": [
+            "Due to gravity",
+            "Due to random motion",
+            "Due to strong forces",
+            "Due to density"
+        ],
+        "answer": "Due to random motion"
+    },
+    {
+        "question": "What type of mixture is muddy water?",
+        "options": [
+            "Solution",
+            "Colloid",
+            "Suspension",
+            "Pure substance"
+        ],
+        "answer": "Suspension"
+    },
+    {
+        "question": "Which process is used to separate acetone from water?",
+        "options": [
+            "Filtration",
+            "Decantation",
+            "Distillation",
+            "Sublimation"
+        ],
+        "answer": "Distillation"
+    },
+    {
+        "question": "Which law states that elements always combine in fixed ratios?",
+        "options": [
+            "Conservation of mass",
+            "Multiple proportions",
+            "Constant proportion",
+            "Dalton's theory"
+        ],
+        "answer": "Constant proportion"
+    },
+    {
+        "question": "Which of the following has the highest kinetic energy?",
+        "options": [
+            "Ice",
+            "Water",
+            "Steam",
+            "Salt solution"
+        ],
+        "answer": "Steam"
+    },
+    {
+        "question": "Which model of the atom is also called the 'plum pudding' model?",
+        "options": [
+            "Dalton's",
+            "Bohr's",
+            "Thomson's",
+            "Rutherford's"
+        ],
+        "answer": "Thomson's"
+    },
+    {
+        "question": "Who discovered the neutron?",
+        "options": [
+            "Bohr",
+            "Rutherford",
+            "Chadwick",
+            "Thomson"
+        ],
+        "answer": "Chadwick"
+    },
+    {
+        "question": "Which element has a valency of 3?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon",
+            "Fluorine"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which shell can hold a maximum of 18 electrons?",
+        "options": [
+            "K",
+            "L",
+            "M",
+            "N"
+        ],
+        "answer": "M"
+    },
+    {
+        "question": "Which isotope of hydrogen has two neutrons?",
+        "options": [
+            "Protium",
+            "Deuterium",
+            "Tritium",
+            "None"
+        ],
+        "answer": "Tritium"
+    }
+]
