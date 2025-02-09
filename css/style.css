@@ -141,16 +141,19 @@ body {
 }
 
 .options {
+    margin-top: 1rem;
     min-height: 70%;
+    gap: 0.3em;
     padding: 1em;
     display: flex;
     flex-direction: column;
-    gap: 1em;
+    justify-content: space-between;
 }
 
 .options .option {
+    box-sizing: border-box;
     align-items: center;
-    height: 25%;
+    height: 20%;
     width: 100%;
     display: flex;
     gap: 1em;
@@ -159,7 +162,8 @@ body {
     user-select: none;
     -webkit-user-select: none;
     cursor: pointer;
-    padding: 0 1rem;
+    padding: 0.3em 1rem;
+    padding-right: 0.7em;
     border-radius: 0.3em;
 }
 

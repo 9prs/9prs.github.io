@@ -23,7 +23,6 @@ export async function logResults() {
     let ai_generated_remarks = "You tried well...";
     percentage = ((correctAnswer * 100) / maximumQuestionsLimit);
     ai_generated_remarks = await aiGeneratingRemarks();
-    console.log('done 1')
     return result = { 
         "Asked Questions": maximumQuestionsLimit,
         "Questions Seen": askedQuestions.length,
@@ -46,5 +45,4 @@ export async function displayResults() {
     document.querySelector('#submission .timeTaken span').textContent = finalResult['Time took'];
     document.querySelector('#submission .percentage span').textContent = finalResult['Percentage'];
     document.querySelector('#submission .remarks span').innerHTML = finalResult['Remarks'];
-    console.log('done 2')
 }

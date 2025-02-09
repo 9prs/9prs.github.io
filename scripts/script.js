@@ -127,29 +127,34 @@ function reverseQuestion() {
 
 function validatingAnswers() {
     document.querySelector(".options").addEventListener("click", function (e) {
-        if (answeredQuestions.includes(questionNum)) {
-            return;
-        }
-        let question = askedQuestions[questionNum - 1];
-        let target = e.target.closest(".option");
-        question.answered = true;
-        let obj = { question: question.question, options: question.options, answer: question.answer, answerGiven: target.querySelector('.txt').textContent };
-        answeredArray.push(obj);
-        answeredQuestions.push(questionNum);
-        if (questionNum == 0) {
-            question = askedQuestions[questionNum];
-        }
-        optionsArr.forEach((val, index) => {
-            if (val.textContent == question.answer) {
-                val.querySelector('i').classList.remove('ri-circle-line');
-                val.querySelector('i').classList.add('ri-checkbox-circle-fill');
-                val.classList.add('correct');
+        if(e.target.classList.contains('option') || e.target.classList.contains('txt') || e.target.classList.contains('ri-circle-line')){
+            let target = e.target;
+            if (answeredQuestions.includes(questionNum)) {
+                return;
             }
-        })
-        if (target.querySelector('.txt').textContent != question.answer) {
-            target.querySelector('i').classList.remove('ri-circle-line');
-            target.querySelector('i').classList.add('ri-close-circle-fill');
-            target.classList.add('incorrect');
+            let question = askedQuestions[questionNum - 1];
+            if(e.target.classList == 'txt' || e.target.clssList == 'ri-circle-line'){
+                target = e.target.parentElement;
+            }
+            question.answered = true;
+            let obj = { question: question.question, options: question.options, answer: question.answer, answerGiven: target.querySelector('.txt').textContent };
+            answeredArray.push(obj);
+            answeredQuestions.push(questionNum);
+            if (questionNum == 0) {
+                question = askedQuestions[questionNum];
+            }
+            optionsArr.forEach((val, index) => {
+                if (val.textContent == question.answer) {
+                    val.querySelector('i').classList.remove('ri-circle-line');
+                    val.querySelector('i').classList.add('ri-checkbox-circle-fill');
+                    val.classList.add('correct');
+                }
+            })
+            if (target.querySelector('.txt').textContent != question.answer) {
+                target.querySelector('i').classList.remove('ri-circle-line');
+                target.querySelector('i').classList.add('ri-close-circle-fill');
+                target.classList.add('incorrect');
+            }
         }
     })
 }
