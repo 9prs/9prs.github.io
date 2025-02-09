@@ -1,6 +1,6 @@
-import {selectedSubject,maximumQuestionsLimit,testTime} from "./landing.js";
+import { selectedSubject, maximumQuestionsLimit, testTime } from "./landing.js";
 import { submitTest } from "./submit.js";
-import {submitted} from "./submit.js"
+import { submitted } from "./submit.js"
 
 let questionDiv = document.querySelector(".question");
 let optionsArr = document.querySelectorAll(".option");
@@ -13,16 +13,16 @@ export let answeredArray = [];
 export let answeredQuestions = [];
 export let time = 0;
 let subjects = {
-    'Physics' : "phy.json",
-    'Biology' : "bio.json",
-    'Chemistry' : "chem.json",
-    'History' : "hist.json",
-    'Economics' : "econ.json",
-    'Geography' : "geo.json",
-    'Civics' : "civics.json",
-    'Maths' : "maths.json",
-    'Literature' : "lit.json",
-    'Language' : "lang.json"
+    'Physics': "phy.json",
+    'Biology': "bio.json",
+    'Chemistry': "chem.json",
+    'History': "hist.json",
+    'Economics': "econ.json",
+    'Geography': "geo.json",
+    'Civics': "civics.json",
+    'Maths': "maths.json",
+    'Literature': "lit.json",
+    'Language': "lang.json"
 }
 
 function fetchData() {
@@ -32,7 +32,7 @@ function fetchData() {
             data = JSONdata;
             return JSONdata;
         })
-        .catch(error => {alert('ERR_404 \n\nWe are having some trouble to find questions! Please refresh the site and then try...');console.error('Error fetching JSON:', error)});
+        .catch(error => { alert('ERR_404 \n\nWe are having some trouble to find questions! Please refresh the site and then try...'); console.error('Error fetching JSON:', error) });
 }
 async function fetchingData() {
     await fetchData();
@@ -73,9 +73,6 @@ const renderAnsweredQuestion = () => {
             })
         }
     }
-    document.addEventListener('click',function(){
-        renderAnsweredQuestion();
-    })
 }
 
 const creatingQuestions = () => {
@@ -94,22 +91,22 @@ const creatingQuestions = () => {
     }
 }
 
-function testTimer(){
+function testTimer() {
     time = testTime;
     let minutes = document.querySelector('.minute');
     let seconds = document.querySelector('.seconds');
     let timer = setInterval(() => {
-        if(submitted == true){
+        if (submitted == true) {
             clearInterval(timer);
         }
         time--;
-        minutes.textContent = String(Math.floor(time/60)).padStart(2,"0");
-        seconds.textContent = String(time%60).padStart(2,"0");
-        if(time == 0){
+        minutes.textContent = String(Math.floor(time / 60)).padStart(2, "0");
+        seconds.textContent = String(time % 60).padStart(2, "0");
+        if (time == 0) {
             clearInterval(timer);
             submitTest("submitByTime");
         }
-        
+
     }, 1000);
 }
 
@@ -129,15 +126,16 @@ function reverseQuestion() {
 
 function validatingAnswers() {
     document.querySelector(".options").addEventListener("click", function (e) {
-        if(e.target.classList.contains('option') || e.target.classList.contains('txt') || e.target.classList.contains('ri-circle-line')){
+        if (e.target.classList.contains('option') || e.target.classList.contains('txt') || e.target.classList.contains('ri-circle-line')) {
             let target = e.target;
             if (answeredQuestions.includes(questionNum)) {
                 return;
             }
             let question = askedQuestions[questionNum - 1];
-            if(e.target.classList == 'txt' || e.target.clssList == 'ri-circle-line'){
+            if (e.target.classList.contains('txt') || e.target.classList.contains('ri-circle-line')) {
                 target = e.target.parentElement;
             }
+
             question.answered = true;
             let obj = { question: question.question, options: question.options, answer: question.answer, answerGiven: target.querySelector('.txt').textContent };
             answeredArray.push(obj);
@@ -162,11 +160,12 @@ function validatingAnswers() {
 }
 
 function shuffleArrays(array) {
-    for (let i = array.length - 1; i > 0; i--) {
+    let arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
+        [arr[i], arr[j]] = [arr[j], arr[i]];
     }
-    return array;
+    return arr;
 }
 
 export const app = async () => {
@@ -175,6 +174,6 @@ export const app = async () => {
     nextQue.addEventListener('click', loggingQuestions);
     backQue.addEventListener('click', reverseQuestion);
     validatingAnswers();
-    renderAnsweredQuestion();
-    setTimeout(()=>{testTimer()},1500)
+    document.addEventListener('click',renderAnsweredQuestion);
+    setTimeout(() => { testTimer() }, 300)
 }
