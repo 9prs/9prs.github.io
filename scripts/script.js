@@ -21,7 +21,6 @@ let subjects = {
     'Geography': "geo.json",
     'Civics': "civics.json",
     'Maths': "maths.json",
-    'Literature': "lit.json",
     'Language': "lang.json"
 }
 
