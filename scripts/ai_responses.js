@@ -11,7 +11,7 @@ export async function aiGeneratingRemarks() {
 ✔ 80-90% – "On fire! 🔥 Great effort, keep pushing! 🎯 Good luck! 🍀"  
 ✔ 60-79% – "Solid! 💪 A bit more grind and you'll be unstoppable! 🏅"  
 ✔ <50% – "Nice try! 📈 Keep practicing, you'll hit 💯 soon! 🍀"  
-Keep it interactive, positive, and concise. You must have to use the emojis from these samples only but you could make your own remarks`;
+Keep it interactive, positive, and concise. You have to make it very much exiting and humorous but keep it compact and minimal. You must have to use the emojis from these samples only but you could make your own remarks`;
     const result = await model.generateContent(prompt);
     const response = await result.response;
     return ai_remarks = await response.text();
