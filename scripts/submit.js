@@ -30,6 +30,10 @@ export function submitTest(e) {
     }
 }
 
+document.querySelector('#submission .home').addEventListener('click',function(){
+    location.reload(true)
+})
+
 submit.addEventListener('click', submitTest);
 hardSubmit.addEventListener('click', submitTest);
 
