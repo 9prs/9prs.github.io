@@ -69,3 +69,26 @@ setTimeout(()=>{
         })
         
 },3100)
+
+$(document).ready(function () {
+    var owl = $(".carousel-founders");
+    owl.owlCarousel({
+        loop: true,
+        margin: 450,
+        nav: true,
+        dots: false,
+        autoplay: true,
+        autoplayTimeout: 5000,
+        responsive: {
+            0: {
+                items: 1
+            },
+            768: {
+                items: 2
+            },
+            1200: {
+                items: 3
+            }
+        }
+    });
+});
