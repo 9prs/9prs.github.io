@@ -1,0 +1,687 @@
+[
+    {
+        "question": "Identify the tense in the sentence: 'By next year, she will have completed her project.'",
+        "options": ["Future Perfect", "Future Continuous", "Present Perfect", "Past Perfect"],
+        "answer": "Future Perfect"
+    },
+    {
+        "question": "Which sentence is in the past perfect tense?",
+        "options": [
+            "She was writing a letter.",
+            "She had written a letter before he arrived.",
+            "She is writing a letter.",
+            "She writes a letter every day."
+        ],
+        "answer": "She had written a letter before he arrived."
+    },
+    {
+        "question": "Which form of the verb should be used in the blank? 'She ______ (complete) her assignment before the teacher arrived.'",
+        "options": ["completed", "had completed", "completes", "was completing"],
+        "answer": "had completed"
+    },
+    {
+        "question": "Choose the correct sentence with the right tense usage.",
+        "options": [
+            "I had saw him yesterday.",
+            "I have seen him yesterday.",
+            "I saw him yesterday.",
+            "I seen him yesterday."
+        ],
+        "answer": "I saw him yesterday."
+    },
+    {
+        "question": "Which of the following sentences is in the future continuous tense?",
+        "options": [
+            "I will complete my work by evening.",
+            "I will be completing my work by evening.",
+            "I completed my work in the evening.",
+            "I complete my work in the evening."
+        ],
+        "answer": "I will be completing my work by evening."
+    },
+    {
+        "question": "What is the base form of the verb in the sentence: 'She had gone to the market'?",
+        "options": ["go", "gone", "went", "going"],
+        "answer": "go"
+    },
+    {
+        "question": "Identify the correct verb form: 'By the time you reach there, the meeting ______ (start) already.'",
+        "options": ["starts", "will start", "will have started", "started"],
+        "answer": "will have started"
+    },
+    {
+        "question": "Which sentence correctly follows the sequence of tenses?",
+        "options": [
+            "He said that he will come tomorrow.",
+            "He said that he comes tomorrow.",
+            "He said that he would come tomorrow.",
+            "He said that he came tomorrow."
+        ],
+        "answer": "He said that he would come tomorrow."
+    },
+    {
+        "question": "What is the tense of the sentence: 'She has been reading for two hours'?",
+        "options": ["Present Perfect", "Past Continuous", "Present Perfect Continuous", "Future Perfect"],
+        "answer": "Present Perfect Continuous"
+    },
+    {
+        "question": "Which sentence is in the passive voice?",
+        "options": [
+            "She completed the project.",
+            "She had completed the project.",
+            "The project was completed by her.",
+            "She completes the project."
+        ],
+        "answer": "The project was completed by her."
+    },
+    {
+        "question": "Which of the following sentences is in the correct past perfect tense?",
+        "options": [
+            "When I reached the station, the train left.",
+            "When I reached the station, the train had left.",
+            "When I reach the station, the train had left.",
+            "When I reached the station, the train has left."
+        ],
+        "answer": "When I reached the station, the train had left."
+    },
+    {
+        "question": "Fill in the blank with the correct verb: 'Neither of the students ______ (be) present today.'",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+    },
+    {
+        "question": "Which of the following sentences is in the present perfect tense?",
+        "options": [
+            "She has completed her work.",
+            "She is completing her work.",
+            "She was completing her work.",
+            "She completes her work."
+        ],
+        "answer": "She has completed her work."
+    },
+    {
+        "question": "Identify the verb in the sentence: 'The teacher is explaining the topic clearly.'",
+        "options": ["teacher", "explaining", "topic", "clearly"],
+        "answer": "explaining"
+    },
+    {
+        "question": "What type of verb is 'has been' in the sentence: 'She has been working hard'?",
+        "options": ["Main verb", "Helping verb", "Modal verb", "Infinitive"],
+        "answer": "Helping verb"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "She do not know the answer.",
+            "She does not know the answer.",
+            "She does knows the answer.",
+            "She do knows the answer."
+        ],
+        "answer": "She does not know the answer."
+    },
+    {
+        "question": "Choose the correct tense: 'They ______ (play) football when it started raining.'",
+        "options": ["played", "were playing", "have played", "had played"],
+        "answer": "were playing"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "He has been finished his homework.",
+            "He has finished his homework.",
+            "He had been finished his homework.",
+            "He is been finished his homework."
+        ],
+        "answer": "He has finished his homework."
+    },
+    {
+        "question": "Which sentence uses the correct verb form?",
+        "options": [
+            "If he was here, he would help.",
+            "If he were here, he would help.",
+            "If he is here, he would help.",
+            "If he has been here, he would help."
+        ],
+        "answer": "If he were here, he would help."
+    },
+    {
+        "question": "What is the correct form of the verb? 'She ______ (visit) her grandmother every weekend.'",
+        "options": ["visits", "visited", "visiting", "has visited"],
+        "answer": "visits"
+    },
+    {
+        "question": "Identify the incorrect sentence:",
+        "options": [
+            "I am go to the market.",
+            "I am going to the market.",
+            "He is studying right now.",
+            "She has been learning English."
+        ],
+        "answer": "I am go to the market."
+    },
+    {
+        "question": "Which sentence correctly follows the past perfect rule?",
+        "options": [
+            "After he arrived, we had dinner.",
+            "After he had arrived, we had dinner.",
+            "After he arrived, we have dinner.",
+            "After he arrived, we were having dinner."
+        ],
+        "answer": "After he had arrived, we had dinner."
+    },
+    {
+        "question": "Which sentence correctly uses the past perfect continuous tense?",
+        "options": [
+            "I was waiting for two hours before she arrived.",
+            "I had been waiting for two hours before she arrived.",
+            "I had waited for two hours before she arrived.",
+            "I have been waiting for two hours before she arrived."
+        ],
+        "answer": "I had been waiting for two hours before she arrived."
+    },
+    {
+        "question": "Which sentence correctly follows the sequence of tenses?",
+        "options": [
+            "She said she will complete the work by evening.",
+            "She said she would complete the work by evening.",
+            "She says she would complete the work by evening.",
+            "She said she completes the work by evening."
+        ],
+        "answer": "She said she would complete the work by evening."
+    },
+    {
+        "question": "Fill in the blank with the correct verb form: 'I wish I ______ (be) a little taller.'",
+        "options": ["was", "were", "am", "will be"],
+        "answer": "were"
+    },
+    {
+        "question": "Which of the following sentences is in the future perfect continuous tense?",
+        "options": [
+            "He will have been studying for five hours by then.",
+            "He will be studying for five hours by then.",
+            "He will study for five hours by then.",
+            "He will have studied for five hours by then."
+        ],
+        "answer": "He will have been studying for five hours by then."
+    },
+    {
+        "question": "Identify the error in the sentence: 'He didn’t knew the answer to the question.'",
+        "options": [
+            "'didn’t' should be 'doesn’t'",
+            "'knew' should be 'know'",
+            "'answer' should be 'answers'",
+            "No error"
+        ],
+        "answer": "'knew' should be 'know'"
+    },
+    {
+        "question": "Choose the correct indirect speech for: He said, 'I am busy now.'",
+        "options": [
+            "He said that he is busy now.",
+            "He said that he was busy then.",
+            "He said that he was busy now.",
+            "He said he is being busy."
+        ],
+        "answer": "He said that he was busy then."
+    },
+    {
+        "question": "Identify the correct indirect speech: She said, 'I will call you tomorrow.'",
+        "options": [
+            "She said that she would call me tomorrow.",
+            "She said that she will call me the next day.",
+            "She said that she would call me the next day.",
+            "She said that she called me tomorrow."
+        ],
+        "answer": "She said that she would call me the next day."
+    },
+    {
+        "question": "Convert into direct speech: He said that he had finished his homework.",
+        "options": [
+            "He said, 'I finished my homework.'",
+            "He said, 'I have finished my homework.'",
+            "He said, 'I had finished my homework.'",
+            "He said, 'I was finishing my homework.'"
+        ],
+        "answer": "He said, 'I had finished my homework.'"
+    },
+    {
+        "question": "Choose the correct indirect speech: The teacher said, 'Honesty is the best policy.'",
+        "options": [
+            "The teacher said that honesty was the best policy.",
+            "The teacher said that honesty is the best policy.",
+            "The teacher told that honesty is the best policy.",
+            "The teacher says that honesty was the best policy."
+        ],
+        "answer": "The teacher said that honesty is the best policy."
+    },
+    {
+        "question": "Which of the following changes correctly in indirect speech: She said, 'Do you like coffee?'",
+        "options": [
+            "She said if I liked coffee.",
+            "She asked if I like coffee.",
+            "She asked if I liked coffee.",
+            "She said that I liked coffee."
+        ],
+        "answer": "She asked if I liked coffee."
+    },
+    {
+        "question": "Which of the following sentences correctly changes into indirect speech: He said, 'May you succeed in life!'",
+        "options": [
+            "He wished me that I may succeed in life.",
+            "He wished that I might succeed in life.",
+            "He told that I would succeed in life.",
+            "He wished I should succeed in life."
+        ],
+        "answer": "He wished that I might succeed in life."
+    },
+    {
+        "question": "Choose the correct sentence: 'He told me that he ______ there before.'",
+        "options": ["has been", "had been", "was", "is"],
+        "answer": "had been"
+    },
+    {
+        "question": "Convert into indirect speech: The teacher said, 'Keep quiet.'",
+        "options": [
+            "The teacher ordered to keep quiet.",
+            "The teacher ordered them to keep quiet.",
+            "The teacher said them to keep quiet.",
+            "The teacher told them to keep quiet."
+        ],
+        "answer": "The teacher ordered them to keep quiet."
+    },
+    {
+        "question": "Choose the correct determiner: 'I have ______ idea how to solve this problem.'",
+        "options": ["a", "an", "some", "no"],
+        "answer": "no"
+    },
+    {
+        "question": "Choose the correct determiner: 'She doesn’t have ______ money left in her account.'",
+        "options": ["some", "any", "much", "a"],
+        "answer": "any"
+    },
+    {
+        "question": "Fill in the blank with the correct determiner: '______ students in the class passed the exam with flying colors.'",
+        "options": ["Many", "Much", "A few", "Little"],
+        "answer": "Many"
+    },
+    {
+        "question": "Choose the correct determiner: 'There are only ______ apples left in the basket.'",
+        "options": ["a few", "few", "little", "a little"],
+        "answer": "a few"
+    },
+    {
+        "question": "Which sentence correctly uses a determiner?",
+        "options": [
+            "She has much books to read.",
+            "She has a few books to read.",
+            "She has little books to read.",
+            "She has a little books to read."
+        ],
+        "answer": "She has a few books to read."
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "He has an unique idea.",
+            "He has a unique idea.",
+            "He has the unique idea.",
+            "He has some unique idea."
+        ],
+        "answer": "He has a unique idea."
+    },
+    {
+        "question": "Choose the correct sentence: 'He has ______ knowledge about the subject.'",
+        "options": ["a few", "few", "a little", "little"],
+        "answer": "a little"
+    },
+    {
+        "question": "Choose the correct determiner: 'I met ______ European tourist yesterday.'",
+        "options": ["a", "an", "the", "some"],
+        "answer": "a"
+    },
+    {
+        "question": "Which of the following sentences is correct?",
+        "options": [
+            "I need an information about the project.",
+            "I need a few information about the project.",
+            "I need some information about the project.",
+            "I need a information about the project."
+        ],
+        "answer": "I need some information about the project."
+    },
+    {
+        "question": "Choose the correct sentence: 'Can you lend me ______ rupees?'",
+        "options": ["some", "any", "a", "an"],
+        "answer": "some"
+    },
+    {
+        "question": "Choose the correct determiner: 'There is ______ water in the bottle.'",
+        "options": ["a few", "few", "a little", "little"],
+        "answer": "a little"
+    },
+    {
+        "question": "Choose the correct determiner: '______ book on the table is mine.'",
+        "options": ["This", "These", "Those", "Any"],
+        "answer": "This"
+    },
+    {
+        "question": "Which of the following correctly changes into indirect speech: She said, 'Do not touch the wire!'",
+        "options": [
+            "She said me not to touch the wire.",
+            "She told me not to touch the wire.",
+            "She asked me not to touch the wire.",
+            "She said me that not to touch the wire."
+        ],
+        "answer": "She told me not to touch the wire."
+    },
+    {
+        "question": "Choose the correct sentence: 'He said, ‘How are you?’ in indirect speech is:",
+        "options": [
+            "He asked me that how I was.",
+            "He asked me how I was.",
+            "He asked me that how was I.",
+            "He asked me how was I."
+        ],
+        "answer": "He asked me how I was."
+    },
+    {
+        "question": "Choose the correct determiner: 'I have invited ______ of my close friends to the party.'",
+        "options": ["all", "each", "every", "some"],
+        "answer": "some"
+    },
+    {
+        "question": "Choose the correct sentence: 'I met ______ old friend of mine yesterday.'",
+        "options": ["a", "an", "the", "some"],
+        "answer": "an"
+    },
+    {
+        "question": "Which sentence correctly uses a modal verb?",
+        "options": [
+            "He can to swim very well.",
+            "He can swim very well.",
+            "He may to swim very well.",
+            "He must to swim very well."
+        ],
+        "answer": "He can swim very well."
+    },
+    {
+        "question": "Which modal verb is used to express **necessity**?",
+        "options": ["Can", "May", "Must", "Might"],
+        "answer": "Must"
+    },
+    {
+        "question": "Choose the correct sentence using a modal verb:",
+        "options": [
+            "You must to finish your homework.",
+            "You must finish your homework.",
+            "You must finishing your homework.",
+            "You must finished your homework."
+        ],
+        "answer": "You must finish your homework."
+    },
+    {
+        "question": "Which of the following sentences expresses **possibility**?",
+        "options": [
+            "He can be at home now.",
+            "He must be at home now.",
+            "He may be at home now.",
+            "He will be at home now."
+        ],
+        "answer": "He may be at home now."
+    },
+    {
+        "question": "Which modal verb expresses **ability**?",
+        "options": ["Shall", "Can", "Must", "Would"],
+        "answer": "Can"
+    },
+    {
+        "question": "Choose the most appropriate modal verb: 'You ______ apologize for your mistake.'",
+        "options": ["can", "may", "must", "might"],
+        "answer": "must"
+    },
+    {
+        "question": "Which sentence correctly expresses **permission**?",
+        "options": [
+            "You must take my pen.",
+            "You can take my pen.",
+            "You should take my pen.",
+            "You ought to take my pen."
+        ],
+        "answer": "You can take my pen."
+    },
+    {
+        "question": "Which modal verb is used to express **strong certainty**?",
+        "options": ["Might", "May", "Must", "Could"],
+        "answer": "Must"
+    },
+    {
+        "question": "Choose the correct sentence using a modal verb:",
+        "options": [
+            "He might studies in the library.",
+            "He might study in the library.",
+            "He might to study in the library.",
+            "He might studied in the library."
+        ],
+        "answer": "He might study in the library."
+    },
+    {
+        "question": "Which of the following expresses **a polite request**?",
+        "options": [
+            "Can you lend me your book?",
+            "You must lend me your book.",
+            "You will lend me your book.",
+            "You have to lend me your book."
+        ],
+        "answer": "Can you lend me your book?"
+    },
+    {
+        "question": "Choose the correct sentence: 'He ______ be the best player on the team, but he still needs practice.'",
+        "options": ["must", "can", "may", "shall"],
+        "answer": "may"
+    },
+    {
+        "question": "Which modal verb is used to **give advice**?",
+        "options": ["Shall", "Could", "Ought to", "Might"],
+        "answer": "Ought to"
+    },
+    {
+        "question": "Which sentence expresses **prohibition**?",
+        "options": [
+            "You may not enter the room.",
+            "You must enter the room.",
+            "You should enter the room.",
+            "You could enter the room."
+        ],
+        "answer": "You may not enter the room."
+    },
+    {
+        "question": "Which modal verb is used to express **lack of necessity**?",
+        "options": ["Must not", "Need not", "Should not", "Might not"],
+        "answer": "Need not"
+    },
+    {
+        "question": "Choose the correct sentence: 'I ______ go to the doctor. I'm feeling fine now.'",
+        "options": ["must not", "might not", "should not", "need not"],
+        "answer": "need not"
+    },
+    {
+        "question": "Choose the correct modal verb: 'If you practice daily, you ______ become a great musician.'",
+        "options": ["must", "shall", "can", "should"],
+        "answer": "can"
+    },
+    {
+        "question": "Choose the correct sentence: 'You ______ take an umbrella. It looks like it might rain.'",
+        "options": ["must", "ought to", "will", "shall"],
+        "answer": "ought to"
+    },
+    {
+        "question": "Choose the correct modal verb: 'If I were you, I ______ apologize to her immediately.'",
+        "options": ["will", "should", "shall", "must"],
+        "answer": "should"
+    },
+    {
+        "question": "Which modal verb expresses a **formal obligation**?",
+        "options": ["Must", "May", "Can", "Could"],
+        "answer": "Must"
+    },
+    {
+        "question": "Choose the correct sentence: 'He ______ have left already, but I am not sure.'",
+        "options": ["can", "must", "may", "shall"],
+        "answer": "may"
+    },
+    {
+        "question": "Which sentence has correct subject-verb agreement?",
+        "options": [
+            "The boy play in the park.",
+            "The boy plays in the park.",
+            "The boy playing in the park.",
+            "The boy have played in the park."
+        ],
+        "answer": "The boy plays in the park."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Each of the students _____ a book.'",
+        "options": ["have", "has", "were", "are"],
+        "answer": "has"
+    },
+    {
+        "question": "Identify the correct sentence:",
+        "options": [
+            "The list of items are on the table.",
+            "The list of items is on the table.",
+            "The list of items were on the table.",
+            "The list of items have been on the table."
+        ],
+        "answer": "The list of items is on the table."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Neither of the players _____ ready for the match.'",
+        "options": ["is", "are", "were", "have"],
+        "answer": "is"
+    },
+    {
+        "question": "Which sentence has correct subject-verb agreement?",
+        "options": [
+            "My friends and I enjoys playing football.",
+            "My friends and I enjoy playing football.",
+            "My friends and I enjoying playing football.",
+            "My friends and I has enjoy playing football."
+        ],
+        "answer": "My friends and I enjoy playing football."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'One of my brothers _____ an engineer.'",
+        "options": ["are", "is", "were", "have"],
+        "answer": "is"
+    },
+    {
+        "question": "Which sentence follows subject-verb agreement rules?",
+        "options": [
+            "The book and the pen is on the table.",
+            "The book and the pen are on the table.",
+            "The book and the pen was on the table.",
+            "The book and the pen has been on the table."
+        ],
+        "answer": "The book and the pen are on the table."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Neither the teacher nor the students _____ present today.'",
+        "options": ["is", "are", "was", "has"],
+        "answer": "are"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A number of students is absent today.",
+            "A number of students are absent today.",
+            "A number of students was absent today.",
+            "A number of students has been absent today."
+        ],
+        "answer": "A number of students are absent today."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'The committee _____ divided in their opinion.'",
+        "options": ["is", "are", "was", "has"],
+        "answer": "are"
+    },
+    {
+        "question": "Identify the correct sentence:",
+        "options": [
+            "Ten kilometers is a long distance.",
+            "Ten kilometers are a long distance.",
+            "Ten kilometers have a long distance.",
+            "Ten kilometers were a long distance."
+        ],
+        "answer": "Ten kilometers is a long distance."
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "The news is very interesting.",
+            "The news are very interesting.",
+            "The news were very interesting.",
+            "The news have been very interesting."
+        ],
+        "answer": "The news is very interesting."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Everybody _____ to the meeting on time.'",
+        "options": ["come", "comes", "came", "coming"],
+        "answer": "comes"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "The teacher, along with the students, are going on a trip.",
+            "The teacher, along with the students, is going on a trip.",
+            "The teacher, along with the students, have going on a trip.",
+            "The teacher, along with the students, were going on a trip."
+        ],
+        "answer": "The teacher, along with the students, is going on a trip."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Either the manager or the employees _____ responsible for this error.'",
+        "options": ["is", "are", "were", "have"],
+        "answer": "are"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "Twenty rupees is not enough to buy this book.",
+            "Twenty rupees are not enough to buy this book.",
+            "Twenty rupees were not enough to buy this book.",
+            "Twenty rupees have been not enough to buy this book."
+        ],
+        "answer": "Twenty rupees is not enough to buy this book."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'Each of the boys _____ a prize.'",
+        "options": ["win", "wins", "were winning", "have won"],
+        "answer": "wins"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "The quality of the apples is good.",
+            "The quality of the apples are good.",
+            "The quality of the apples were good.",
+            "The quality of the apples have been good."
+        ],
+        "answer": "The quality of the apples is good."
+    },
+    {
+        "question": "Which sentence has correct subject-verb agreement?",
+        "options": [
+            "There is many problems in this project.",
+            "There are many problems in this project.",
+            "There was many problems in this project.",
+            "There has many problems in this project."
+        ],
+        "answer": "There are many problems in this project."
+    },
+    {
+        "question": "Which verb correctly completes the sentence? 'The majority of the audience _____ happy with the performance.'",
+        "options": ["is", "are", "were", "have"],
+        "answer": "is"
+    }
+]
