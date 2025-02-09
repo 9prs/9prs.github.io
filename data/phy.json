@@ -1,0 +1,297 @@
+[
+    {
+        "question": "Which physical quantity is defined as the distance covered per unit time?",
+        "options": ["Velocity", "Speed", "Acceleration", "Displacement"],
+        "answer": "Speed"
+    },
+    {
+        "question": "What does the slope of a distance-time graph represent?",
+        "options": ["Speed", "Acceleration", "Displacement", "Velocity"],
+        "answer": "Speed"
+    },
+    {
+        "question": "A car moves with a uniform speed of 20 m/s. How much distance will it cover in 5 seconds?",
+        "options": ["50 m", "100 m", "200 m", "150 m"],
+        "answer": "100 m"
+    },
+    {
+        "question": "The area under a velocity-time graph represents which physical quantity?",
+        "options": ["Velocity", "Acceleration", "Displacement", "Force"],
+        "answer": "Displacement"
+    },
+    {
+        "question": "A body is said to be in uniform motion when it moves with...",
+        "options": ["Constant acceleration", "Changing velocity", "Constant speed", "Decreasing speed"],
+        "answer": "Constant speed"
+    },
+    {
+        "question": "Which of the following is a vector quantity?",
+        "options": ["Speed", "Distance", "Velocity", "Time"],
+        "answer": "Velocity"
+    },
+    {
+        "question": "A train starting from rest attains a speed of 30 m/s in 10 s. What is its acceleration?",
+        "options": ["3 m/s²", "5 m/s²", "2 m/s²", "6 m/s²"],
+        "answer": "3 m/s²"
+    },
+    {
+        "question": "A freely falling object under gravity has...",
+        "options": ["Decreasing velocity", "Constant velocity", "Uniform acceleration", "Zero acceleration"],
+        "answer": "Uniform acceleration"
+    },
+    {
+        "question": "Newton’s first law of motion is also known as...",
+        "options": ["Law of Acceleration", "Law of Inertia", "Law of Force", "Law of Momentum"],
+        "answer": "Law of Inertia"
+    },
+    {
+        "question": "The SI unit of force is...",
+        "options": ["Newton", "Joule", "Watt", "Dyne"],
+        "answer": "Newton"
+    },
+    {
+        "question": "What will be the acceleration of a body if the net force acting on it is zero?",
+        "options": ["Zero", "Infinity", "Constant", "Variable"],
+        "answer": "Zero"
+    },
+    {
+        "question": "The second law of motion states that force is equal to...",
+        "options": ["Mass × Acceleration", "Velocity × Time", "Mass × Speed", "Displacement × Time"],
+        "answer": "Mass × Acceleration"
+    },
+    {
+        "question": "A ball of mass 500 g is moving with a velocity of 10 m/s. What is its momentum?",
+        "options": ["5 kg·m/s", "50 kg·m/s", "500 kg·m/s", "0.5 kg·m/s"],
+        "answer": "5 kg·m/s"
+    },
+    {
+        "question": "A force of 10 N acts on a body of mass 2 kg. What is its acceleration?",
+        "options": ["20 m/s²", "5 m/s²", "10 m/s²", "2 m/s²"],
+        "answer": "5 m/s²"
+    },
+    {
+        "question": "When a force is applied on an object, it can...",
+        "options": ["Change its shape", "Change its speed", "Change its direction", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "A person standing in a moving bus falls backward when the bus starts suddenly due to...",
+        "options": ["Law of Inertia", "Newton’s Third Law", "Law of Conservation of Momentum", "Law of Energy"],
+        "answer": "Law of Inertia"
+    },
+    {
+        "question": "The SI unit of momentum is...",
+        "options": ["Newton", "Joule", "kg·m/s", "Watt"],
+        "answer": "kg·m/s"
+    },
+    {
+        "question": "Action and reaction forces...",
+        "options": ["Act on the same body", "Act on different bodies", "Cancel each other", "Have different magnitudes"],
+        "answer": "Act on different bodies"
+    },
+    {
+        "question": "Which law states that every action has an equal and opposite reaction?",
+        "options": ["First Law", "Second Law", "Third Law", "Law of Gravitation"],
+        "answer": "Third Law"
+    },
+    {
+        "question": "A 10 kg object is moving with a velocity of 2 m/s. Its momentum is...",
+        "options": ["5 kg·m/s", "20 kg·m/s", "10 kg·m/s", "40 kg·m/s"],
+        "answer": "20 kg·m/s"
+    },
+    {
+        "question": "A driver applies brakes and the car stops after covering some distance due to...",
+        "options": ["Acceleration", "Momentum", "Friction", "Inertia"],
+        "answer": "Friction"
+    },
+    {
+        "question": "Which of the following is not an effect of force?",
+        "options": ["Can change speed", "Can change direction", "Can create energy", "Can change shape"],
+        "answer": "Can create energy"
+    },
+    {
+        "question": "Which of the following has the greatest inertia?",
+        "options": ["A pen", "A car", "A truck", "A book"],
+        "answer": "A truck"
+    },
+    {
+        "question": "The recoil of a gun is an example of which law of motion?",
+        "options": ["First Law", "Second Law", "Third Law", "Law of Inertia"],
+        "answer": "Third Law"
+    },
+    {
+        "question": "If no external force is applied to a moving object, it will...",
+        "options": ["Come to rest", "Keep moving with constant velocity", "Move with increasing acceleration", "Stop immediately"],
+        "answer": "Keep moving with constant velocity"
+    },
+    {
+        "question": "What is the SI unit of gravitational force?",
+        "options": ["Newton", "Joule", "Watt", "Kilogram"],
+        "answer": "Newton"
+    },
+    {
+        "question": "The value of acceleration due to gravity (g) on Earth is approximately...",
+        "options": ["9.8 m/s²", "6.67 m/s²", "10.8 m/s²", "4.9 m/s²"],
+        "answer": "9.8 m/s²"
+    },
+    {
+        "question": "Which scientist formulated the Universal Law of Gravitation?",
+        "options": ["Galileo Galilei", "Albert Einstein", "Isaac Newton", "Johannes Kepler"],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "The force of gravity between two objects depends on...",
+        "options": ["Their masses", "The distance between them", "Both mass and distance", "Only Earth's gravity"],
+        "answer": "Both mass and distance"
+    },
+    {
+        "question": "If the mass of an object is doubled, its weight will...",
+        "options": ["Become half", "Remain the same", "Become double", "Become one-fourth"],
+        "answer": "Become double"
+    },
+    {
+        "question": "What happens to the weight of an object as it moves away from the Earth's surface?",
+        "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+        "answer": "Decreases"
+    },
+    {
+        "question": "The force that keeps planets in orbit around the Sun is...",
+        "options": ["Electromagnetic force", "Nuclear force", "Gravitational force", "Frictional force"],
+        "answer": "Gravitational force"
+    },
+    {
+        "question": "What is the SI unit of work?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "Joule"
+    },
+    {
+        "question": "Work is said to be done when...",
+        "options": ["Force is applied", "There is motion in the direction of force", "Energy is stored", "Friction acts on a body"],
+        "answer": "There is motion in the direction of force"
+    },
+    {
+        "question": "A boy pushes a wall but fails to move it. The work done is...",
+        "options": ["Zero", "Infinite", "Positive", "Negative"],
+        "answer": "Zero"
+    },
+    {
+        "question": "Which of the following is a scalar quantity?",
+        "options": ["Work", "Force", "Momentum", "Velocity"],
+        "answer": "Work"
+    },
+    {
+        "question": "A man carries a bag in his hand while walking on a horizontal road. The work done on the bag is...",
+        "options": ["Positive", "Negative", "Zero", "Infinite"],
+        "answer": "Zero"
+    },
+    {
+        "question": "If the force and displacement are in opposite directions, the work done is...",
+        "options": ["Positive", "Negative", "Zero", "Infinite"],
+        "answer": "Negative"
+    },
+    {
+        "question": "The work done by gravity on a freely falling object is...",
+        "options": ["Positive", "Negative", "Zero", "Infinite"],
+        "answer": "Positive"
+    },
+    {
+        "question": "The energy possessed by a body due to its motion is called...",
+        "options": ["Potential energy", "Kinetic energy", "Thermal energy", "Chemical energy"],
+        "answer": "Kinetic energy"
+    },
+    {
+        "question": "A body of mass 5 kg is moving with a velocity of 2 m/s. Its kinetic energy is...",
+        "options": ["5 J", "10 J", "15 J", "20 J"],
+        "answer": "10 J"
+    },
+    {
+        "question": "The energy stored in a stretched rubber band is an example of...",
+        "options": ["Kinetic energy", "Chemical energy", "Potential energy", "Nuclear energy"],
+        "answer": "Potential energy"
+    },
+    {
+        "question": "Which type of energy transformation occurs in hydroelectric power plants?",
+        "options": ["Kinetic to Electrical", "Chemical to Thermal", "Potential to Electrical", "Nuclear to Electrical"],
+        "answer": "Potential to Electrical"
+    },
+    {
+        "question": "The work done by a force is maximum when the angle between force and displacement is...",
+        "options": ["0°", "45°", "90°", "180°"],
+        "answer": "0°"
+    },
+    {
+        "question": "A 2 kg object is lifted to a height of 5 m. The potential energy gained by the object is...",
+        "options": ["98 J", "100 J", "10 J", "50 J"],
+        "answer": "98 J"
+    },
+    {
+        "question": "Which of the following is not a form of mechanical energy?",
+        "options": ["Kinetic energy", "Potential energy", "Chemical energy", "Elastic energy"],
+        "answer": "Chemical energy"
+    },
+    {
+        "question": "The power of a machine is defined as...",
+        "options": ["Work done per unit time", "Force per unit time", "Energy per unit force", "Energy per unit displacement"],
+        "answer": "Work done per unit time"
+    },
+    {
+        "question": "The SI unit of power is...",
+        "options": ["Joule", "Newton", "Watt", "Pascal"],
+        "answer": "Watt"
+    },
+    {
+        "question": "A person does 200 J of work in 10 seconds. The power exerted is...",
+        "options": ["2 W", "20 W", "2000 W", "200 W"],
+        "answer": "20 W"
+    },
+    {
+        "question": "What is the SI unit of frequency?",
+        "options": ["Hertz", "Decibel", "Newton", "Joule"],
+        "answer": "Hertz"
+    },
+    {
+        "question": "Sound waves travel fastest in...",
+        "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+        "answer": "Solids"
+    },
+    {
+        "question": "Which of the following can produce sound?",
+        "options": ["A vibrating object", "A stationary object", "A moving car", "Light"],
+        "answer": "A vibrating object"
+    },
+    {
+        "question": "The time taken by a wave to complete one oscillation is called...",
+        "options": ["Wavelength", "Frequency", "Amplitude", "Time period"],
+        "answer": "Time period"
+    },
+    {
+        "question": "If the speed of sound in air is 340 m/s and the frequency of a wave is 170 Hz, what is its wavelength?",
+        "options": ["2 m", "5 m", "10 m", "20 m"],
+        "answer": "2 m"
+    },
+    {
+        "question": "The pitch of a sound depends on its...",
+        "options": ["Frequency", "Amplitude", "Speed", "Wavelength"],
+        "answer": "Frequency"
+    },
+    {
+        "question": "Which of the following phenomena is responsible for the working of a sonar?",
+        "options": ["Reflection", "Refraction", "Interference", "Diffraction"],
+        "answer": "Reflection"
+    },
+    {
+        "question": "A sound wave has a frequency of 500 Hz and a wavelength of 0.68 m. What is its speed?",
+        "options": ["340 m/s", "300 m/s", "500 m/s", "250 m/s"],
+        "answer": "340 m/s"
+    },
+    {
+        "question": "Which of the following cannot transmit sound?",
+        "options": ["Water", "Air", "Steel", "Vacuum"],
+        "answer": "Vacuum"
+    },
+    {
+        "question": "Which part of the human ear helps in maintaining balance?",
+        "options": ["Cochlea", "Eardrum", "Semicircular canals", "Auditory nerve"],
+        "answer": "Semicircular canals"
+    }
+]
