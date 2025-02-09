@@ -1,0 +1,512 @@
+[
+    {
+        "question": "What is the basic structural and functional unit of life?",
+        "options": [
+            "Tissue",
+            "Organ",
+            "Cell",
+            "Organism"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "Who discovered the cell?",
+        "options": [
+            "Robert Brown",
+            "Robert Hooke",
+            "Anton van Leeuwenhoek",
+            "Theodor Schwann"
+        ],
+        "answer": "Robert Hooke"
+    },
+    {
+        "question": "Which organelle is known as the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Endoplasmic Reticulum"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "Which of the following is a double membrane-bound organelle?",
+        "options": [
+            "Lysosome",
+            "Golgi Apparatus",
+            "Mitochondria",
+            "Ribosome"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is the function of ribosomes?",
+        "options": [
+            "Protein synthesis",
+            "Energy production",
+            "Waste removal",
+            "Transport of molecules"
+        ],
+        "answer": "Protein synthesis"
+    },
+    {
+        "question": "Which cell organelle is responsible for photosynthesis?",
+        "options": [
+            "Mitochondria",
+            "Chloroplast",
+            "Nucleus",
+            "Vacuole"
+        ],
+        "answer": "Chloroplast"
+    },
+    {
+        "question": "Which part of the cell controls all its activities?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Cell membrane",
+            "Cytoplasm"
+        ],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "Which component of the cell is selectively permeable?",
+        "options": [
+            "Cell wall",
+            "Cytoplasm",
+            "Cell membrane",
+            "Nucleus"
+        ],
+        "answer": "Cell membrane"
+    },
+    {
+        "question": "Which type of cell lacks a well-defined nucleus?",
+        "options": [
+            "Prokaryotic cell",
+            "Eukaryotic cell",
+            "Animal cell",
+            "Plant cell"
+        ],
+        "answer": "Prokaryotic cell"
+    },
+    {
+        "question": "Which of the following is NOT present in an animal cell?",
+        "options": [
+            "Mitochondria",
+            "Nucleus",
+            "Cell wall",
+            "Ribosome"
+        ],
+        "answer": "Cell wall"
+    },
+    {
+        "question": "What is the primary source of energy for plants?",
+        "options": [
+            "Water",
+            "Sunlight",
+            "Soil",
+            "Fertilizers"
+        ],
+        "answer": "Sunlight"
+    },
+    {
+        "question": "Which nutrient is primarily responsible for plant growth?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Vitamins",
+            "Minerals"
+        ],
+        "answer": "Minerals"
+    },
+    {
+        "question": "Which crop is grown in waterlogged conditions?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Maize",
+            "Bajra"
+        ],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which of the following is NOT a biotic factor affecting crop production?",
+        "options": [
+            "Insects",
+            "Diseases",
+            "Soil texture",
+            "Weeds"
+        ],
+        "answer": "Soil texture"
+    },
+    {
+        "question": "Which method is used to improve the yield of crops?",
+        "options": [
+            "Crop rotation",
+            "Overgrazing",
+            "Deforestation",
+            "Soil erosion"
+        ],
+        "answer": "Crop rotation"
+    },
+    {
+        "question": "Which element is a major component of fertilizers?",
+        "options": [
+            "Iron",
+            "Nitrogen",
+            "Calcium",
+            "Zinc"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which type of crop is grown in winter season?",
+        "options": [
+            "Kharif crop",
+            "Rabi crop",
+            "Zaid crop",
+            "Horticulture crop"
+        ],
+        "answer": "Rabi crop"
+    },
+    {
+        "question": "Which breed of cattle is used for milk production?",
+        "options": [
+            "Jersey",
+            "Red Sindhi",
+            "Murrah",
+            "Pashmina"
+        ],
+        "answer": "Jersey"
+    },
+    {
+        "question": "Which disease in cattle is caused by a virus?",
+        "options": [
+            "Anthrax",
+            "Foot and Mouth Disease",
+            "Tuberculosis",
+            "Rinderpest"
+        ],
+        "answer": "Foot and Mouth Disease"
+    },
+    {
+        "question": "Which fish farming method involves both capture and culture?",
+        "options": [
+            "Mariculture",
+            "Aquaculture",
+            "Inland fishery",
+            "Composite fish culture"
+        ],
+        "answer": "Composite fish culture"
+    },
+    {
+        "question": "Which of the following is a micronutrient for plants?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Zinc",
+            "Potassium"
+        ],
+        "answer": "Zinc"
+    },
+    {
+        "question": "What is apiculture?",
+        "options": [
+            "Silk production",
+            "Bee-keeping",
+            "Fish farming",
+            "Poultry farming"
+        ],
+        "answer": "Bee-keeping"
+    },
+    {
+        "question": "Which vitamin is produced in the human body with sunlight exposure?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "Which part of the plant is modified into a seed?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "answer": "Flower"
+    },
+    {
+        "question": "Which type of tissue is responsible for movement in animals?",
+        "options": [
+            "Epithelial tissue",
+            "Connective tissue",
+            "Muscular tissue",
+            "Nervous tissue"
+        ],
+        "answer": "Muscular tissue"
+    },
+    {
+        "question": "Which plant tissue is responsible for transport of water?",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Parenchyma",
+            "Collenchyma"
+        ],
+        "answer": "Xylem"
+    },
+    {
+        "question": "Which connective tissue connects muscles to bones?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Areolar tissue"
+        ],
+        "answer": "Tendon"
+    },
+    {
+        "question": "Which plant tissue is involved in transport of food?",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Collenchyma",
+            "Sclerenchyma"
+        ],
+        "answer": "Phloem"
+    },
+    {
+        "question": "Which type of muscle is involuntary and found in internal organs?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Striated muscle"
+        ],
+        "answer": "Smooth muscle"
+    },
+    {
+        "question": "Which part of a neuron receives impulses?",
+        "options": [
+            "Axon",
+            "Dendrite",
+            "Cell body",
+            "Synapse"
+        ],
+        "answer": "Dendrite"
+    },
+    {
+        "question": "Which plant tissue provides mechanical support and flexibility?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": "Collenchyma"
+    },
+    {
+        "question": "Which is the hardest connective tissue?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Ligament",
+            "Tendon"
+        ],
+        "answer": "Bone"
+    },
+    {
+        "question": "Which animal phylum includes organisms with jointed legs?",
+        "options": [
+            "Mollusca",
+            "Arthropoda",
+            "Annelida",
+            "Porifera"
+        ],
+        "answer": "Arthropoda"
+    },
+    {
+        "question": "Which kingdom includes unicellular prokaryotic organisms?",
+        "options": [
+            "Plantae",
+            "Animalia",
+            "Monera",
+            "Protista"
+        ],
+        "answer": "Monera"
+    },
+    {
+        "question": "Which animal phylum includes soft-bodied animals with a shell?",
+        "options": [
+            "Echinodermata",
+            "Mollusca",
+            "Cnidaria",
+            "Chordata"
+        ],
+        "answer": "Mollusca"
+    },
+    {
+        "question": "Which class of vertebrates has dry, scaly skin and lays eggs?",
+        "options": [
+            "Amphibia",
+            "Reptilia",
+            "Aves",
+            "Mammalia"
+        ],
+        "answer": "Reptilia"
+    },
+    {
+        "question": "Which phylum includes organisms with radial symmetry and tentacles?",
+        "options": [
+            "Arthropoda",
+            "Echinodermata",
+            "Cnidaria",
+            "Annelida"
+        ],
+        "answer": "Cnidaria"
+    },
+    {
+        "question": "Which group of vertebrates has a four-chambered heart and feathers?",
+        "options": [
+            "Reptilia",
+            "Aves",
+            "Amphibia",
+            "Pisces"
+        ],
+        "answer": "Aves"
+    },
+    {
+        "question": "Which animal group is known for external fertilization and moist skin?",
+        "options": [
+            "Reptilia",
+            "Amphibia",
+            "Aves",
+            "Mammalia"
+        ],
+        "answer": "Amphibia"
+    },
+    {
+        "question": "Which type of plant tissue is responsible for photosynthesis?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Phloem"
+        ],
+        "answer": "Parenchyma"
+    },
+    {
+        "question": "Which phylum consists of spiny-skinned marine animals?",
+        "options": [
+            "Porifera",
+            "Cnidaria",
+            "Echinodermata",
+            "Mollusca"
+        ],
+        "answer": "Echinodermata"
+    },
+    {
+        "question": "Which class of vertebrates gives birth to live young?",
+        "options": [
+            "Reptilia",
+            "Amphibia",
+            "Aves",
+            "Mammalia"
+        ],
+        "answer": "Mammalia"
+    },
+    {
+        "question": "Which animal phylum lacks a true body cavity?",
+        "options": [
+            "Porifera",
+            "Annelida",
+            "Mollusca",
+            "Chordata"
+        ],
+        "answer": "Porifera"
+    },
+    {
+        "question": "Which type of epithelial tissue is found in blood vessels?",
+        "options": [
+            "Squamous epithelium",
+            "Cuboidal epithelium",
+            "Columnar epithelium",
+            "Ciliated epithelium"
+        ],
+        "answer": "Squamous epithelium"
+    },
+    {
+        "question": "Which class of plants lacks seeds and reproduces via spores?",
+        "options": [
+            "Angiosperms",
+            "Gymnosperms",
+            "Bryophytes",
+            "Pteridophytes"
+        ],
+        "answer": "Pteridophytes"
+    },
+    {
+        "question": "Which plant tissue is involved in providing structural strength?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Phloem"
+        ],
+        "answer": "Sclerenchyma"
+    },
+    {
+        "question": "Which is the largest animal phylum?",
+        "options": [
+            "Mollusca",
+            "Arthropoda",
+            "Echinodermata",
+            "Chordata"
+        ],
+        "answer": "Arthropoda"
+    },
+    {
+        "question": "Which connective tissue is also known as the fat storing tissue?",
+        "options": [
+            "Areolar tissue",
+            "Adipose tissue",
+            "Tendons",
+            "Ligaments"
+        ],
+        "answer": "Adipose tissue"
+    },
+    {
+        "question": "What is a nerve cell called?",
+        "options": [
+            "Osteocytes",
+            "Leucocytes",
+            "Monocytes",
+            "Neurons"
+        ],
+        "answer": "Neurons"
+    },
+    {
+        "question": "What is a bone cell called?",
+        "options": [
+            "Osteocytes",
+            "Leucocytes",
+            "Monocytes",
+            "Neurons"
+        ],
+        "answer": "Osteocytes"
+    },
+    {
+        "question": "What is the another name for blood cancer?",
+        "options": [
+            "Leukemia",
+            "Leukopenia",
+            "Leucocytosis",
+            "NONE"
+        ],
+        "answer": "leukemia"
+    }
+]
