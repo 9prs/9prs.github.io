@@ -16,3 +16,73 @@ Keep it interactive, positive, and concise. You have to make it very much exitin
     const response = await result.response;
     return ai_remarks = await response.text();
 }
+
+let input = document.querySelector('.prompt input');
+let prompt_field = document.querySelector('.prompt')
+let send = document.querySelector('.prompt button');
+let final_response = document.querySelector('.response');
+let copy = document.querySelector('.copy')
+
+
+prompt_field.addEventListener('click', function () {
+    input.focus()
+})
+
+async function rudraAIResponse() {
+    let request;
+    if (input.value.trim() === "") {
+        alert('Empty Prompt! Please fill it to get response.')
+    } else {
+        request = input.value;
+        const genAI = new GoogleGenerativeAI(API_KEY);
+
+        async function run() {
+            const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+            const prompt = 'Imagine you are an ai mentor developed by Piyush Mishra, the founder of PRS Initiative for the students of 9. Your name is RudraAI and this is the student"s prompt to you: ' + request + '? . If the prompt is a question then answer it and if it is a normal talk than talk to him like a friend. Keep it minimalistic and in high spirits...';
+            const result = await model.generateContent(prompt);
+            const response = await result.response;
+            const text = await response.text();
+            console.log('Result:', result);
+            console.log('Text:', text);
+            console.log('Copy Element:', copy);
+
+            copy.style.display = 'flex';
+            final_response.innerHTML = text;
+        }
+        run()
+    }
+}
+
+send.addEventListener('click', rudraAIResponse);
+input.addEventListener('keydown', function (e) {
+    if (e.key == "Enter") {
+        rudraAIResponse();
+    }
+})
+
+copy.addEventListener('click', function () {
+    let copied_text = final_response.innerText
+    navigator.clipboard.writeText(copied_text)
+    alert('Text Copied!')
+})
+
+document.querySelector('.ai .icon').addEventListener("click", function () {
+    setTimeout(() => {
+        document.querySelector('.ai-active').style.display = 'flex'
+    }, 400);
+    document.querySelector('.ai-wrapper').style.transform = 'translateX(-100vw)';
+})
+
+document.querySelector('.ai-active').addEventListener('click', function () {
+    if (getComputedStyle(document.querySelector('.about')).transform == "matrix(1, 0, 0, 1, 0, 0)") {
+        document.querySelector('.about').style.transform = 'translateX(100%)';
+        document.querySelector('.wrapper').style.maxHeight = '100vh';
+        document.querySelector('#home').style.maxHeight = '100vh';
+    }
+    setTimeout(() => {
+        document.querySelector('.ai-wrapper').style.transform = 'translateX(0vw)';
+    }, 200);
+    setTimeout(() => {
+        document.querySelector('.ai-active').style.display = 'none'
+    }, 400);
+})
