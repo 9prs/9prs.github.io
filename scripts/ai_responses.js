@@ -6,7 +6,7 @@ export let ai_remarks;
 export async function aiGeneratingRemarks() {
     const genAI = new GoogleGenerativeAI(API_KEY);
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-    const prompt = `You're a judge in a mock exam fest. Based on ${percentage}%, generate a short (max 3 lines) motivational remark with emojis. here are some examples of what kind of remarks you have to write:  
+    const prompt = `You're a judge in a mock exam fest. Based on ${percentage}%, generate a short (max 5 lines) motivational remark with emojis. here are some examples of what kind of remarks you have to write:  
 ✔ 95%+ – "Genius! 🏆 Shine like a star 🌟 and ace the real test! 🚀"  
 ✔ 80-90% – "On fire! 🔥 Great effort, keep pushing! 🎯 Good luck! 🍀"  
 ✔ 60-79% – "Solid! 💪 A bit more grind and you'll be unstoppable! 🏅"  
