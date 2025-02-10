@@ -42,13 +42,17 @@ const loggingQuestions = async () => {
     }
     if (questionNum < askedQuestions.length) {
         let question = askedQuestions[questionNum];
+
+        question.options = shuffleArrays(question.options);
+
         questionDiv.textContent = `${questionNum + 1}. ${question.question}`;
         optionsArr.forEach((val, index) => {
             val.querySelector('.txt').textContent = question.options[index];
         });
         questionNum++;
     }
-}
+};
+
 
 const renderAnsweredQuestion = () => {
     optionsArr.forEach(val => {
