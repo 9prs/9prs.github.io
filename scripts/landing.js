@@ -68,7 +68,7 @@ setTimeout(()=>{
             app();
         })
         
-},3100)
+},100)
 
 $(document).ready(function () {
     var owl = $(".carousel-founders");
