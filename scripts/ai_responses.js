@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { percentage } from "./submission.js";
-const API_KEY = "AIzaSyDJt7xTCqcTBtnhDyhDIQluSbh31jGj_6c";
+const API_KEY = "";
 export let ai_remarks;
 
 export async function aiGeneratingRemarks() {
