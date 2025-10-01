@@ -37,7 +37,7 @@ async function rudraAIResponse() {
         const genAI = new GoogleGenerativeAI(API_KEY);
 
         async function run() {
-            const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+            const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
             const prompt = 'Imagine you are an ai mentor developed by Piyush Mishra, the founder of PRS Initiative for the students of 9. Your name is RudraAI and this is the student"s prompt to you: ' + request + '? . If the prompt is a question then answer it and if it is a normal talk than talk to him like a friend. Keep it minimalistic and in high spirits...';
             const result = await model.generateContent(prompt);
             const response = await result.response;
